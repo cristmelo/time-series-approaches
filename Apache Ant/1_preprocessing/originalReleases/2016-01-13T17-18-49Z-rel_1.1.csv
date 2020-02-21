@@ -1,0 +1,1020 @@
+Kind,Name,File,AvgCyclomatic,AvgCyclomaticModified,AvgCyclomaticStrict,AvgEssential,AvgLine,AvgLineBlank,AvgLineCode,AvgLineComment,CountClassBase,CountClassCoupled,CountClassCoupledModified,CountClassDerived,CountDeclClass,CountDeclClassMethod,CountDeclClassVariable,CountDeclExecutableUnit,CountDeclFile,CountDeclFunction,CountDeclInstanceMethod,CountDeclInstanceVariable,CountDeclMethod,CountDeclMethodAll,CountDeclMethodDefault,CountDeclMethodPrivate,CountDeclMethodProtected,CountDeclMethodPublic,CountInput,CountLine,CountLineBlank,CountLineBlank_Html,CountLineBlank_Javascript,CountLineBlank_Php,CountLineCode,CountLineCodeDecl,CountLineCodeExe,CountLineCode_Javascript,CountLineCode_Php,CountLineComment,CountLineComment_Html,CountLineComment_Javascript,CountLineComment_Php,CountLine_Html,CountLine_Javascript,CountLine_Php,CountOutput,CountPath,CountPathLog,CountSemicolon,CountStmt,CountStmtDecl,CountStmtDecl_Javascript,CountStmtDecl_Php,CountStmtExe,CountStmtExe_Javascript,CountStmtExe_Php,Cyclomatic,CyclomaticModified,CyclomaticStrict,Essential,Knots,MaxCyclomatic,MaxCyclomaticModified,MaxCyclomaticStrict,MaxEssential,MaxEssentialKnots,MaxInheritanceTree,MaxNesting,MinEssentialKnots,PercentLackOfCohesion,PercentLackOfCohesionModified,RatioCommentToCode,SumCyclomatic,SumCyclomaticModified,SumCyclomaticStrict,SumEssential
+File,"AllJUnitTests.java",AllJUnitTests.java,1,1,1,1,4,0,4,0,,,,,1,1,0,2,,2,1,0,2,,0,0,0,2,,78,5,,,,15,8,5,,,58,,,,,,,,,,9,12,8,,,4,,,,,,,,1,1,1,1,,,0,,,,3,87,2,2,2,2
+File,"Ant.java",Ant.java,2,2,2,1,11,1,9,0,,,,,1,0,0,7,,7,7,6,7,,0,0,0,7,,179,22,,,,78,31,49,,,79,,,,,,,,,,48,65,32,,,33,,,,,,,,6,6,6,1,,,2,,,,1,01,16,16,16,7
+File,"AntStructure.java",AntStructure.java,2,2,2,1,21,3,14,4,,,,,1,0,0,2,,2,2,3,2,,0,0,0,2,,126,17,,,,42,19,23,,,67,,,,,,,,,,26,30,16,,,14,,,,,,,,4,4,4,1,,,2,,,,1,60,5,5,5,2
+File,"Available.java",Available.java,1,1,1,1,5,0,5,0,,,,,1,0,0,9,,9,9,4,9,,0,3,0,6,,128,15,,,,55,19,25,,,58,,,,,,,,,,27,42,19,,,23,,,,,,,,4,4,7,4,,,1,,,,1,05,14,14,17,12
+File,"BuildEvent.java",BuildEvent.java,1,1,1,1,8,0,3,4,,,,,1,0,0,11,,11,11,6,11,,0,0,0,11,,166,16,,,,53,20,22,,,97,,,,,,,,,,29,41,20,,,21,,,,,,,,1,1,1,1,,,0,,,,1,83,11,11,11,11
+File,"BuildException.java",BuildException.java,1,1,1,1,7,0,3,4,,,,,1,0,0,10,,10,10,2,10,,0,0,0,10,,162,21,,,,39,14,15,,,102,,,,,,,,,,17,28,14,,,14,,,,,,,,1,1,1,1,,,0,,,,2,62,10,10,10,10
+File,"BuildListener.java",BuildListener.java,0,0,0,0,0,0,0,0,,,,,1,0,0,0,,7,7,0,7,,0,0,0,7,,119,11,,,,11,10,0,,,97,,,,,,,,,,9,10,10,,,0,,,,,,,,0,0,0,0,,,0,,,,8,82,0,0,0,0
+File,"Chmod.java",Chmod.java,2,2,2,1,7,0,6,0,,,,,1,0,0,6,,6,6,3,6,,0,1,0,5,,125,16,,,,48,16,23,,,63,,,,,,,,,,22,35,17,,,18,,,,,,,,7,7,11,1,,,4,,,,1,31,12,12,16,6
+File,"CompileTask.java",CompileTask.java,1,1,1,1,12,1,7,4,,,,,1,0,0,3,,3,3,1,3,,0,0,0,3,,112,13,,,,27,13,14,,,72,,,,,,,,,,19,23,15,,,8,,,,,,,,3,3,3,1,,,1,,,,2,67,5,5,5,3
+File,"Copydir.java",Copydir.java,1,1,1,1,8,0,8,0,,,,,1,0,0,5,,5,5,5,5,,0,0,0,5,,126,15,,,,53,21,30,,,58,,,,,,,,,,25,33,19,,,14,,,,,,,,5,5,5,1,,,2,,,,1,09,9,9,9,5
+File,"Copyfile.java",Copyfile.java,1,1,1,1,5,0,5,0,,,,,1,0,0,4,,4,4,3,4,,0,0,0,4,,97,10,,,,29,14,11,,,58,,,,,,,,,,13,20,13,,,7,,,,,,,,3,3,3,1,,,2,,,,2,00,6,6,6,4
+File,"Cvs.java",Cvs.java,2,2,2,1,7,1,5,0,,,,,1,0,0,9,,9,9,7,9,,0,0,0,9,,154,26,,,,64,21,33,,,64,,,,,,,,,,29,48,21,,,27,,,,,,,,7,7,7,1,,,2,,,,1,00,20,20,21,9
+File,"DDCreator.java",DDCreator.java,2,2,2,1,17,1,8,7,,,,,1,0,0,4,,4,4,3,4,,0,0,0,4,,162,14,,,,44,18,23,,,104,,,,,,,,,,26,35,19,,,16,,,,,,,,5,5,5,1,,,1,,,,2,36,8,8,8,4
+File,"DDCreatorHelper.java",DDCreatorHelper.java,2,2,3,1,21,1,14,6,,,,,1,1,0,3,,3,2,3,3,,0,2,0,1,,149,10,,,,50,23,30,,,89,,,,,,,,,,27,36,20,,,16,,,,,,,,5,5,6,1,,,3,,,,1,78,8,8,9,3
+File,"DefaultLogger.java",DefaultLogger.java,1,1,1,1,9,1,6,1,,,,,1,1,1,9,,9,8,3,9,,0,1,0,8,,162,25,,,,67,22,34,,,70,,,,,,,,,,29,47,23,,,24,,,,,,,,4,4,4,1,,,3,,,,1,04,17,17,17,9
+File,"Delete.java",Delete.java,4,4,4,1,20,2,12,5,,,,,1,0,0,4,,4,4,3,4,,0,0,0,4,,156,17,,,,58,14,33,,,81,,,,,,,,,,24,41,15,,,26,,,,,,,,12,12,13,1,,,4,,,,1,40,16,16,18,4
+File,"Deltree.java",Deltree.java,3,3,3,1,16,1,12,3,,,,,1,0,0,3,,3,3,1,3,,0,1,0,2,,122,12,,,,43,12,23,,,67,,,,,,,,,,19,31,13,,,18,,,,,,,,5,5,5,3,,,3,,,,1,56,11,11,11,5
+File,"DesirableFilter.java",DesirableFilter.java,6,6,8,6,40,7,18,15,,,,,1,0,0,1,,1,1,0,1,,0,0,0,1,,118,20,,,,24,6,11,,,74,,,,,,,,,,10,17,6,,,11,,,,,,,,6,6,8,6,,,1,,,,3,08,6,6,8,6
+File,"DirectoryScanner.java",DirectoryScanner.java,5,5,5,3,29,1,19,9,,,,,1,2,1,19,,19,17,9,19,,0,5,0,14,,827,97,,,,393,85,253,,,343,,,,,,,,,,223,326,105,,,221,,,,,,,,28,28,35,28,,,4,,,,0,87,103,103,113,74
+File,"Echo.java",Echo.java,1,1,1,1,8,0,3,5,,,,,1,0,0,2,,2,2,1,2,,0,0,0,2,,85,4,,,,13,8,2,,,69,,,,,,,,,,7,10,8,,,2,,,,,,,,1,1,1,1,,,0,,,,5,31,2,2,2,2
+File,"EjbJar.java",EjbJar.java,2,2,2,1,27,2,15,9,,,,,2,0,8,16,,16,16,9,16,,0,0,1,15,,645,84,,,,290,110,198,,,274,,,,,,,,,,161,199,99,,,100,,,,,,,,16,16,17,1,,,4,,,,0,94,41,41,45,16
+File,"Ejbc.java",Ejbc.java,1,1,1,1,15,0,8,6,,,,,1,0,0,6,,6,6,5,6,,0,0,0,6,,200,21,,,,61,23,33,,,118,,,,,,,,,,35,47,23,,,24,,,,,,,,6,6,6,1,,,1,,,,1,93,11,11,11,6
+File,"EjbcHelper.java",EjbcHelper.java,3,3,4,1,33,2,21,9,,,,,1,1,0,5,,5,4,6,5,,0,4,0,1,,278,27,,,,125,52,78,,,126,,,,,,,,,,72,90,46,,,44,,,,,,,,10,10,15,5,,,2,,,,1,01,18,18,23,9
+File,"EnumeratedAttribute.java",EnumeratedAttribute.java,2,2,2,1,8,0,5,2,,,,,1,0,0,4,,5,5,1,5,,0,0,0,5,,112,9,,,,27,9,11,,,76,,,,,,,,,,12,21,10,,,11,,,,,,,,4,4,5,4,,,2,,,,2,81,8,8,9,7
+File,"EnumeratedAttributeTest.java",EnumeratedAttributeTest.java,2,2,2,1,8,0,8,0,,,,,3,0,1,5,,5,5,0,5,,0,0,0,5,,122,10,,,,54,14,30,,,58,,,,,,,,,,24,35,16,,,19,,,,,,,,6,6,6,1,,,2,,,,1,07,11,11,11,5
+File,"Exec.java",Exec.java,2,2,2,1,11,1,9,0,,,,,2,0,1,12,,12,12,11,12,,0,0,3,9,,240,33,,,,136,44,81,,,72,,,,,,,,,,68,99,40,,,59,,,,,,,,13,13,14,1,,,4,,,,0,53,31,31,32,12
+File,"Expand.java",Expand.java,4,4,4,1,28,3,19,6,,,,,1,0,0,3,,3,3,2,3,,0,0,0,3,,159,16,,,,65,20,42,,,80,,,,,,,,,,34,47,20,,,27,,,,,,,,10,10,10,1,,,5,,,,1,23,12,12,12,3
+File,"Filter.java",Filter.java,1,1,1,1,3,0,3,0,,,,,1,0,0,3,,3,3,2,3,,0,0,0,3,,81,7,,,,15,8,3,,,59,,,,,,,,,,7,11,8,,,3,,,,,,,,1,1,1,1,,,0,,,,3,93,3,3,3,3
+File,"FixCRLF.java",FixCRLF.java,6,6,7,1,29,2,19,9,,,,,2,0,0,9,,9,9,6,9,,0,0,0,9,,384,37,,,,188,44,135,,,171,,,,,,,,,,104,153,47,,,106,,,,,,,,42,39,47,1,,,5,,,,0,91,58,55,64,9
+File,"GUnzip.java",GUnzip.java,5,5,5,1,22,2,20,0,,,,,1,0,0,3,,3,3,2,3,,0,0,0,3,,143,15,,,,68,17,44,,,60,,,,,,,,,,30,46,17,,,29,,,,,,,,14,14,15,1,,,3,,,,0,88,16,16,17,3
+File,"GZip.java",GZip.java,2,2,2,1,10,0,9,0,,,,,1,0,0,5,,5,5,2,5,,0,2,0,3,,130,13,,,,56,19,29,,,61,,,,,,,,,,24,35,17,,,18,,,,,,,,5,5,5,1,,,2,,,,1,09,10,10,10,5
+File,"Get.java",Get.java,3,3,3,2,16,1,10,5,,,,,1,0,0,5,,5,5,4,5,,0,0,0,5,,157,12,,,,62,20,37,,,85,,,,,,,,,,37,53,21,,,32,,,,,,,,11,11,11,7,,,3,,,,1,37,15,15,15,11
+File,"IntrospectionHelper.java",IntrospectionHelper.java,2,2,3,1,17,1,14,1,,,,,18,1,1,27,,29,28,6,29,,0,3,0,26,,510,61,,,,320,72,230,,,129,,,,,,,,,,116,182,71,,,111,,,,,,,,14,14,29,14,,,2,,,,0,40,67,67,89,45
+File,"IntrospectionHelperTest.java",IntrospectionHelperTest.java,4,4,4,1,24,1,23,0,,,,,1,0,0,5,,5,5,1,5,,0,0,0,5,,201,15,,,,128,21,91,,,58,,,,,,,,,,65,82,18,,,64,,,,,,,,14,14,14,1,,,1,,,,0,45,20,20,20,5
+File,"Jar.java",Jar.java,1,1,1,1,9,0,7,2,,,,,1,0,0,5,,5,5,1,5,,0,0,3,2,,123,11,,,,42,16,16,,,70,,,,,,,,,,16,26,13,,,13,,,,,,,,3,3,3,1,,,2,,,,1,67,9,9,9,5
+File,"Java.java",Java.java,2,2,2,1,12,0,8,3,,,,,1,0,0,12,,12,12,5,12,,0,0,3,9,,241,25,,,,115,33,73,,,101,,,,,,,,,,59,85,34,,,51,,,,,,,,7,7,7,1,,,2,,,,0,88,28,28,28,12
+File,"Javac.java",Javac.java,2,2,2,1,13,0,8,3,,,,,1,0,1,15,,15,15,12,15,,0,0,0,15,,333,38,,,,154,45,90,,,141,,,,,,,,,,69,104,43,,,61,,,,,,,,14,14,14,1,,,2,,,,0,92,36,36,36,15
+File,"JavacOutputStream.java",JavacOutputStream.java,1,1,2,1,10,0,6,4,,,,,1,0,0,4,,4,4,3,4,,2,1,0,1,,125,14,,,,33,13,15,,,78,,,,,,,,,,16,24,13,,,11,,,,,,,,3,3,4,1,,,2,,,,2,36,7,7,8,4
+File,"Javadoc.java",Javadoc.java,2,2,2,1,9,0,8,0,,,,,6,0,0,84,,84,84,57,84,,0,5,2,77,,989,98,,,,759,195,469,,,132,,,,,,,,,,364,572,203,,,369,,,,,,,,71,71,78,11,,,5,,,,0,17,205,205,216,107
+File,"Jikes.java",Jikes.java,1,1,1,1,15,0,8,6,,,,,1,0,0,2,,2,2,2,2,,0,0,2,0,,47,5,,,,24,11,12,,,18,,,,,,,,,,15,19,11,,,8,,,,,,,,2,2,2,1,,,1,,,,0,75,3,3,3,2
+File,"JikesOutputParser.java",JikesOutputParser.java,2,2,2,1,10,0,6,3,,,,,1,0,0,7,,7,7,6,7,,0,4,3,0,,103,12,,,,56,18,29,,,36,,,,,,,,,,27,43,18,,,25,,,,,,,,6,6,6,3,,,3,,,,0,64,17,17,17,9
+File,"KeySubst.java",KeySubst.java,2,2,2,1,17,0,13,4,,,,,1,2,0,7,,7,5,4,7,,0,0,0,7,,203,12,,,,101,34,65,,,90,,,,,,,,,,57,74,31,,,43,,,,,,,,5,5,6,1,,,3,,,,0,89,16,16,18,7
+File,"Location.java",Location.java,1,1,1,1,10,1,5,3,,,,,1,0,1,4,,4,4,3,4,,0,1,0,3,,111,11,,,,30,11,14,,,70,,,,,,,,,,16,23,11,,,12,,,,,,,,3,3,3,1,,,2,,,,2,33,6,6,6,4
+File,"MSVSS.java",MSVSS.java,1,1,1,1,10,0,5,5,,,,,1,0,16,6,,6,6,3,6,,0,0,0,6,,196,17,,,,56,31,35,,,124,,,,,,,,,,34,44,31,,,13,,,,,,,,2,2,3,1,,,1,,,,2,21,9,9,10,6
+File,"MSVSSGET.java",MSVSSGET.java,2,2,2,1,15,0,8,6,,,,,1,0,0,11,,11,11,6,11,,0,0,0,11,,309,28,,,,105,29,65,,,177,,,,,,,,,,48,73,28,,,45,,,,,,,,4,4,4,4,,,3,,,,1,69,24,24,27,14
+File,"MailMessage.java",MailMessage.java,1,1,1,1,8,0,6,2,,,,,2,1,0,32,,32,31,9,32,,19,0,0,13,,448,43,,,,215,67,115,,,197,,,,,,,,,,111,167,71,,,96,,,,,,,,9,9,11,3,,,3,,,,0,92,54,54,58,34
+File,"Main.java",Main.java,5,5,7,3,36,3,27,6,,,,,1,3,0,7,,7,4,7,7,,0,4,2,1,,361,46,,,,202,47,159,,,116,,,,,,,,,,120,155,43,,,112,,,,,,,,19,19,29,17,,,3,,,,0,57,39,39,49,23
+File,"Map.java",Map.java,0,0,0,0,0,0,0,0,,,,,1,0,0,0,,1,1,0,1,,0,0,0,1,,62,4,,,,5,4,0,,,53,,,,,,,,,,3,4,4,,,0,,,,,,,,0,0,0,0,,,0,,,,10,60,0,0,0,0
+File,"MatchingTask.java",MatchingTask.java,2,2,2,1,11,0,7,3,,,,,2,0,0,18,,18,18,5,18,,0,3,2,13,,310,30,,,,144,45,84,,,138,,,,,,,,,,63,105,46,,,59,,,,,,,,7,7,7,4,,,3,,,,0,96,42,42,49,21
+File,"Mkdir.java",Mkdir.java,2,2,2,1,7,0,7,0,,,,,1,0,0,2,,2,2,1,2,,0,0,0,2,,87,8,,,,21,11,9,,,58,,,,,,,,,,10,15,10,,,5,,,,,,,,3,3,3,1,,,2,,,,2,76,4,4,4,2
+File,"NetRexxC.java",NetRexxC.java,1,1,1,1,9,0,4,4,,,,,1,0,0,33,,33,33,33,33,,0,2,0,31,,501,51,,,,188,84,79,,,263,,,,,,,,,,95,137,83,,,54,,,,,,,,5,5,6,1,,,3,,,,1,40,43,43,49,33
+File,"Patch.java",Patch.java,2,2,2,1,10,0,6,2,,,,,1,0,0,9,,9,9,7,9,,0,0,0,9,,174,22,,,,70,21,36,,,83,,,,,,,,,,29,48,21,,,27,,,,,,,,9,9,9,1,,,1,,,,1,19,18,18,18,9
+File,"Path.java",Path.java,2,2,2,1,9,0,7,2,,,,,1,3,1,11,,11,8,1,11,,0,0,1,10,,224,31,,,,91,32,48,,,102,,,,,,,,,,54,80,36,,,44,,,,,,,,4,4,4,1,,,2,,,,1,12,25,25,27,11
+File,"PathTest.java",PathTest.java,2,2,2,1,21,0,20,0,,,,,1,0,1,6,,6,6,0,6,,0,0,0,6,,205,18,,,,128,22,103,,,59,,,,,,,,,,93,107,22,,,85,,,,,,,,6,6,6,1,,,1,,,,0,46,13,13,13,6
+File,"PathTokenizer.java",PathTokenizer.java,2,2,3,1,13,1,10,1,,,,,1,0,0,3,,3,3,3,3,,0,0,0,3,,128,10,,,,40,12,21,,,78,,,,,,,,,,18,26,12,,,14,,,,,,,,4,4,8,1,,,2,,,,1,95,7,7,11,3
+File,"Project.java",Project.java,2,2,2,1,20,2,14,4,,,,,1,0,13,2,,2,2,10,2,,0,0,0,2,,153,19,,,,60,41,41,,,74,,,,,,,,,,44,47,39,,,8,,,,,,,,4,4,4,1,,,2,,,,1,23,5,5,5,2
+File,"ProjectHelper.java",ProjectHelper.java,2,2,2,1,11,1,9,0,,,,,7,3,1,29,,29,26,11,29,,0,7,0,22,,503,73,,,,322,98,190,,,109,,,,,,,,,,154,234,92,,,142,,,,,,,,11,11,12,1,,,3,,,,0,34,78,78,79,29
+File,"Property.java",Property.java,2,2,2,1,10,0,9,0,,,,,1,0,0,14,,14,14,5,14,,0,6,0,8,,242,29,,,,150,48,92,,,64,,,,,,,,,,72,109,48,,,61,,,,,,,,8,8,9,6,,,5,,,,0,43,36,36,38,19
+File,"Rename.java",Rename.java,1,1,2,1,9,0,5,4,,,,,1,0,0,4,,4,4,3,4,,0,0,0,4,,116,11,,,,30,12,11,,,75,,,,,,,,,,12,20,12,,,8,,,,,,,,4,4,5,1,,,2,,,,2,50,7,7,8,4
+File,"RenameExtensions.java",RenameExtensions.java,2,2,2,1,10,0,7,2,,,,,1,0,0,7,,7,7,4,7,,0,1,0,6,,163,18,,,,61,27,34,,,84,,,,,,,,,,35,50,28,,,22,,,,,,,,5,5,8,1,,,3,,,,1,38,14,14,18,7
+File,"Replace.java",Replace.java,2,2,2,1,15,2,9,3,,,,,1,0,0,7,,7,7,4,7,,0,2,0,5,,190,28,,,,78,25,48,,,84,,,,,,,,,,45,64,26,,,38,,,,,,,,6,6,7,4,,,3,,,,1,08,18,18,19,10
+File,"Rmic.java",Rmic.java,3,3,4,1,18,0,14,3,,,,,1,0,0,16,,16,16,8,16,,0,5,1,10,,417,42,,,,245,66,161,,,130,,,,,,,,,,117,179,66,,,113,,,,,,,,20,20,20,6,,,6,,,,0,53,62,62,65,24
+File,"Script.java",Script.java,2,2,3,1,16,1,10,4,,,,,1,0,0,5,,5,5,3,5,,0,1,0,4,,160,17,,,,61,26,39,,,82,,,,,,,,,,42,54,28,,,26,,,,,,,,4,4,6,1,,,2,,,,1,34,13,13,16,5
+File,"SignJar.java",SignJar.java,2,2,2,1,9,1,8,0,,,,,1,0,0,12,,12,12,11,12,,0,0,0,12,,218,35,,,,116,29,63,,,67,,,,,,,,,,64,90,29,,,61,,,,,,,,14,14,14,1,,,1,,,,0,58,25,25,25,12
+File,"Tar.java",Tar.java,2,2,2,1,18,2,14,1,,,,,1,0,0,4,,4,4,2,4,,0,0,1,3,,148,17,,,,66,22,41,,,65,,,,,,,,,,36,48,22,,,26,,,,,,,,7,7,7,1,,,2,,,,0,98,11,11,11,4
+File,"TarBuffer.java",TarBuffer.java,2,2,2,1,15,1,9,3,,,,,1,0,2,21,,21,21,9,21,,0,4,0,17,,440,69,,,,223,40,134,,,149,,,,,,,,,,91,148,40,,,108,,,,,,,,7,7,7,3,,,3,,,,0,67,56,56,57,29
+File,"TarConstants.java",TarConstants.java,0,0,0,0,0,0,0,0,,,,,1,0,22,0,,0,0,0,0,,0,0,0,0,,182,27,,,,25,24,22,,,130,,,,,,,,,,23,24,24,,,0,,,,,,,,0,0,0,0,,,0,,,,5,20,0,0,0,0
+File,"TarEntry.java",TarEntry.java,1,1,1,1,14,1,8,5,,,,,1,0,0,28,,28,28,15,28,,0,1,0,27,,572,67,,,,244,61,152,,,276,,,,,,,,,,153,198,63,,,135,,,,,,,,9,9,13,4,,,4,,,,1,13,46,46,51,31
+File,"TarInputStream.java",TarInputStream.java,2,2,2,1,20,2,11,5,,,,,1,0,0,16,,16,16,8,16,,0,0,0,16,,419,61,,,,197,43,133,,,161,,,,,,,,,,85,124,42,,,82,,,,,,,,12,12,16,3,,,2,,,,0,82,41,41,45,20
+File,"TarOutputStream.java",TarOutputStream.java,1,1,1,1,15,1,7,6,,,,,1,0,0,14,,14,14,8,14,,0,1,0,13,,314,39,,,,121,27,71,,,154,,,,,,,,,,65,90,29,,,61,,,,,,,,6,6,6,3,,,2,,,,1,27,24,24,24,16
+File,"TarUtils.java",TarUtils.java,2,2,3,2,22,3,11,7,,,,,1,7,0,7,,7,0,0,7,,0,0,0,7,,234,31,,,,85,19,54,,,118,,,,,,,,,,56,75,23,,,52,,,,,,,,6,6,7,6,,,3,,,,1,39,20,20,23,14
+File,"Target.java",Target.java,1,1,1,1,4,0,4,0,,,,,1,0,0,13,,13,13,6,13,,1,0,0,12,,146,18,,,,70,27,31,,,58,,,,,,,,,,29,44,22,,,22,,,,,,,,4,4,5,1,,,3,,,,0,83,20,20,21,13
+File,"Task.java",Task.java,1,1,1,1,7,0,2,4,,,,,1,0,0,15,,15,15,6,15,,2,0,0,13,,197,21,,,,50,23,19,,,126,,,,,,,,,,21,36,23,,,13,,,,,,,,1,1,1,1,,,0,,,,2,52,15,15,15,15
+File,"TaskAdapter.java",TaskAdapter.java,1,1,1,1,9,0,7,2,,,,,1,0,0,3,,3,3,1,3,,0,0,0,3,,102,9,,,,28,10,14,,,65,,,,,,,,,,15,21,10,,,11,,,,,,,,3,3,3,1,,,2,,,,2,32,5,5,5,3
+File,"TaskOutputStream.java",TaskOutputStream.java,1,1,2,1,11,0,6,4,,,,,1,0,0,3,,3,3,3,3,,1,1,0,1,,118,13,,,,28,12,12,,,77,,,,,,,,,,15,21,12,,,9,,,,,,,,3,3,4,1,,,2,,,,2,75,5,5,6,3
+File,"Taskdef.java",Taskdef.java,1,1,1,1,6,0,6,0,,,,,1,0,0,5,,5,5,2,5,,0,0,0,5,,111,8,,,,40,15,21,,,63,,,,,,,,,,16,25,13,,,12,,,,,,,,4,4,5,1,,,2,,,,1,57,8,8,9,5
+File,"Touch.java",Touch.java,3,3,4,1,21,1,16,3,,,,,1,0,2,5,,5,5,3,5,,1,0,0,4,,197,20,,,,98,27,60,,,80,,,,,,,,,,42,61,26,,,35,,,,,,,,10,10,10,1,,,3,,,,0,82,18,18,20,5
+File,"Tstamp.java",Tstamp.java,2,2,2,1,16,3,13,0,,,,,1,0,0,1,,1,1,0,1,,0,0,0,1,,86,7,,,,20,11,10,,,59,,,,,,,,,,13,16,11,,,5,,,,,,,,2,2,2,1,,,1,,,,2,95,2,2,2,1
+File,"Untar.java",Untar.java,4,4,4,1,31,3,21,5,,,,,1,0,0,3,,3,3,2,3,,0,0,0,3,,167,17,,,,73,20,48,,,79,,,,,,,,,,35,50,20,,,30,,,,,,,,12,12,12,1,,,5,,,,1,08,14,14,14,3
+File,"WLRun.java",WLRun.java,2,2,2,1,16,1,8,6,,,,,1,0,1,7,,7,7,6,7,,0,0,0,7,,224,27,,,,73,24,42,,,124,,,,,,,,,,38,53,24,,,29,,,,,,,,8,8,8,1,,,1,,,,1,70,14,14,14,7
+File,"WLStop.java",WLStop.java,1,1,1,1,11,0,5,5,,,,,1,0,0,6,,6,6,5,6,,0,0,0,6,,168,20,,,,42,19,18,,,106,,,,,,,,,,24,33,19,,,14,,,,,,,,3,3,4,1,,,1,,,,2,52,8,8,9,6
+File,"XSLTLiaison.java",XSLTLiaison.java,0,0,0,0,0,0,0,0,,,,,1,0,0,0,,2,2,0,2,,0,0,0,2,,70,6,,,,6,5,0,,,59,,,,,,,,,,4,5,5,,,0,,,,,,,,0,0,0,0,,,0,,,,9,83,0,0,0,0
+File,"XSLTProcess.java",XSLTProcess.java,2,2,2,1,17,1,11,5,,,,,1,0,0,8,,8,8,5,8,,0,1,0,7,,314,43,,,,102,30,59,,,176,,,,,,,,,,57,80,32,,,48,,,,,,,,11,11,11,1,,,3,,,,1,73,22,22,22,8
+File,"XalanLiaison.java",XalanLiaison.java,1,1,1,1,3,0,3,0,,,,,1,0,0,3,,3,3,2,3,,0,0,0,3,,87,9,,,,20,13,4,,,59,,,,,,,,,,12,15,12,,,3,,,,,,,,1,1,1,1,,,0,,,,2,95,3,3,3,3
+File,"XmlLogger.java",XmlLogger.java,2,2,2,1,15,2,12,1,,,,,1,3,10,11,,11,8,7,11,,0,3,0,8,,269,40,,,,155,49,100,,,74,,,,,,,,,,103,131,53,,,78,,,,,,,,9,9,9,1,,,3,,,,0,48,29,27,29,11
+File,"XslpLiaison.java",XslpLiaison.java,1,1,1,1,3,0,3,0,,,,,1,0,0,3,,3,3,2,3,,0,0,0,3,,88,10,,,,20,14,4,,,59,,,,,,,,,,13,16,13,,,3,,,,,,,,1,1,1,1,,,0,,,,2,95,3,3,3,3
+File,"Zip.java",Zip.java,3,3,3,1,19,1,14,3,,,,,1,0,0,8,,8,8,4,8,,0,0,4,4,,239,26,,,,130,46,83,,,83,,,,,,,,,,75,98,44,,,54,,,,,,,,12,12,13,1,,,3,,,,0,64,24,24,25,8
+File,"build.xml",build.xml,0,0,0,0,283,36,199,48,,,,,0,,,0,,0,,,,,,,,,,283,36,0,0,0,199,,,0,0,48,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,,0,,,0,,,,0,24,0,0,0,0
+File,"buildAnt.xml",buildAnt.xml,0,0,0,0,84,11,51,22,,,,,0,,,0,,0,,,,,,,,,,84,11,0,0,0,51,,,0,0,22,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,,0,,,0,,,,0,43,0,0,0,0
+Package,"com",,0,0,0,0,0,0,0,0,,,,,0,0,0,,0,,0,0,0,,0,0,0,0,,0,0,,,,0,0,0,,,0,,,,,,,,,,0,0,0,,,0,,,,,,,,0,0,0,0,,,0,,,,0,00,0,0,0,0
+Package,"com.oreilly",,0,0,0,0,0,0,0,0,,,,,0,0,0,,0,,0,0,0,,0,0,0,0,,0,0,,,,0,0,0,,,0,,,,,,,,,,0,0,0,,,0,,,,,,,,0,0,0,0,,,0,,,,0,00,0,0,0,0
+Package,"com.oreilly.servlet",MailMessage.java,1,1,1,1,8,0,6,2,,,,,2,1,0,,1,,31,9,32,,19,0,0,13,,448,43,,,,215,67,115,,,197,,,,,,,,,,111,167,71,,,96,,,,,,,,9,9,11,3,,,3,,,,0,92,54,54,58,34
+Public Class,"com.oreilly.servlet.MailMessage",MailMessage.java,1,1,1,1,8,0,6,2,1,1,1,0,,1,0,,,,26,8,27,27,17,0,0,10,,341,32,,,,177,55,99,,,136,,,,,,,,,,91,137,57,,,80,,,,,,,,9,9,11,3,,1,3,,88,69,0,77,45,45,47,29
+Public Constructor,"com.oreilly.servlet.MailMessage.MailMessage",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,9,0,,,,3,1,1,,,6,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,00,1,1,1,1
+Public Constructor,"com.oreilly.servlet.MailMessage.MailMessage",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,16,0,,,,9,1,7,,,7,,,,,,,8,1,0,7,8,1,,,7,,,1,1,1,1,0,,,,,0,,0,0,,,0,78,1,1,1,1
+Public Method,"com.oreilly.servlet.MailMessage.bcc",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,10,0,,,,3,1,1,,,7,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,33,1,1,1,1
+Public Method,"com.oreilly.servlet.MailMessage.cc",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,10,0,,,,4,1,2,,,6,,,,,,,2,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,1,50,1,1,1,1
+Method,"com.oreilly.servlet.MailMessage.connect",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,8,0,,,,8,1,6,,,0,,,,,,,7,1,0,4,5,1,,,4,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Method,"com.oreilly.servlet.MailMessage.disconnect",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,5,0,,,,5,1,3,,,0,,,,,,,1,8,1,3,7,1,,,6,,,4,4,4,1,0,,,,,0,,1,0,,,0,00,4,4,4,1
+Method,"com.oreilly.servlet.MailMessage.flushHeaders",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,11,0,,,,10,4,7,,,1,,,,,,,6,2,0,6,8,4,,,4,,,2,2,2,1,0,,,,,0,,1,0,,,0,10,2,2,2,1
+Public Method,"com.oreilly.servlet.MailMessage.from",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,10,0,,,,4,1,2,,,6,,,,,,,2,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,1,50,1,1,1,1
+Public Method,"com.oreilly.servlet.MailMessage.getPrintStream",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,15,0,,,,8,1,6,,,7,,,,,,,6,1,0,6,7,1,,,6,,,1,1,1,1,0,,,,,0,,0,0,,,0,88,1,1,1,1
+Method,"com.oreilly.servlet.MailMessage.getReady",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,8,0,,,,8,3,5,,,0,,,,,,,2,2,0,3,5,3,,,2,,,2,2,2,1,0,,,,,0,,1,0,,,0,00,2,2,2,1
+Method,"com.oreilly.servlet.MailMessage.isResponseOK",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,9,0,,,,8,1,4,,,1,,,,,,,2,3,0,4,7,2,,,5,,,3,3,3,3,3,,,,,3,,2,3,,,0,12,3,3,3,3
+Static Method,"com.oreilly.servlet.MailMessage.sanitizeAddress",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,34,3,,,,31,6,21,,,2,,,,,,,4,16,1,15,24,7,,,17,,,9,9,11,1,3,,,,,0,,3,0,,,0,06,9,9,11,1
+Method,"com.oreilly.servlet.MailMessage.send",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,0,,,,8,2,5,,,3,,,,,,,3,2,0,3,5,2,,,3,,,2,2,2,1,0,,,,,0,,1,0,,,0,38,2,2,2,1
+Public Method,"com.oreilly.servlet.MailMessage.sendAndClose",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,10,0,,,,4,1,2,,,6,,,,,,,2,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,1,50,1,1,1,1
+Method,"com.oreilly.servlet.MailMessage.sendData",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,4,0,,,,4,2,2,,,0,,,,,,,1,1,0,2,3,2,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Method,"com.oreilly.servlet.MailMessage.sendDot",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,4,0,,,,4,2,2,,,1,,,,,,,1,1,0,2,3,2,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,25,1,1,1,1
+Method,"com.oreilly.servlet.MailMessage.sendFrom",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,0,,,,4,2,2,,,0,,,,,,,2,1,0,2,3,2,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Method,"com.oreilly.servlet.MailMessage.sendHelo",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,5,0,,,,5,3,3,,,0,,,,,,,3,1,0,3,4,3,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Method,"com.oreilly.servlet.MailMessage.sendQuit",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,4,0,,,,4,2,2,,,0,,,,,,,1,1,0,2,3,2,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Method,"com.oreilly.servlet.MailMessage.sendRcpt",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,0,,,,4,2,2,,,0,,,,,,,2,1,0,2,3,2,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Method,"com.oreilly.servlet.MailMessage.setCcHeader",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Method,"com.oreilly.servlet.MailMessage.setFromHeader",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"com.oreilly.servlet.MailMessage.setHeader",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,7,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"com.oreilly.servlet.MailMessage.setSubject",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,7,0,,,,3,1,1,,,4,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,33,1,1,1,1
+Method,"com.oreilly.servlet.MailMessage.setToHeader",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"com.oreilly.servlet.MailMessage.to",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,10,0,,,,4,1,2,,,6,,,,,,,2,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,1,50,1,1,1,1
+Method,"com.oreilly.servlet.MailMessage.vectorToList",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,11,0,,,,11,3,7,,,0,,,,,,,6,3,0,5,8,3,,,5,,,3,3,3,1,0,,,,,0,,2,0,,,0,00,3,3,3,1
+Class,"com.oreilly.servlet.MailPrintStream",MailMessage.java,1,1,2,1,6,0,6,0,1,0,0,0,,0,0,,,,5,1,5,5,2,0,0,3,,42,6,,,,34,8,16,,,5,,,,,,,,,,16,26,10,,,16,,,,,,,,3,3,5,1,,2,1,,80,60,0,15,9,9,11,5
+Public Constructor,"com.oreilly.servlet.MailPrintStream.MailPrintStream",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,1,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,33,1,1,1,1
+Method,"com.oreilly.servlet.MailPrintStream.rawPrint",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,0,,,,6,2,3,,,0,,,,,,,3,2,0,4,6,3,,,3,,,2,2,2,1,0,,,,,0,,1,0,,,0,00,2,2,2,1
+Method,"com.oreilly.servlet.MailPrintStream.rawWrite",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"com.oreilly.servlet.MailPrintStream.write",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,14,0,,,,14,1,9,,,2,,,,,,,2,3,0,6,9,1,,,8,,,3,3,5,1,2,,,,,0,,1,0,,,0,14,3,3,5,1
+Public Method,"com.oreilly.servlet.MailPrintStream.write",MailMessage.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,5,0,,,,5,1,2,,,0,,,,,,,1,2,0,3,5,2,,,3,,,2,2,2,1,0,,,,,0,,1,0,,,0,00,2,2,2,1
+File,"core.html",core.html,0,0,0,0,278,1,0,0,,,,,0,,,0,,0,,,,,,,,,,278,1,1,0,0,0,,,0,0,0,0,0,0,278,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,,0,,,0,,,,0,00,0,0,0,0
+File,"design guide.xml",design guide.xml,0,0,0,0,82,0,81,1,,,,,0,,,0,,0,,,,,,,,,,82,0,0,0,0,81,,,0,0,1,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,,0,,,0,,,,0,01,0,0,0,0
+File,"docbookx.css",docbookx.css,0,0,0,0,64,0,0,0,,,,,0,,,0,,0,,,,,,,,,,64,0,0,0,0,0,,,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,,0,,,0,,,,0,00,0,0,0,0
+File,"index.html",index.html,0,0,0,0,3758,54,0,1,,,,,0,,,0,,0,,,,,,,,,,3758,54,54,0,0,0,,,0,0,1,1,0,0,3758,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,,0,,,0,,,,0,00,0,0,0,0
+Package,"org",,0,0,0,0,0,0,0,0,,,,,0,0,0,,0,,0,0,0,,0,0,0,0,,0,0,,,,0,0,0,,,0,,,,,,,,,,0,0,0,,,0,,,,,,,,0,0,0,0,,,0,,,,0,00,0,0,0,0
+Package,"org.apache",,0,0,0,0,0,0,0,0,,,,,0,0,0,,0,,0,0,0,,0,0,0,0,,0,0,,,,0,0,0,,,0,,,,,,,,,,0,0,0,,,0,,,,,,,,0,0,0,0,,,0,,,,0,00,0,0,0,0
+Package,"org.apache.tools",,0,0,0,0,0,0,0,0,,,,,0,0,0,,0,,0,0,0,,0,0,0,0,,0,0,,,,0,0,0,,,0,,,,,,,,,,0,0,0,,,0,,,,,,,,0,0,0,0,,,0,,,,0,00,0,0,0,0
+Package,"org.apache.tools.ant",BuildEvent.java,2,2,2,1,14,0,10,2,,,,,48,17,31,,23,,191,82,208,,3,24,3,178,,5038,590,,,,2312,657,1442,,,2146,,,,,,,,,,1213,1709,668,,,1041,,,,,,,,28,28,35,28,,,4,,,,0,93,497,495,550,294
+Public Class,"org.apache.tools.ant.AllJUnitTests",AllJUnitTests.java,1,1,1,1,4,0,4,0,1,3,3,0,,1,0,,,,1,0,2,2,0,0,0,2,,18,2,,,,11,4,5,,,5,,,,,,,,,,5,8,4,,,4,,,,,,,,1,1,1,1,,2,0,,0,0,0,45,2,2,2,2
+Public Constructor,"org.apache.tools.ant.AllJUnitTests.AllJUnitTests",AllJUnitTests.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Static Method,"org.apache.tools.ant.AllJUnitTests.suite",AllJUnitTests.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,6,2,4,,,0,,,,,,,2,1,0,4,5,2,,,3,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Class,"org.apache.tools.ant.BuildEvent",BuildEvent.java,1,1,1,1,8,0,3,4,1,3,3,0,,0,0,,,,11,6,11,11,0,0,0,11,,107,13,,,,50,18,22,,,44,,,,,,,,,,27,39,18,,,21,,,,,,,,1,1,1,1,,2,0,,72,72,0,88,11,11,11,11
+Public Constructor,"org.apache.tools.ant.BuildEvent.BuildEvent",BuildEvent.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,11,0,,,,6,1,4,,,5,,,,,,,4,1,0,4,5,1,,,4,,,1,1,1,1,0,,,,,0,,0,0,,,0,83,1,1,1,1
+Public Constructor,"org.apache.tools.ant.BuildEvent.BuildEvent",BuildEvent.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,11,0,,,,6,1,4,,,5,,,,,,,5,1,0,4,5,1,,,4,,,1,1,1,1,0,,,,,0,,0,0,,,0,83,1,1,1,1
+Public Constructor,"org.apache.tools.ant.BuildEvent.BuildEvent",BuildEvent.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,11,0,,,,6,1,4,,,5,,,,,,,6,1,0,4,5,1,,,4,,,1,1,1,1,0,,,,,0,,0,0,,,0,83,1,1,1,1
+Public Method,"org.apache.tools.ant.BuildEvent.getException",BuildEvent.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,11,0,,,,3,1,1,,,8,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,67,1,1,1,1
+Public Method,"org.apache.tools.ant.BuildEvent.getMessage",BuildEvent.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,9,0,,,,3,1,1,,,6,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,00,1,1,1,1
+Public Method,"org.apache.tools.ant.BuildEvent.getPriority",BuildEvent.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,9,0,,,,3,1,1,,,6,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,00,1,1,1,1
+Public Method,"org.apache.tools.ant.BuildEvent.getProject",BuildEvent.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.BuildEvent.getTarget",BuildEvent.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,7,1,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.BuildEvent.getTask",BuildEvent.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.BuildEvent.setException",BuildEvent.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.BuildEvent.setMessage",BuildEvent.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,0,,,,4,1,2,,,0,,,,,,,2,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Class,"org.apache.tools.ant.BuildException",BuildException.java,1,1,1,1,7,0,3,4,1,1,1,0,,0,0,,,,10,2,10,10,0,0,0,10,,105,18,,,,38,13,15,,,49,,,,,,,,,,16,27,13,,,14,,,,,,,,1,1,1,1,,2,0,,60,55,1,29,10,10,10,10
+Public Constructor,"org.apache.tools.ant.BuildException.BuildException",BuildException.java,,,,,,,,,,,,,,,,,,,,,,,,,,,40,7,0,,,,3,1,1,,,4,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,33,1,1,1,1
+Public Constructor,"org.apache.tools.ant.BuildException.BuildException",BuildException.java,,,,,,,,,,,,,,,,,,,,,,,,,,,14,10,0,,,,4,1,2,,,6,,,,,,,2,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,1,50,1,1,1,1
+Public Constructor,"org.apache.tools.ant.BuildException.BuildException",BuildException.java,,,,,,,,,,,,,,,,,,,,,,,,,,,15,11,0,,,,4,1,2,,,7,,,,,,,3,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,1,75,1,1,1,1
+Public Constructor,"org.apache.tools.ant.BuildException.BuildException",BuildException.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,8,0,,,,4,1,2,,,4,,,,,,,3,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Constructor,"org.apache.tools.ant.BuildException.BuildException",BuildException.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Constructor,"org.apache.tools.ant.BuildException.BuildException",BuildException.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,10,0,,,,4,1,2,,,6,,,,,,,2,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,1,50,1,1,1,1
+Public Method,"org.apache.tools.ant.BuildException.getException",BuildException.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.BuildException.getLocation",BuildException.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.BuildException.setLocation",BuildException.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.BuildException.toString",BuildException.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,3,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Interface,"org.apache.tools.ant.BuildListener",BuildListener.java,0,0,0,0,0,0,0,0,1,1,1,2,,0,0,,,,7,0,7,7,0,0,0,7,,52,7,,,,8,8,0,,,37,,,,,,,,,,7,8,8,,,0,,,,,,,,0,0,0,0,,2,0,,0,0,4,62,0,0,0,0
+Public Abstract Method,"org.apache.tools.ant.BuildListener.buildFinished",BuildListener.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,7,0,,,,1,1,0,,,6,,,,,,,0,0,0,1,1,1,,,0,,,0,0,0,0,0,,,,,0,,0,0,,,6,00,0,0,0,0
+Public Abstract Method,"org.apache.tools.ant.BuildListener.buildStarted",BuildListener.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,4,0,,,,1,1,0,,,3,,,,,,,0,0,0,1,1,1,,,0,,,0,0,0,0,0,,,,,0,,0,0,,,3,00,0,0,0,0
+Public Abstract Method,"org.apache.tools.ant.BuildListener.messageLogged",BuildListener.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,7,0,,,,1,1,0,,,6,,,,,,,0,0,0,1,1,1,,,0,,,0,0,0,0,0,,,,,0,,0,0,,,6,00,0,0,0,0
+Public Abstract Method,"org.apache.tools.ant.BuildListener.targetFinished",BuildListener.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,7,0,,,,1,1,0,,,6,,,,,,,0,0,0,1,1,1,,,0,,,0,0,0,0,0,,,,,0,,0,0,,,6,00,0,0,0,0
+Public Abstract Method,"org.apache.tools.ant.BuildListener.targetStarted",BuildListener.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,6,0,,,,1,1,0,,,5,,,,,,,0,0,0,1,1,1,,,0,,,0,0,0,0,0,,,,,0,,0,0,,,5,00,0,0,0,0
+Public Abstract Method,"org.apache.tools.ant.BuildListener.taskFinished",BuildListener.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,7,0,,,,1,1,0,,,6,,,,,,,0,0,0,1,1,1,,,0,,,0,0,0,0,0,,,,,0,,0,0,,,6,00,0,0,0,0
+Public Abstract Method,"org.apache.tools.ant.BuildListener.taskStarted",BuildListener.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,6,0,,,,1,1,0,,,5,,,,,,,0,0,0,1,1,1,,,0,,,0,0,0,0,0,,,,,0,,0,0,,,5,00,0,0,0,0
+Public Class,"org.apache.tools.ant.DefaultLogger",DefaultLogger.java,1,1,1,1,9,1,6,1,2,5,5,0,,1,1,,,,8,3,9,9,0,1,0,8,,104,22,,,,65,20,34,,,17,,,,,,,,,,27,45,21,,,24,,,,,,,,4,4,4,1,,1,3,,72,72,0,26,17,17,17,9
+Public Constructor,"org.apache.tools.ant.DefaultLogger.DefaultLogger",DefaultLogger.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,9,0,,,,4,1,2,,,5,,,,,,,3,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,1,25,1,1,1,1
+Public Method,"org.apache.tools.ant.DefaultLogger.buildFinished",DefaultLogger.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,28,4,,,,20,3,13,,,4,,,,,,,7,4,1,8,12,3,,,9,,,4,4,4,1,2,,,,,0,,3,0,,,0,20,4,4,4,1
+Public Method,"org.apache.tools.ant.DefaultLogger.buildStarted",DefaultLogger.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Private Static Method,"org.apache.tools.ant.DefaultLogger.formatTime",DefaultLogger.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,13,3,,,,10,3,6,,,0,,,,,,,2,2,0,4,6,3,,,3,,,2,2,2,1,1,,,,,0,,1,0,,,0,00,2,2,2,1
+Public Method,"org.apache.tools.ant.DefaultLogger.messageLogged",DefaultLogger.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,20,4,,,,13,3,8,,,3,,,,,,,7,4,1,7,11,4,,,7,,,4,4,4,1,0,,,,,0,,3,0,,,0,23,4,4,4,1
+Public Method,"org.apache.tools.ant.DefaultLogger.targetFinished",DefaultLogger.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,2,0,,,,2,1,0,,,0,,,,,,,0,1,0,0,1,1,,,0,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.DefaultLogger.targetStarted",DefaultLogger.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,5,0,,,,5,1,2,,,0,,,,,,,3,2,0,1,3,1,,,2,,,2,2,2,1,0,,,,,0,,1,0,,,0,00,2,2,2,1
+Public Method,"org.apache.tools.ant.DefaultLogger.taskFinished",DefaultLogger.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,,,,1,1,0,,,0,,,,,,,0,1,0,0,1,1,,,0,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.DefaultLogger.taskStarted",DefaultLogger.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,,,,1,1,0,,,0,,,,,,,0,1,0,0,1,1,,,0,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Class,"org.apache.tools.ant.DesirableFilter",DesirableFilter.java,6,6,8,6,40,7,18,15,2,0,0,0,,0,0,,,,1,0,1,1,0,0,0,1,,50,9,,,,20,2,11,,,21,,,,,,,,,,6,13,2,,,11,,,,,,,,6,6,8,6,,1,1,,0,0,1,05,6,6,8,6
+Public Method,"org.apache.tools.ant.DesirableFilter.accept",DesirableFilter.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,40,7,,,,18,1,11,,,15,,,,,,,4,6,1,6,12,1,,,11,,,6,6,8,6,5,,,,,5,,1,5,,,0,83,6,6,8,6
+Public Class,"org.apache.tools.ant.DirectoryScanner",DirectoryScanner.java,5,5,5,3,29,1,19,9,1,0,0,0,,2,1,,,,17,9,19,19,0,5,0,14,,768,94,,,,390,82,253,,,290,,,,,,,,,,220,323,102,,,221,,,,,,,,28,28,35,28,,1,4,,83,81,0,74,103,103,113,74
+Public Constructor,"org.apache.tools.ant.DirectoryScanner.DirectoryScanner",DirectoryScanner.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,5,0,,,,2,1,0,,,3,,,,,,,1,1,0,0,1,1,,,0,,,1,1,1,1,0,,,,,0,,0,0,,,1,50,1,1,1,1
+Public Method,"org.apache.tools.ant.DirectoryScanner.addDefaultExcludes",DirectoryScanner.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,16,0,,,,12,3,7,,,4,,,,,,,3,4,1,8,11,4,,,7,,,4,4,4,1,0,,,,,0,,1,0,,,0,33,4,4,4,1
+Public Method,"org.apache.tools.ant.DirectoryScanner.getBasedir",DirectoryScanner.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,9,0,,,,3,1,1,,,6,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,00,1,1,1,1
+Public Method,"org.apache.tools.ant.DirectoryScanner.getExcludedDirectories",DirectoryScanner.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,15,0,,,,8,3,5,,,7,,,,,,,3,2,0,6,8,4,,,4,,,2,2,2,1,0,,,,,0,,1,0,,,0,88,2,2,2,1
+Public Method,"org.apache.tools.ant.DirectoryScanner.getExcludedFiles",DirectoryScanner.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,15,0,,,,8,3,5,,,7,,,,,,,3,2,0,6,8,4,,,4,,,2,2,2,1,0,,,,,0,,1,0,,,0,88,2,2,2,1
+Public Method,"org.apache.tools.ant.DirectoryScanner.getIncludedDirectories",DirectoryScanner.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,15,0,,,,8,3,5,,,7,,,,,,,3,2,0,6,8,4,,,4,,,2,2,2,1,0,,,,,0,,1,0,,,0,88,2,2,2,1
+Public Method,"org.apache.tools.ant.DirectoryScanner.getIncludedFiles",DirectoryScanner.java,,,,,,,,,,,,,,,,,,,,,,,,,,,16,15,0,,,,8,3,5,,,7,,,,,,,3,2,0,6,8,4,,,4,,,2,2,2,1,0,,,,,0,,1,0,,,0,88,2,2,2,1
+Public Method,"org.apache.tools.ant.DirectoryScanner.getNotIncludedDirectories",DirectoryScanner.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,15,0,,,,8,3,5,,,7,,,,,,,3,2,0,6,8,4,,,4,,,2,2,2,1,0,,,,,0,,1,0,,,0,88,2,2,2,1
+Public Method,"org.apache.tools.ant.DirectoryScanner.getNotIncludedFiles",DirectoryScanner.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,14,0,,,,8,3,5,,,6,,,,,,,3,2,0,6,8,4,,,4,,,2,2,2,1,0,,,,,0,,1,0,,,0,75,2,2,2,1
+Private Method,"org.apache.tools.ant.DirectoryScanner.isExcluded",DirectoryScanner.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,15,0,,,,8,1,4,,,7,,,,,,,2,3,0,4,7,2,,,5,,,3,3,3,3,3,,,,,3,,2,3,,,0,88,3,3,3,3
+Private Method,"org.apache.tools.ant.DirectoryScanner.isIncluded",DirectoryScanner.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,15,0,,,,8,1,4,,,7,,,,,,,2,3,0,4,7,2,,,5,,,3,3,3,3,3,,,,,3,,2,3,,,0,88,3,3,3,3
+Private Static Method,"org.apache.tools.ant.DirectoryScanner.match",DirectoryScanner.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,136,10,,,,99,13,69,,,31,,,,,,,2,1266,3,58,86,21,,,65,,,28,28,35,28,38,,,,,38,,4,38,,,0,31,28,28,35,28
+Private Static Method,"org.apache.tools.ant.DirectoryScanner.matchPath",DirectoryScanner.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,133,11,,,,101,16,73,,,21,,,,,,,9,3753,4,56,83,22,,,61,,,27,27,30,25,36,,,,,36,,4,36,,,0,21,27,27,30,25
+Public Method,"org.apache.tools.ant.DirectoryScanner.scan",DirectoryScanner.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,35,3,,,,25,1,18,,,7,,,,,,,11,32,2,13,19,1,,,18,,,6,6,6,1,0,,,,,0,,1,0,,,0,28,6,6,6,1
+Private Method,"org.apache.tools.ant.DirectoryScanner.scandir",DirectoryScanner.java,,,,,,,,,,,,,,,,,,,,,,,,,,,11,46,0,,,,29,4,21,,,17,,,,,,,6,8,1,12,20,5,,,15,,,8,8,8,1,5,,,,,0,,4,0,,,0,59,8,8,8,1
+Public Method,"org.apache.tools.ant.DirectoryScanner.setBasedir",DirectoryScanner.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,11,0,,,,3,1,1,,,8,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,67,1,1,1,1
+Public Method,"org.apache.tools.ant.DirectoryScanner.setBasedir",DirectoryScanner.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,9,0,,,,3,1,1,,,6,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,00,1,1,1,1
+Public Method,"org.apache.tools.ant.DirectoryScanner.setExcludes",DirectoryScanner.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,24,0,,,,15,2,9,,,9,,,,,,,3,4,1,8,12,3,,,9,,,4,4,4,1,1,,,,,0,,3,0,,,0,60,4,4,4,1
+Public Method,"org.apache.tools.ant.DirectoryScanner.setIncludes",DirectoryScanner.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,24,0,,,,15,2,9,,,9,,,,,,,3,4,1,8,12,3,,,9,,,4,4,4,1,1,,,,,0,,3,0,,,0,60,4,4,4,1
+Public Abstract Class,"org.apache.tools.ant.EnumeratedAttribute",EnumeratedAttribute.java,2,2,2,1,8,0,5,2,1,1,1,3,,0,0,,,,5,1,5,5,0,0,0,5,,56,7,,,,26,8,11,,,23,,,,,,,,,,11,20,9,,,11,,,,,,,,4,4,5,4,,1,2,,50,50,0,88,8,8,9,7
+Public Constructor,"org.apache.tools.ant.EnumeratedAttribute.EnumeratedAttribute",EnumeratedAttribute.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,,,,1,1,0,,,0,,,,,,,1,1,0,0,1,1,,,0,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.EnumeratedAttribute.containsValue",EnumeratedAttribute.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,16,1,,,,12,2,7,,,3,,,,,,,3,4,1,6,10,3,,,7,,,4,4,5,4,4,,,,,4,,2,4,,,0,25,4,4,5,4
+Public Method,"org.apache.tools.ant.EnumeratedAttribute.getValue",EnumeratedAttribute.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Abstract Method,"org.apache.tools.ant.EnumeratedAttribute.getValues",EnumeratedAttribute.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,1,1,0,,,5,,,,,,,1,0,0,1,1,1,,,0,,,0,0,0,0,0,,,,,0,,0,0,,,5,00,0,0,0,0
+Public Method,"org.apache.tools.ant.EnumeratedAttribute.setValue",EnumeratedAttribute.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,9,0,,,,6,1,3,,,3,,,,,,,3,2,0,2,4,1,,,3,,,2,2,2,1,0,,,,,0,,1,0,,,0,50,2,2,2,1
+Public Class,"org.apache.tools.ant.EnumeratedAttributeTest",EnumeratedAttributeTest.java,3,3,3,1,12,0,12,0,1,4,4,0,,0,1,,,,3,0,3,3,0,0,0,3,,62,6,,,,51,11,30,,,5,,,,,,,,,,21,32,13,,,19,,,,,,,,6,6,6,1,,2,2,,33,33,0,10,9,9,9,3
+Public Constructor,"org.apache.tools.ant.EnumeratedAttributeTest.EnumeratedAttributeTest",EnumeratedAttributeTest.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Static Class,"org.apache.tools.ant.EnumeratedAttributeTest.TestNormal",EnumeratedAttributeTest.java,1,1,1,1,3,0,3,0,1,1,1,0,,0,0,,,,1,0,1,6,0,0,0,1,,5,0,,,,5,2,1,,,0,,,,,,,,,,1,3,2,,,1,,,,,,,,1,1,1,1,,2,0,,0,0,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.EnumeratedAttributeTest.TestNormal.getValues",EnumeratedAttributeTest.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Static Class,"org.apache.tools.ant.EnumeratedAttributeTest.TestNull",EnumeratedAttributeTest.java,1,1,1,1,3,0,3,0,1,0,0,0,,0,0,,,,1,0,1,6,0,0,0,1,,5,0,,,,5,2,1,,,0,,,,,,,,,,1,3,2,,,1,,,,,,,,1,1,1,1,,2,0,,0,0,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.EnumeratedAttributeTest.TestNull.getValues",EnumeratedAttributeTest.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.EnumeratedAttributeTest.testContains",EnumeratedAttributeTest.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,13,0,,,,13,2,10,,,0,,,,,,,0,2,0,7,7,3,,,4,,,2,2,2,1,0,,,,,0,,1,0,,,0,00,2,2,2,1
+Public Method,"org.apache.tools.ant.EnumeratedAttributeTest.testExceptions",EnumeratedAttributeTest.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,22,0,,,,22,2,16,,,0,,,,,,,3,18,1,10,15,3,,,12,,,6,6,6,1,5,,,,,0,,2,0,,,0,00,6,6,6,1
+Public Class,"org.apache.tools.ant.IntrospectionHelper",IntrospectionHelper.java,4,4,5,2,32,3,24,4,1,7,7,0,,1,1,,,,11,6,12,12,0,3,0,9,,450,58,,,,316,68,230,,,76,,,,,,,,,,112,178,67,,,111,,,,,,,,14,14,29,14,,1,2,,79,72,0,24,49,49,71,30
+Private Interface,"org.apache.tools.ant.IntrospectionHelper.AttributeSetter",IntrospectionHelper.java,0,0,0,0,0,0,0,0,0,2,2,13,,0,0,,,,1,0,1,1,0,0,0,1,,5,0,,,,5,4,0,,,0,,,,,,,,,,1,2,2,,,0,,,,,,,,0,0,0,0,,0,0,,0,0,0,00,0,0,0,0
+Public Abstract Method,"org.apache.tools.ant.IntrospectionHelper.AttributeSetter.set",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,3,0,,,0,,,,,,,0,0,0,1,1,1,,,0,,,0,0,0,0,0,,,,,0,,0,0,,,0,00,0,0,0,0
+Private Constructor,"org.apache.tools.ant.IntrospectionHelper.IntrospectionHelper",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,7,94,17,,,,76,13,66,,,1,,,,,,,20,15,1,29,40,15,,,25,,,9,9,29,3,5,,,,,3,,1,1,,,0,01,9,9,29,3
+Anonymous Class,"org.apache.tools.ant.IntrospectionHelper.IntrospectionHelper.(for_loop_1).(Anon_1)",IntrospectionHelper.java,1,1,1,1,6,1,5,0,2,1,1,0,,0,0,,,,1,0,1,1,0,0,0,1,,8,2,,,,6,0,5,,,0,,,,,,,,,,1,2,1,,,1,,,,,,,,1,1,1,1,,1,0,,0,0,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.IntrospectionHelper.IntrospectionHelper.(for_loop_1).(Anon_1).create",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,1,,,,5,0,4,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Anonymous Class,"org.apache.tools.ant.IntrospectionHelper.IntrospectionHelper.(for_loop_1).(Anon_2)",IntrospectionHelper.java,1,1,1,1,7,1,6,0,2,1,1,0,,0,0,,,,1,0,1,1,0,0,0,1,,9,2,,,,7,1,6,,,0,,,,,,,,,,3,4,2,,,2,,,,,,,,1,1,1,1,,1,0,,0,0,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.IntrospectionHelper.IntrospectionHelper.(for_loop_1).(Anon_2).create",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,7,1,,,,6,1,5,,,0,,,,,,,3,1,0,3,4,2,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Private Interface,"org.apache.tools.ant.IntrospectionHelper.NestedCreator",IntrospectionHelper.java,0,0,0,0,0,0,0,0,0,0,0,2,,0,0,,,,1,0,1,1,0,0,0,1,,4,0,,,,4,3,0,,,0,,,,,,,,,,1,2,2,,,0,,,,,,,,0,0,0,0,,0,0,,0,0,0,00,0,0,0,0
+Public Abstract Method,"org.apache.tools.ant.IntrospectionHelper.NestedCreator.create",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,0,,,,2,2,0,,,0,,,,,,,1,0,0,1,1,1,,,0,,,0,0,0,0,0,,,,,0,,0,0,,,0,00,0,0,0,0
+Public Method,"org.apache.tools.ant.IntrospectionHelper.addText",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,8,22,0,,,,18,4,13,,,4,,,,,,,5,8,1,7,11,3,,,8,,,5,5,5,1,3,,,,,0,,2,0,,,0,22,5,5,5,1
+Private Method,"org.apache.tools.ant.IntrospectionHelper.createAttributeSetter",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,153,21,,,,120,6,97,,,12,,,,,,,4,14,1,33,63,16,,,47,,,14,14,16,14,13,,,,,13,,1,13,,,0,10,14,14,16,14
+Anonymous Class,"org.apache.tools.ant.IntrospectionHelper.createAttributeSetter.(Anon_10)",IntrospectionHelper.java,1,1,1,1,4,0,4,0,2,2,2,0,,0,0,,,,1,0,1,1,0,0,0,1,,5,0,,,,5,0,4,,,0,,,,,,,,,,1,2,1,,,1,,,,,,,,1,1,1,1,,1,0,,0,0,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.IntrospectionHelper.createAttributeSetter.(Anon_10).set",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,0,,,,4,0,3,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Anonymous Class,"org.apache.tools.ant.IntrospectionHelper.createAttributeSetter.(Anon_11)",IntrospectionHelper.java,1,1,1,1,5,0,5,0,2,2,2,0,,0,0,,,,1,0,1,1,0,0,0,1,,6,0,,,,6,0,5,,,0,,,,,,,,,,1,2,1,,,1,,,,,,,,1,1,1,1,,1,0,,0,0,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.IntrospectionHelper.createAttributeSetter.(Anon_11).set",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,5,0,,,,5,0,4,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Anonymous Class,"org.apache.tools.ant.IntrospectionHelper.createAttributeSetter.(Anon_12)",IntrospectionHelper.java,2,2,2,1,8,0,8,0,2,3,3,0,,0,0,,,,1,0,1,1,0,0,0,1,,9,0,,,,9,0,7,,,0,,,,,,,,,,2,4,1,,,3,,,,,,,,2,2,2,1,,1,1,,0,0,0,00,2,2,2,1
+Public Method,"org.apache.tools.ant.IntrospectionHelper.createAttributeSetter.(Anon_12).set",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,8,0,,,,8,0,6,,,0,,,,,,,2,2,0,2,4,1,,,3,,,2,2,2,1,1,,,,,0,,1,0,,,0,00,2,2,2,1
+Anonymous Class,"org.apache.tools.ant.IntrospectionHelper.createAttributeSetter.(Anon_13)",IntrospectionHelper.java,1,1,1,1,4,0,4,0,2,2,2,0,,0,0,,,,1,0,1,1,0,0,0,1,,5,0,,,,5,0,4,,,0,,,,,,,,,,1,2,1,,,1,,,,,,,,1,1,1,1,,1,0,,0,0,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.IntrospectionHelper.createAttributeSetter.(Anon_13).set",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,0,,,,4,0,3,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Anonymous Class,"org.apache.tools.ant.IntrospectionHelper.createAttributeSetter.(Anon_14)",IntrospectionHelper.java,2,2,2,1,11,0,11,0,2,4,4,0,,0,0,,,,1,0,1,1,0,0,0,1,,12,0,,,,12,2,9,,,0,,,,,,,,,,4,6,2,,,4,,,,,,,,2,2,2,1,,1,1,,0,0,0,00,2,2,2,1
+Public Method,"org.apache.tools.ant.IntrospectionHelper.createAttributeSetter.(Anon_14).set",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,11,0,,,,11,2,8,,,0,,,,,,,3,2,0,4,6,2,,,4,,,2,2,2,1,1,,,,,0,,1,0,,,0,00,2,2,2,1
+Anonymous Class,"org.apache.tools.ant.IntrospectionHelper.createAttributeSetter.(Anon_15)",IntrospectionHelper.java,2,2,2,1,9,0,9,0,2,3,3,0,,0,0,,,,1,0,1,1,0,0,0,1,,10,0,,,,10,0,8,,,0,,,,,,,,,,2,4,1,,,3,,,,,,,,2,2,2,1,,1,1,,0,0,0,00,2,2,2,1
+Public Method,"org.apache.tools.ant.IntrospectionHelper.createAttributeSetter.(Anon_15).set",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,9,0,,,,9,0,7,,,0,,,,,,,2,2,0,2,4,1,,,3,,,2,2,2,1,1,,,,,0,,1,0,,,0,00,2,2,2,1
+Anonymous Class,"org.apache.tools.ant.IntrospectionHelper.createAttributeSetter.(Anon_3)",IntrospectionHelper.java,1,1,1,1,4,0,4,0,2,2,2,0,,0,0,,,,1,0,1,1,0,0,0,1,,5,0,,,,5,0,4,,,0,,,,,,,,,,1,2,1,,,1,,,,,,,,1,1,1,1,,1,0,,0,0,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.IntrospectionHelper.createAttributeSetter.(Anon_3).set",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,0,,,,4,0,3,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Anonymous Class,"org.apache.tools.ant.IntrospectionHelper.createAttributeSetter.(Anon_4)",IntrospectionHelper.java,1,1,1,1,4,0,4,0,2,2,2,0,,0,0,,,,1,0,1,1,0,0,0,1,,5,0,,,,5,0,4,,,0,,,,,,,,,,1,2,1,,,1,,,,,,,,1,1,1,1,,1,0,,0,0,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.IntrospectionHelper.createAttributeSetter.(Anon_4).set",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,0,,,,4,0,3,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Anonymous Class,"org.apache.tools.ant.IntrospectionHelper.createAttributeSetter.(Anon_5)",IntrospectionHelper.java,1,1,1,1,4,0,4,0,2,2,2,0,,0,0,,,,1,0,1,1,0,0,0,1,,5,0,,,,5,0,4,,,0,,,,,,,,,,1,2,1,,,1,,,,,,,,1,1,1,1,,1,0,,0,0,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.IntrospectionHelper.createAttributeSetter.(Anon_5).set",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,0,,,,4,0,3,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Anonymous Class,"org.apache.tools.ant.IntrospectionHelper.createAttributeSetter.(Anon_6)",IntrospectionHelper.java,1,1,1,1,4,0,4,0,2,2,2,0,,0,0,,,,1,0,1,1,0,0,0,1,,5,0,,,,5,0,4,,,0,,,,,,,,,,1,2,1,,,1,,,,,,,,1,1,1,1,,1,0,,0,0,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.IntrospectionHelper.createAttributeSetter.(Anon_6).set",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,0,,,,4,0,3,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Anonymous Class,"org.apache.tools.ant.IntrospectionHelper.createAttributeSetter.(Anon_7)",IntrospectionHelper.java,1,1,1,1,4,0,4,0,2,2,2,0,,0,0,,,,1,0,1,1,0,0,0,1,,5,0,,,,5,0,4,,,0,,,,,,,,,,1,2,1,,,1,,,,,,,,1,1,1,1,,1,0,,0,0,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.IntrospectionHelper.createAttributeSetter.(Anon_7).set",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,0,,,,4,0,3,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Anonymous Class,"org.apache.tools.ant.IntrospectionHelper.createAttributeSetter.(Anon_8)",IntrospectionHelper.java,1,1,1,1,4,0,4,0,2,2,2,0,,0,0,,,,1,0,1,1,0,0,0,1,,5,0,,,,5,0,4,,,0,,,,,,,,,,1,2,1,,,1,,,,,,,,1,1,1,1,,1,0,,0,0,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.IntrospectionHelper.createAttributeSetter.(Anon_8).set",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,0,,,,4,0,3,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Anonymous Class,"org.apache.tools.ant.IntrospectionHelper.createAttributeSetter.(Anon_9)",IntrospectionHelper.java,1,1,1,1,4,0,4,0,2,2,2,0,,0,0,,,,1,0,1,1,0,0,0,1,,5,0,,,,5,0,4,,,0,,,,,,,,,,1,2,1,,,1,,,,,,,,1,1,1,1,,1,0,,0,0,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.IntrospectionHelper.createAttributeSetter.(Anon_9).set",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,0,,,,4,0,3,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.IntrospectionHelper.createElement",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,8,27,0,,,,22,6,16,,,5,,,,,,,7,10,1,9,13,4,,,9,,,6,6,6,4,6,,,,,6,,2,6,,,0,23,6,6,6,4
+Public Method,"org.apache.tools.ant.IntrospectionHelper.getAttributeType",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,13,0,,,,10,5,6,,,3,,,,,,,3,2,0,4,6,3,,,3,,,2,2,2,1,0,,,,,0,,1,0,,,0,30,2,2,2,1
+Public Method,"org.apache.tools.ant.IntrospectionHelper.getAttributes",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.IntrospectionHelper.getElementType",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,13,0,,,,10,5,6,,,3,,,,,,,3,2,0,4,6,3,,,3,,,2,2,2,1,0,,,,,0,,1,0,,,0,30,2,2,2,1
+Public Static Method,"org.apache.tools.ant.IntrospectionHelper.getHelper",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,10,11,0,,,,8,2,5,,,3,,,,,,,4,2,0,4,6,2,,,4,,,2,2,2,1,0,,,,,0,,1,0,,,0,38,2,2,2,1
+Public Method,"org.apache.tools.ant.IntrospectionHelper.getNestedElements",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Private Method,"org.apache.tools.ant.IntrospectionHelper.getPropertyName",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,8,0,,,,4,2,2,,,4,,,,,,,4,1,0,2,3,2,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.IntrospectionHelper.setAttribute",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,8,25,0,,,,21,7,14,,,4,,,,,,,6,8,1,8,12,4,,,8,,,5,5,5,1,3,,,,,0,,2,0,,,0,19,5,5,5,1
+Public Method,"org.apache.tools.ant.IntrospectionHelper.supportsCharacters",IntrospectionHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Class,"org.apache.tools.ant.IntrospectionHelperTest",IntrospectionHelperTest.java,4,4,4,1,24,1,23,0,1,2,2,0,,0,0,,,,5,0,5,5,0,0,0,5,,137,10,,,,122,15,91,,,5,,,,,,,,,,60,77,13,,,64,,,,,,,,14,14,14,1,,2,1,,0,0,0,04,20,20,20,5
+Public Constructor,"org.apache.tools.ant.IntrospectionHelperTest.IntrospectionHelperTest",IntrospectionHelperTest.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.IntrospectionHelperTest.testAddText",IntrospectionHelperTest.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,17,1,,,,16,2,12,,,0,,,,,,,5,4,1,8,11,2,,,9,,,3,3,3,1,2,,,,,0,,1,0,,,0,00,3,3,3,1
+Public Method,"org.apache.tools.ant.IntrospectionHelperTest.testElementCreators",IntrospectionHelperTest.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,77,3,,,,74,2,59,,,0,,,,,,,8,8192,4,33,47,2,,,45,,,14,14,14,1,13,,,,,0,,1,0,,,0,00,14,14,14,1
+Public Method,"org.apache.tools.ant.IntrospectionHelperTest.testGetNestedElements",IntrospectionHelperTest.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,16,0,,,,16,4,14,,,0,,,,,,,8,1,0,12,11,4,,,7,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.IntrospectionHelperTest.testSupportsCharacters",IntrospectionHelperTest.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,11,1,,,,10,4,5,,,0,,,,,,,1,1,0,5,5,3,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Class,"org.apache.tools.ant.Location",Location.java,1,1,1,1,10,1,5,3,1,0,0,0,,0,1,,,,4,3,4,4,0,1,0,3,,54,9,,,,28,10,14,,,17,,,,,,,,,,15,22,10,,,12,,,,,,,,3,3,3,1,,1,2,,58,8,0,61,6,6,6,4
+Public Constructor,"org.apache.tools.ant.Location.Location",Location.java,,,,,,,,,,,,,,,,,,,,,,,,,,,8,8,0,,,,5,1,3,,,3,,,,,,,4,1,0,3,4,1,,,3,,,1,1,1,1,0,,,,,0,,0,0,,,0,60,1,1,1,1
+Private Constructor,"org.apache.tools.ant.Location.Location",Location.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Constructor,"org.apache.tools.ant.Location.Location",Location.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.Location.toString",Location.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,21,4,,,,12,2,8,,,5,,,,,,,3,3,0,6,9,2,,,7,,,3,3,3,1,0,,,,,0,,2,0,,,0,42,3,3,3,1
+Public Class,"org.apache.tools.ant.Main",Main.java,5,5,7,3,36,3,27,6,1,5,5,0,,3,0,,,,4,7,7,7,0,4,2,1,,301,42,,,,199,44,159,,,63,,,,,,,,,,117,152,40,,,112,,,,,,,,19,19,29,17,,1,3,,69,46,0,32,39,39,49,23
+Protected Constructor,"org.apache.tools.ant.Main.Main",Main.java,,,,,,,,,,,,,,,,,,,,,,,,,,,10,108,12,,,,80,15,71,,,16,,,,,,,19,37,2,47,65,12,,,53,,,19,19,29,17,56,,,,,56,,3,55,,,0,20,19,19,29,17
+Protected Method,"org.apache.tools.ant.Main.addBuildListeners",Main.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,17,2,,,,14,4,8,,,1,,,,,,,6,3,0,7,10,4,,,6,,,3,3,3,1,1,,,,,0,,2,0,,,0,07,3,3,3,1
+Private Method,"org.apache.tools.ant.Main.createDefaultBuildListener",Main.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Static Method,"org.apache.tools.ant.Main.main",Main.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,16,0,,,,9,1,5,,,7,,,,,,,3,2,0,3,5,1,,,4,,,2,2,2,1,1,,,,,0,,1,0,,,0,78,2,2,2,1
+Private Static Method,"org.apache.tools.ant.Main.printUsage",Main.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,18,0,,,,15,3,13,,,3,,,,,,,4,1,0,13,14,3,,,11,,,1,1,1,1,0,,,,,0,,0,0,,,0,20,1,1,1,1
+Private Static Method,"org.apache.tools.ant.Main.printVersion",Main.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,23,1,,,,22,6,18,,,0,,,,,,,8,3,0,15,17,5,,,12,,,3,3,3,1,3,,,,,0,,1,0,,,0,00,3,3,3,1
+Private Method,"org.apache.tools.ant.Main.runBuild",Main.java,,,,,,,,,,,,,,,,,,,,,,,,,,,12,68,12,,,,47,6,36,,,12,,,,,,,18,37,2,24,31,6,,,25,,,10,10,10,1,10,,,,,0,,2,0,,,0,26,10,10,10,1
+Public Interface,"org.apache.tools.ant.Map",Map.java,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,,,,1,0,1,1,0,0,0,1,,4,1,,,,3,2,0,,,0,,,,,,,,,,1,2,2,,,0,,,,,,,,0,0,0,0,,0,0,,0,0,0,00,0,0,0,0
+Public Abstract Method,"org.apache.tools.ant.Map.get",Map.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,,,,1,1,0,,,0,,,,,,,1,0,0,1,1,1,,,0,,,0,0,0,0,0,,,,,0,,0,0,,,0,00,0,0,0,0
+Public Class,"org.apache.tools.ant.Path",Path.java,2,2,2,1,9,0,7,2,1,1,1,0,,3,1,,,,8,1,11,11,0,0,1,10,,161,27,,,,85,26,48,,,49,,,,,,,,,,48,74,30,,,44,,,,,,,,4,4,4,1,,1,2,,77,68,0,58,25,25,27,11
+Public Constructor,"org.apache.tools.ant.Path.Path",Path.java,,,,,,,,,,,,,,,,,,,,,,,,,,,10,4,0,,,,4,1,2,,,0,,,,,,,3,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Constructor,"org.apache.tools.ant.Path.Path",Path.java,,,,,,,,,,,,,,,,,,,,,,,,,,,13,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.Path.append",Path.java,,,,,,,,,,,,,,,,,,,,,,,,,,,16,11,0,,,,8,2,4,,,3,,,,,,,3,3,0,4,7,3,,,4,,,3,3,3,1,0,,,,,0,,2,0,,,0,38,3,3,3,1
+Public Method,"org.apache.tools.ant.Path.createPathElement",Path.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.Path.list",Path.java,,,,,,,,,,,,,,,,,,,,,,,,,,,11,9,0,,,,5,2,3,,,4,,,,,,,3,1,0,3,4,2,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,0,80,1,1,1,1
+Public Method,"org.apache.tools.ant.Path.setLocation",Path.java,,,,,,,,,,,,,,,,,,,,,,,,,,,7,13,0,,,,8,2,4,,,5,,,,,,,4,3,0,2,5,2,,,3,,,3,3,4,1,0,,,,,0,,2,0,,,0,62,3,3,4,1
+Public Method,"org.apache.tools.ant.Path.setPath",Path.java,,,,,,,,,,,,,,,,,,,,,,,,,,,6,13,0,,,,9,3,5,,,4,,,,,,,5,3,0,5,8,4,,,4,,,3,3,3,1,0,,,,,0,,2,0,,,0,44,3,3,3,1
+Public Method,"org.apache.tools.ant.Path.toString",Path.java,,,,,,,,,,,,,,,,,,,,,,,,,,,6,20,3,,,,10,3,7,,,7,,,,,,,4,3,0,8,11,4,,,7,,,3,3,3,1,1,,,,,0,,1,0,,,0,70,3,3,3,1
+Public Static Method,"org.apache.tools.ant.Path.translateFile",Path.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,10,2,,,,8,2,5,,,0,,,,,,,4,3,0,6,9,3,,,6,,,3,3,3,1,1,,,,,0,,1,0,,,0,00,3,3,3,1
+Protected Static Method,"org.apache.tools.ant.Path.translateFileSep",Path.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,7,0,,,,7,1,4,,,0,,,,,,,3,2,0,3,5,1,,,4,,,2,2,3,1,1,,,,,0,,1,0,,,0,00,2,2,3,1
+Public Static Method,"org.apache.tools.ant.Path.translatePath",Path.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,16,1,,,,15,4,11,,,0,,,,,,,10,4,1,11,15,5,,,10,,,4,4,4,1,1,,,,,0,,2,0,,,0,00,4,4,4,1
+Public Class,"org.apache.tools.ant.PathTest",PathTest.java,2,2,2,1,21,0,20,0,1,1,1,0,,0,1,,,,6,0,6,6,0,0,0,6,,143,13,,,,124,18,103,,,6,,,,,,,,,,89,103,18,,,85,,,,,,,,6,6,6,1,,2,1,,66,66,0,05,13,13,13,6
+Public Constructor,"org.apache.tools.ant.PathTest.PathTest",PathTest.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.PathTest.testAppending",PathTest.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,14,0,,,,14,3,12,,,0,,,,,,,6,1,0,12,13,3,,,10,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.PathTest.testConstructor",PathTest.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,58,4,,,,54,3,47,,,0,,,,,,,3,32,2,37,43,3,,,40,,,6,6,6,1,5,,,,,0,,1,0,,,0,00,6,6,6,1
+Public Method,"org.apache.tools.ant.PathTest.testEmpyPath",PathTest.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,14,0,,,,14,3,12,,,0,,,,,,,7,1,0,12,13,3,,,10,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.PathTest.testSetLocation",PathTest.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,23,1,,,,22,3,18,,,0,,,,,,,4,4,1,14,17,3,,,14,,,3,3,3,1,2,,,,,0,,1,0,,,0,00,3,3,3,1
+Public Method,"org.apache.tools.ant.PathTest.testUnique",PathTest.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,14,0,,,,14,3,12,,,0,,,,,,,6,1,0,12,13,3,,,10,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Class,"org.apache.tools.ant.PathTokenizer",PathTokenizer.java,2,2,3,1,13,1,10,1,1,0,0,0,,0,0,,,,3,3,3,3,0,0,0,3,,70,8,,,,37,9,21,,,25,,,,,,,,,,15,23,9,,,14,,,,,,,,4,4,8,1,,1,2,,22,22,0,68,7,7,11,3
+Public Constructor,"org.apache.tools.ant.PathTokenizer.PathTokenizer",PathTokenizer.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,0,,,,4,1,2,,,0,,,,,,,3,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.PathTokenizer.hasMoreTokens",PathTokenizer.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,7,1,,,,6,1,3,,,0,,,,,,,2,2,0,2,4,1,,,3,,,2,2,2,1,1,,,,,0,,1,0,,,0,00,2,2,2,1
+Public Method,"org.apache.tools.ant.PathTokenizer.nextToken",PathTokenizer.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,29,2,,,,22,3,15,,,5,,,,,,,9,6,1,8,12,3,,,9,,,4,4,8,1,2,,,,,0,,2,0,,,0,23,4,4,8,1
+Public Class,"org.apache.tools.ant.Project",Project.java,2,2,2,1,20,2,14,4,1,1,1,0,,0,13,,,,2,10,2,2,0,0,0,2,,90,14,,,,55,37,41,,,21,,,,,,,,,,40,43,35,,,8,,,,,,,,4,4,4,1,,1,2,,100,100,0,38,5,5,5,2
+Public Constructor,"org.apache.tools.ant.Project.Project",Project.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,0,,,,2,1,0,,,0,,,,,,,1,1,0,0,1,1,,,0,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.Project.init",Project.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,38,4,,,,26,10,22,,,8,,,,,,,14,6,1,16,18,10,,,8,,,4,4,4,1,3,,,,,0,,2,0,,,0,31,4,4,4,1
+Public Class,"org.apache.tools.ant.ProjectHelper",ProjectHelper.java,4,4,4,1,21,1,17,3,1,6,6,0,,3,1,,,,3,4,6,6,0,4,0,2,,439,69,,,,315,91,190,,,56,,,,,,,,,,147,227,85,,,142,,,,,,,,9,9,9,1,,1,3,,73,56,0,18,26,26,26,6
+Private Class,"org.apache.tools.ant.ProjectHelper.AbstractHandler",ProjectHelper.java,1,1,1,1,5,0,4,0,1,1,1,4,,0,0,,,,4,1,4,4,0,0,0,4,,40,7,,,,19,7,7,,,14,,,,,,,,,,7,13,7,,,6,,,,,,,,2,2,2,1,,2,1,,50,50,0,74,5,5,5,4
+Public Constructor,"org.apache.tools.ant.ProjectHelper.AbstractHandler.AbstractHandler",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,1,,,,4,1,2,,,1,,,,,,,3,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,0,25,1,1,1,1
+Public Method,"org.apache.tools.ant.ProjectHelper.AbstractHandler.characters",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,7,1,,,,6,2,3,,,0,,,,,,,2,2,0,2,4,2,,,2,,,2,2,2,1,0,,,,,0,,1,0,,,0,00,2,2,2,1
+Public Method,"org.apache.tools.ant.ProjectHelper.AbstractHandler.endElement",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,5,1,,,,3,1,1,,,1,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,33,1,1,1,1
+Public Method,"org.apache.tools.ant.ProjectHelper.AbstractHandler.startElement",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,0,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Private Class,"org.apache.tools.ant.ProjectHelper.NestedElementHandler",ProjectHelper.java,1,1,1,1,8,1,7,0,1,3,3,0,,0,0,,,,4,3,4,8,0,0,0,4,,46,9,,,,34,14,17,,,3,,,,,,,,,,16,24,12,,,12,,,,,,,,3,3,3,1,,3,1,,58,50,0,09,7,7,7,4
+Public Constructor,"org.apache.tools.ant.ProjectHelper.NestedElementHandler.NestedElementHandler",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,5,1,,,,4,1,2,,,0,,,,,,,3,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.ProjectHelper.NestedElementHandler.characters",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,6,13,2,,,,11,4,7,,,0,,,,,,,6,3,0,5,8,3,,,5,,,3,3,3,1,2,,,,,0,,1,0,,,0,00,3,3,3,1
+Public Method,"org.apache.tools.ant.ProjectHelper.NestedElementHandler.init",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,8,12,1,,,,11,4,7,,,0,,,,,,,7,2,0,5,7,3,,,4,,,2,2,2,1,1,,,,,0,,1,0,,,0,00,2,2,2,1
+Public Method,"org.apache.tools.ant.ProjectHelper.NestedElementHandler.startElement",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Private Class,"org.apache.tools.ant.ProjectHelper.ProjectHandler",ProjectHelper.java,2,2,2,1,10,1,8,0,1,3,3,0,,0,0,,,,6,0,6,10,0,3,0,3,,70,12,,,,55,13,37,,,3,,,,,,,,,,27,45,14,,,31,,,,,,,,9,9,9,1,,3,2,,0,0,0,05,17,17,17,6
+Public Constructor,"org.apache.tools.ant.ProjectHelper.ProjectHandler.ProjectHandler",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Private Method,"org.apache.tools.ant.ProjectHelper.ProjectHandler.handleProperty",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Private Method,"org.apache.tools.ant.ProjectHelper.ProjectHandler.handleTarget",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Private Method,"org.apache.tools.ant.ProjectHelper.ProjectHandler.handleTaskdef",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.ProjectHelper.ProjectHandler.init",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,37,7,,,,30,7,25,,,0,,,,,,,11,48,2,19,28,8,,,20,,,9,9,9,1,5,,,,,0,,2,0,,,0,00,9,9,9,1
+Public Method,"org.apache.tools.ant.ProjectHelper.ProjectHandler.startElement",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,11,0,,,,11,1,8,,,0,,,,,,,4,4,1,4,8,1,,,7,,,4,4,4,1,3,,,,,0,,1,0,,,0,00,4,4,4,1
+Private Constructor,"org.apache.tools.ant.ProjectHelper.ProjectHelper",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,7,0,,,,4,1,2,,,3,,,,,,,3,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,0,75,1,1,1,1
+Private Class,"org.apache.tools.ant.ProjectHelper.RootHandler",ProjectHelper.java,1,1,1,1,5,0,5,0,1,2,2,0,,0,0,,,,2,0,2,2,0,0,0,2,,16,1,,,,12,3,5,,,3,,,,,,,,,,3,7,3,,,4,,,,,,,,2,2,2,1,,2,1,,0,0,0,25,3,3,3,2
+Public Method,"org.apache.tools.ant.ProjectHelper.RootHandler.setDocumentLocator",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.ProjectHelper.RootHandler.startElement",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,7,0,,,,7,1,4,,,0,,,,,,,3,2,0,2,4,1,,,3,,,2,2,2,1,1,,,,,0,,1,0,,,0,00,2,2,2,1
+Private Class,"org.apache.tools.ant.ProjectHelper.TargetHandler",ProjectHelper.java,4,4,4,1,18,2,15,0,1,3,3,0,,0,0,,,,3,1,3,7,0,0,0,3,,64,10,,,,50,14,35,,,4,,,,,,,,,,27,41,14,,,27,,,,,,,,11,11,12,1,,3,2,,33,33,0,08,13,13,14,3
+Public Constructor,"org.apache.tools.ant.ProjectHelper.TargetHandler.TargetHandler",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.ProjectHelper.TargetHandler.init",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,49,7,,,,41,10,33,,,1,,,,,,,15,84,2,24,35,10,,,25,,,11,11,12,1,5,,,,,0,,2,0,,,0,02,11,11,12,1
+Public Method,"org.apache.tools.ant.ProjectHelper.TargetHandler.startElement",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Private Class,"org.apache.tools.ant.ProjectHelper.TaskHandler",ProjectHelper.java,1,1,1,1,8,1,7,0,1,7,7,0,,0,0,,,,4,2,4,8,0,0,0,4,,44,8,,,,32,10,17,,,4,,,,,,,,,,16,24,9,,,15,,,,,,,,3,3,3,1,,3,1,,37,37,0,12,7,7,7,4
+Public Constructor,"org.apache.tools.ant.ProjectHelper.TaskHandler.TaskHandler",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,1,,,,4,1,2,,,0,,,,,,,3,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.ProjectHelper.TaskHandler.characters",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,6,13,2,,,,11,4,7,,,0,,,,,,,6,3,0,5,8,3,,,5,,,3,3,3,1,2,,,,,0,,1,0,,,0,00,3,3,3,1
+Public Method,"org.apache.tools.ant.ProjectHelper.TaskHandler.init",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,10,12,1,,,,10,1,7,,,1,,,,,,,11,2,0,6,8,1,,,7,,,2,2,2,1,0,,,,,0,,1,0,,,0,10,2,2,2,1
+Public Method,"org.apache.tools.ant.ProjectHelper.TaskHandler.startElement",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Private Method,"org.apache.tools.ant.ProjectHelper.configure",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,8,27,3,,,,23,5,17,,,1,,,,,,,17,8,1,9,14,4,,,10,,,5,5,5,1,2,,,,,0,,3,0,,,0,04,5,5,5,1
+Public Static Method,"org.apache.tools.ant.ProjectHelper.configureProject",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Private Static Method,"org.apache.tools.ant.ProjectHelper.getParserFactory",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,7,1,,,,6,1,3,,,0,,,,,,,3,2,0,2,4,1,,,3,,,2,2,2,1,0,,,,,0,,1,0,,,0,00,2,2,2,1
+Private Method,"org.apache.tools.ant.ProjectHelper.parse",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,8,41,2,,,,36,6,24,,,3,,,,,,,16,9,1,15,20,5,,,15,,,9,9,9,1,15,,,,,0,,3,0,,,0,08,9,9,9,1
+Public Static Method,"org.apache.tools.ant.ProjectHelper.replaceProperties",ProjectHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,43,1,,,,34,10,24,,,9,,,,,,,10,18,1,17,24,8,,,16,,,8,8,8,1,2,,,,,0,,3,0,,,0,26,8,8,8,1
+Public Class,"org.apache.tools.ant.Target",Target.java,1,1,1,1,4,0,4,0,1,3,3,0,,0,0,,,,13,6,13,13,1,0,0,12,,86,14,,,,67,24,31,,,5,,,,,,,,,,27,42,20,,,22,,,,,,,,4,4,5,1,,1,3,,85,84,0,07,20,20,21,13
+Public Method,"org.apache.tools.ant.Target.addDependency",Target.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.Target.addTask",Target.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.Target.execute",Target.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,19,1,,,,18,1,13,,,0,,,,,,,7,4,1,8,10,1,,,9,,,4,4,5,1,1,,,,,0,,3,0,,,0,00,4,4,5,1
+Public Method,"org.apache.tools.ant.Target.getDependencies",Target.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.Target.getName",Target.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.Target.getProject",Target.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Constructor,"org.apache.tools.ant.Target.project.log",Target.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,0,0,0,,,0,,,,,,,1,1,0,0,0,0,,,0,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.Target.setDepends",Target.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,9,0,,,,9,3,4,,,0,,,,,,,5,3,0,2,5,2,,,3,,,3,3,3,1,0,,,,,0,,2,0,,,0,00,3,3,3,1
+Public Method,"org.apache.tools.ant.Target.setIf",Target.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,2,2,2,1,0,,,,,0,,0,0,,,0,00,2,2,2,1
+Public Method,"org.apache.tools.ant.Target.setName",Target.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.Target.setProject",Target.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.Target.setUnless",Target.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,2,2,2,1,0,,,,,0,,0,0,,,0,00,2,2,2,1
+Public Method,"org.apache.tools.ant.Target.toString",Target.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Abstract Class,"org.apache.tools.ant.Task",Task.java,1,1,1,1,7,0,2,4,1,4,4,26,,0,0,,,,15,6,15,15,2,0,0,13,,139,17,,,,49,22,19,,,73,,,,,,,,,,20,35,22,,,13,,,,,,,,1,1,1,1,,1,0,,86,85,1,49,15,15,15,15
+Public Method,"org.apache.tools.ant.Task.execute",Task.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,5,0,,,,0,0,0,,,5,,,,,,,0,1,0,0,1,1,,,0,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.Task.getDescription",Task.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.Task.getLocation",Task.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.Task.getOwningTarget",Task.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.Task.getProject",Task.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.Task.getTaskName",Task.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.Task.init",Task.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,0,,,,1,1,0,,,5,,,,,,,0,1,0,0,1,1,,,0,,,1,1,1,1,0,,,,,0,,0,0,,,5,00,1,1,1,1
+Public Method,"org.apache.tools.ant.Task.log",Task.java,,,,,,,,,,,,,,,,,,,,,,,,,,,20,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.Task.log",Task.java,,,,,,,,,,,,,,,,,,,,,,,,,,,48,9,0,,,,3,1,1,,,6,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,00,1,1,1,1
+Public Method,"org.apache.tools.ant.Task.setDescription",Task.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.Task.setLocation",Task.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.Task.setOwningTarget",Task.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Method,"org.apache.tools.ant.Task.setProject",Task.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,11,0,,,,3,1,1,,,8,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,67,1,1,1,1
+Public Method,"org.apache.tools.ant.Task.setTaskName",Task.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Method,"org.apache.tools.ant.Task.setTaskType",Task.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Class,"org.apache.tools.ant.TaskAdapter",TaskAdapter.java,1,1,1,1,9,0,7,2,1,2,2,0,,0,0,,,,3,1,3,18,0,0,0,3,,43,6,,,,25,7,14,,,12,,,,,,,,,,12,18,7,,,11,,,,,,,,3,3,3,1,,2,2,,0,0,0,48,5,5,5,3
+Public Method,"org.apache.tools.ant.TaskAdapter.execute",TaskAdapter.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,20,1,,,,16,3,12,,,3,,,,,,,5,3,0,9,12,3,,,9,,,3,3,3,1,1,,,,,0,,2,0,,,0,19,3,3,3,1
+Public Method,"org.apache.tools.ant.TaskAdapter.getProxy",TaskAdapter.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.TaskAdapter.setProxy",TaskAdapter.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Class,"org.apache.tools.ant.XmlLogger",XmlLogger.java,2,2,2,1,15,2,12,1,2,6,6,0,,3,10,,,,8,7,11,11,0,3,0,8,,208,37,,,,150,45,100,,,21,,,,,,,,,,99,127,49,,,78,,,,,,,,9,9,9,1,,1,3,,72,72,0,14,29,27,29,11
+Public Constructor,"org.apache.tools.ant.XmlLogger.XmlLogger",XmlLogger.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,5,0,,,,2,1,0,,,3,,,,,,,1,1,0,0,1,1,,,0,,,1,1,1,1,0,,,,,0,,0,0,,,1,50,1,1,1,1
+Public Method,"org.apache.tools.ant.XmlLogger.buildFinished",XmlLogger.java,,,,,,,,,,,,,,,,,,,,,,,,,,,6,20,3,,,,17,3,12,,,0,,,,,,,9,4,1,9,12,3,,,9,,,3,3,3,1,1,,,,,0,,1,0,,,0,00,3,3,3,1
+Public Method,"org.apache.tools.ant.XmlLogger.buildStarted",XmlLogger.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,6,1,,,,5,1,3,,,0,,,,,,,6,1,0,3,4,1,,,3,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Private Static Method,"org.apache.tools.ant.XmlLogger.formatTime",XmlLogger.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,13,3,,,,10,3,6,,,0,,,,,,,2,2,0,4,6,3,,,3,,,2,2,2,1,1,,,,,0,,1,0,,,0,00,2,2,2,1
+Private Static Method,"org.apache.tools.ant.XmlLogger.getDocumentBuilder",XmlLogger.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,8,1,4,,,0,,,,,,,3,2,0,2,4,1,,,3,,,2,2,2,1,1,,,,,0,,1,0,,,0,00,2,2,2,1
+Public Method,"org.apache.tools.ant.XmlLogger.messageLogged",XmlLogger.java,,,,,,,,,,,,,,,,,,,,,,,,,,,10,25,3,,,,22,4,16,,,0,,,,,,,6,12,1,16,20,4,,,16,,,6,4,6,1,8,,,,,0,,1,0,,,0,00,6,4,6,1
+Public Method,"org.apache.tools.ant.XmlLogger.targetFinished",XmlLogger.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,7,1,,,,6,2,4,,,0,,,,,,,5,1,0,4,5,2,,,3,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.XmlLogger.targetStarted",XmlLogger.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,0,,,,5,1,3,,,0,,,,,,,7,1,0,3,4,1,,,3,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.XmlLogger.taskFinished",XmlLogger.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,7,1,,,,6,2,4,,,0,,,,,,,5,1,0,4,5,2,,,3,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.XmlLogger.taskStarted",XmlLogger.java,,,,,,,,,,,,,,,,,,,,,,,,,,,6,13,2,,,,11,3,8,,,0,,,,,,,12,2,0,7,9,3,,,6,,,2,2,2,1,0,,,,,0,,1,0,,,0,00,2,2,2,1
+Private Static Method,"org.apache.tools.ant.XmlLogger.write",XmlLogger.java,,,,,,,,,,,,,,,,,,,,,,,,,,,6,59,8,,,,40,6,30,,,11,,,,,,,10,84,2,30,39,10,,,29,,,9,9,9,1,0,,,,,0,,3,0,,,0,28,9,9,9,1
+Package,"org.apache.tools.ant.taskdefs",Ant.java,2,2,2,1,12,0,9,2,,,,,51,2,4,,43,,349,221,351,,4,35,24,288,,8072,877,,,,3801,1170,2244,,,3430,,,,,,,,,,1891,2803,1167,,,1636,,,,,,,,71,71,78,11,,,6,,,,0,90,898,895,949,404
+Public Class,"org.apache.tools.ant.taskdefs.Ant",Ant.java,2,2,2,1,11,1,9,0,1,6,6,0,,0,0,,,,7,6,7,22,0,0,0,7,,119,19,,,,74,27,49,,,26,,,,,,,,,,44,61,28,,,33,,,,,,,,6,6,6,1,,2,2,,69,69,0,35,16,16,16,7
+Public Method,"org.apache.tools.ant.taskdefs.Ant.createProperty",Ant.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,0,,,,6,2,4,,,0,,,,,,,4,1,0,4,5,2,,,3,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Ant.execute",Ant.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,28,6,,,,17,3,13,,,5,,,,,,,12,16,1,11,16,3,,,13,,,5,5,5,1,0,,,,,0,,1,0,,,0,29,5,5,5,1
+Public Method,"org.apache.tools.ant.taskdefs.Ant.init",Ant.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,36,4,,,,31,11,23,,,1,,,,,,,17,24,1,19,25,12,,,13,,,6,6,6,1,1,,,,,0,,2,0,,,0,03,6,6,6,1
+Public Method,"org.apache.tools.ant.taskdefs.Ant.setAntfile",Ant.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Ant.setDir",Ant.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Ant.setOutput",Ant.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Ant.setTarget",Ant.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.AntStructure",AntStructure.java,2,2,2,1,21,3,14,4,1,1,1,0,,0,0,,,,2,3,2,17,0,0,0,2,,61,12,,,,35,12,23,,,14,,,,,,,,,,20,24,10,,,14,,,,,,,,4,4,4,1,,2,2,,66,66,0,40,5,5,5,2
+Public Method,"org.apache.tools.ant.taskdefs.AntStructure.execute",AntStructure.java,,,,,,,,,,,,,,,,,,,,,,,,,,,6,37,6,,,,25,4,20,,,6,,,,,,,10,8,1,15,18,5,,,13,,,4,4,4,1,1,,,,,0,,2,0,,,0,24,4,4,4,1
+Public Method,"org.apache.tools.ant.taskdefs.AntStructure.setOutput",AntStructure.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.Available",Available.java,1,1,1,1,5,0,5,0,1,2,2,0,,0,0,,,,9,4,9,24,0,3,0,6,,67,11,,,,51,15,25,,,5,,,,,,,,,,23,38,15,,,23,,,,,,,,4,4,7,4,,2,1,,75,75,0,10,14,14,17,12
+Private Method,"org.apache.tools.ant.taskdefs.Available.checkClass",Available.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,9,0,,,,9,1,6,,,0,,,,,,,4,2,0,4,6,1,,,5,,,2,2,2,1,1,,,,,0,,1,0,,,0,00,2,2,2,1
+Private Method,"org.apache.tools.ant.taskdefs.Available.checkFile",Available.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,9,0,,,,9,2,6,,,0,,,,,,,4,2,0,4,6,2,,,4,,,2,2,2,1,1,,,,,0,,1,0,,,0,00,2,2,2,1
+Private Method,"org.apache.tools.ant.taskdefs.Available.checkResource",Available.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Available.init",Available.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,7,1,,,,6,1,4,,,0,,,,,,,4,4,1,4,8,1,,,7,,,4,4,7,4,3,,,,,3,,1,3,,,0,00,4,4,7,4
+Public Method,"org.apache.tools.ant.taskdefs.Available.setClass",Available.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,0,,,,6,1,4,,,0,,,,,,,2,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Available.setClassname",Available.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Available.setFile",Available.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Available.setProperty",Available.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Available.setResource",Available.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.Chmod",Chmod.java,2,2,2,1,7,0,6,0,1,3,3,0,,0,0,,,,6,3,6,35,0,1,0,5,,63,11,,,,44,12,23,,,10,,,,,,,,,,18,31,13,,,18,,,,,,,,7,7,11,1,,3,4,,66,55,0,23,12,12,16,6
+Private Method,"org.apache.tools.ant.taskdefs.Chmod.chmod",Chmod.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Chmod.execute",Chmod.java,,,,,,,,,,,,,,,,,,,,,,,,,,,6,26,3,,,,21,3,15,,,2,,,,,,,9,7,1,9,16,4,,,12,,,7,7,11,1,3,,,,,0,,4,0,,,0,10,7,7,11,1
+Public Method,"org.apache.tools.ant.taskdefs.Chmod.setDir",Chmod.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Chmod.setFile",Chmod.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Chmod.setPerm",Chmod.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Chmod.setSrc",Chmod.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,0,,,,6,1,4,,,0,,,,,,,2,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.CompileTask",CompileTask.java,1,1,1,1,12,1,7,4,1,2,2,0,,0,0,,,,3,1,3,47,0,0,0,3,,51,8,,,,24,10,14,,,19,,,,,,,,,,16,20,12,,,8,,,,,,,,3,3,3,1,,4,1,,33,33,0,79,5,5,5,3
+Public Method,"org.apache.tools.ant.taskdefs.CompileTask.createTaskdef",CompileTask.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,5,2,3,,,3,,,,,,,2,1,0,3,4,2,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,0,60,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.CompileTask.execute",CompileTask.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,5,0,,,,2,1,0,,,3,,,,,,,0,1,0,0,1,1,,,0,,,1,1,1,1,0,,,,,0,,0,0,,,1,50,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.CompileTask.init",CompileTask.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,24,4,,,,14,5,10,,,6,,,,,,,10,4,1,12,13,7,,,6,,,3,3,3,1,0,,,,,0,,1,0,,,0,43,3,3,3,1
+Public Class,"org.apache.tools.ant.taskdefs.Copydir",Copydir.java,1,1,1,1,8,0,8,0,1,3,3,0,,0,0,,,,5,5,5,34,0,0,0,5,,62,9,,,,48,16,30,,,5,,,,,,,,,,21,29,15,,,14,,,,,,,,5,5,5,1,,3,2,,64,64,0,10,9,9,9,5
+Public Method,"org.apache.tools.ant.taskdefs.Copydir.execute",Copydir.java,,,,,,,,,,,,,,,,,,,,,,,,,,,10,32,3,,,,29,6,23,,,0,,,,,,,13,12,1,12,15,5,,,10,,,5,5,5,1,1,,,,,0,,2,0,,,0,00,5,5,5,1
+Public Method,"org.apache.tools.ant.taskdefs.Copydir.setDest",Copydir.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Copydir.setFiltering",Copydir.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Copydir.setForceoverwrite",Copydir.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Copydir.setSrc",Copydir.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.Copyfile",Copyfile.java,1,1,1,1,5,0,5,0,1,2,2,0,,0,0,,,,4,3,4,19,0,0,0,4,,35,5,,,,25,10,11,,,5,,,,,,,,,,9,16,9,,,7,,,,,,,,3,3,3,1,,2,2,,50,50,0,20,6,6,6,4
+Public Method,"org.apache.tools.ant.taskdefs.Copyfile.execute",Copyfile.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,11,0,,,,11,3,7,,,0,,,,,,,5,3,0,3,6,2,,,4,,,3,3,3,1,1,,,,,0,,2,0,,,0,00,3,3,3,1
+Public Method,"org.apache.tools.ant.taskdefs.Copyfile.setDest",Copyfile.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Copyfile.setFiltering",Copyfile.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Copyfile.setSrc",Copyfile.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.Cvs",Cvs.java,2,2,2,1,7,1,5,0,1,1,1,0,,0,0,,,,9,7,9,33,0,0,0,9,,92,20,,,,61,18,33,,,11,,,,,,,,,,26,45,18,,,27,,,,,,,,7,7,7,1,,3,2,,77,77,0,18,20,20,21,9
+Public Method,"org.apache.tools.ant.taskdefs.Cvs.execute",Cvs.java,,,,,,,,,,,,,,,,,,,,,,,,,,,7,27,7,,,,18,2,14,,,2,,,,,,,3,16,1,8,13,2,,,11,,,7,7,7,1,0,,,,,0,,1,0,,,0,11,7,7,7,1
+Public Method,"org.apache.tools.ant.taskdefs.Cvs.setCommand",Cvs.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Cvs.setCvsRoot",Cvs.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,9,1,,,,7,1,4,,,1,,,,,,,3,3,0,2,5,1,,,4,,,3,3,3,1,0,,,,,0,,2,0,,,0,14,3,3,3,1
+Public Method,"org.apache.tools.ant.taskdefs.Cvs.setDate",Cvs.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,5,0,,,,5,1,3,,,0,,,,,,,3,2,0,2,4,1,,,3,,,2,2,3,1,0,,,,,0,,1,0,,,0,00,2,2,3,1
+Public Method,"org.apache.tools.ant.taskdefs.Cvs.setDest",Cvs.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Cvs.setNoexec",Cvs.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Cvs.setPackage",Cvs.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Cvs.setQuiet",Cvs.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Cvs.setTag",Cvs.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,9,1,,,,7,1,4,,,1,,,,,,,3,3,0,2,5,1,,,4,,,3,3,3,1,0,,,,,0,,2,0,,,0,14,3,3,3,1
+Public Class,"org.apache.tools.ant.taskdefs.Delete",Delete.java,4,4,4,1,20,2,12,5,1,3,3,0,,0,0,,,,4,3,4,33,0,0,0,4,,97,14,,,,55,11,33,,,28,,,,,,,,,,21,38,12,,,26,,,,,,,,12,12,13,1,,3,4,,50,50,0,51,16,16,18,4
+Public Method,"org.apache.tools.ant.taskdefs.Delete.execute",Delete.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,53,9,,,,37,4,24,,,7,,,,,,,9,110,2,14,26,5,,,21,,,12,12,13,1,2,,,,,0,,4,0,,,0,19,12,12,13,1
+Public Method,"org.apache.tools.ant.taskdefs.Delete.setDir",Delete.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,8,0,,,,3,1,1,,,5,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Delete.setFile",Delete.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,8,0,,,,3,1,1,,,5,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Delete.setVerbose",Delete.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,12,0,,,,7,1,4,,,5,,,,,,,3,2,0,2,4,1,,,3,,,2,2,3,1,1,,,,,0,,1,0,,,0,71,2,2,3,1
+Public Class,"org.apache.tools.ant.taskdefs.Deltree",Deltree.java,3,3,3,1,16,1,12,3,1,1,1,0,,0,0,,,,3,1,3,18,0,1,0,2,,61,7,,,,40,9,23,,,14,,,,,,,,,,16,28,10,,,18,,,,,,,,5,5,5,3,,2,3,,33,33,0,35,11,11,11,5
+Public Method,"org.apache.tools.ant.taskdefs.Deltree.execute",Deltree.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,21,1,,,,17,2,11,,,3,,,,,,,7,5,1,6,11,2,,,9,,,5,5,5,3,3,,,,,2,,3,2,,,0,18,5,5,5,3
+Private Method,"org.apache.tools.ant.taskdefs.Deltree.removeDir",Deltree.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,25,2,,,,17,4,11,,,6,,,,,,,5,8,1,8,13,5,,,8,,,5,5,5,1,1,,,,,0,,3,0,,,0,35,5,5,5,1
+Public Method,"org.apache.tools.ant.taskdefs.Deltree.setDir",Deltree.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.Echo",Echo.java,1,1,1,1,8,0,3,5,1,1,1,0,,0,0,,,,2,1,2,17,0,0,0,2,,26,2,,,,9,4,2,,,16,,,,,,,,,,3,6,4,,,2,,,,,,,,1,1,1,1,,2,0,,0,0,1,78,2,2,2,2
+Public Method,"org.apache.tools.ant.taskdefs.Echo.execute",Echo.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Echo.setMessage",Echo.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.Exec",Exec.java,2,2,2,1,12,1,9,1,1,3,3,5,,0,1,,,,9,6,9,24,0,0,3,6,,181,30,,,,133,41,81,,,19,,,,,,,,,,65,96,37,,,59,,,,,,,,13,13,14,1,,2,4,,75,66,0,14,23,23,24,9
+Class,"org.apache.tools.ant.taskdefs.Exec.StreamPumper",Exec.java,2,2,2,1,10,0,9,0,1,1,1,0,,0,0,,,,3,5,3,3,0,0,0,3,,40,4,,,,36,12,20,,,0,,,,,,,,,,15,24,11,,,13,,,,,,,,4,4,4,1,,2,3,,40,33,0,00,8,8,8,3
+Public Constructor,"org.apache.tools.ant.taskdefs.Exec.StreamPumper.StreamPumper",Exec.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,5,0,,,,5,1,3,,,0,,,,,,,4,1,0,3,4,1,,,3,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Exec.StreamPumper.pumpStream",Exec.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,14,1,,,,13,4,7,,,0,,,,,,,3,3,0,4,7,3,,,4,,,3,3,3,1,1,,,,,0,,2,0,,,0,00,3,3,3,1
+Public Method,"org.apache.tools.ant.taskdefs.Exec.StreamPumper.run",Exec.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,11,0,,,,11,1,8,,,0,,,,,,,3,4,1,3,7,1,,,6,,,4,4,4,1,2,,,,,0,,3,0,,,0,00,4,4,4,1
+Public Method,"org.apache.tools.ant.taskdefs.Exec.execute",Exec.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Protected Method,"org.apache.tools.ant.taskdefs.Exec.logFlush",Exec.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,0,,,,3,1,1,,,0,,,,,,,1,2,0,1,3,1,,,2,,,2,2,2,1,0,,,,,0,,1,0,,,0,00,2,2,2,1
+Protected Method,"org.apache.tools.ant.taskdefs.Exec.outputLog",Exec.java,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,0,,,,6,1,4,,,0,,,,,,,2,2,0,2,4,1,,,3,,,2,2,2,1,1,,,,,0,,1,0,,,0,00,2,2,2,1
+Protected Method,"org.apache.tools.ant.taskdefs.Exec.run",Exec.java,,,,,,,,,,,,,,,,,,,,,,,,,,,18,85,15,,,,60,12,47,,,11,,,,,,,24,97,2,33,45,10,,,35,,,13,13,14,1,7,,,,,0,,4,0,,,0,18,13,13,14,1
+Public Method,"org.apache.tools.ant.taskdefs.Exec.setCommand",Exec.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Exec.setDir",Exec.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Exec.setFailonerror",Exec.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Exec.setOs",Exec.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Exec.setOutput",Exec.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.Expand",Expand.java,4,4,4,1,28,3,19,6,1,3,3,0,,0,0,,,,3,2,3,18,0,0,0,3,,100,14,,,,61,16,42,,,27,,,,,,,,,,30,43,16,,,27,,,,,,,,10,10,10,1,,2,5,,33,33,0,44,12,12,12,3
+Public Method,"org.apache.tools.ant.taskdefs.Expand.execute",Expand.java,,,,,,,,,,,,,,,,,,,,,,,,,,,10,69,11,,,,51,11,40,,,7,,,,,,,22,54,2,26,36,11,,,25,,,10,10,10,1,4,,,,,0,,5,0,,,0,14,10,10,10,1
+Public Method,"org.apache.tools.ant.taskdefs.Expand.setDest",Expand.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,9,0,,,,3,1,1,,,6,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Expand.setSrc",Expand.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.Filter",Filter.java,1,1,1,1,3,0,3,0,1,1,1,0,,0,0,,,,3,2,3,18,0,0,0,3,,23,4,,,,13,6,3,,,6,,,,,,,,,,5,9,6,,,3,,,,,,,,1,1,1,1,,2,0,,33,33,0,46,3,3,3,3
+Public Method,"org.apache.tools.ant.taskdefs.Filter.init",Filter.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Filter.setToken",Filter.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Filter.setValue",Filter.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.FixCRLF",FixCRLF.java,7,6,7,1,33,2,21,10,1,5,5,0,,0,0,,,,8,6,8,37,0,0,0,8,,320,33,,,,181,39,133,,,118,,,,,,,,,,99,148,42,,,106,,,,,,,,42,39,47,1,,3,5,,70,70,0,65,57,54,63,8
+Public Static Class,"org.apache.tools.ant.taskdefs.FixCRLF.AddAsisRemove",FixCRLF.java,1,1,1,1,3,0,3,0,1,0,0,0,,0,0,,,,1,0,1,6,0,0,0,1,,8,0,,,,5,2,1,,,3,,,,,,,,,,1,3,2,,,1,,,,,,,,1,1,1,1,,2,0,,0,0,0,60,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.FixCRLF.AddAsisRemove.getValues",FixCRLF.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Constructor,"org.apache.tools.ant.taskdefs.FixCRLF.FixCRLF",FixCRLF.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,14,0,,,,9,1,6,,,9,,,,,,,5,2,0,4,6,1,,,5,,,2,2,2,1,1,,,,,0,,1,0,,,1,00,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.FixCRLF.execute",FixCRLF.java,,,,,,,,,,,,,,,,,,,,,,,,,,,10,162,22,,,,116,20,97,,,28,,,,,,,10,3628840,7,72,103,23,,,80,,,42,39,47,1,14,,,,,0,,5,0,,,0,24,42,39,47,1
+Public Method,"org.apache.tools.ant.taskdefs.FixCRLF.setCr",FixCRLF.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,21,0,,,,10,2,7,,,11,,,,,,,3,3,0,4,7,2,,,5,,,3,3,3,1,2,,,,,0,,1,0,,,1,10,3,3,3,1
+Public Method,"org.apache.tools.ant.taskdefs.FixCRLF.setDestdir",FixCRLF.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,7,0,,,,3,1,1,,,4,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,33,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.FixCRLF.setEof",FixCRLF.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,21,0,,,,10,2,7,,,11,,,,,,,3,3,0,4,7,2,,,5,,,3,3,3,1,2,,,,,0,,1,0,,,1,10,3,3,3,1
+Public Method,"org.apache.tools.ant.taskdefs.FixCRLF.setSrcdir",FixCRLF.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.FixCRLF.setTab",FixCRLF.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,21,0,,,,10,2,7,,,11,,,,,,,3,3,0,4,7,2,,,5,,,3,3,3,1,2,,,,,0,,1,0,,,1,10,3,3,3,1
+Public Method,"org.apache.tools.ant.taskdefs.FixCRLF.setTablength",FixCRLF.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,12,0,,,,7,1,4,,,5,,,,,,,2,2,0,2,4,1,,,3,,,2,2,3,1,0,,,,,0,,1,0,,,0,71,2,2,3,1
+Public Class,"org.apache.tools.ant.taskdefs.GUnzip",GUnzip.java,5,5,5,1,22,2,20,0,1,1,1,0,,0,0,,,,3,2,3,18,0,0,0,3,,81,10,,,,64,13,44,,,7,,,,,,,,,,26,42,13,,,29,,,,,,,,14,14,15,1,,2,3,,33,33,0,11,16,16,17,3
+Public Method,"org.apache.tools.ant.taskdefs.GUnzip.execute",GUnzip.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,60,6,,,,54,8,42,,,0,,,,,,,17,912,3,22,35,8,,,27,,,14,14,15,1,4,,,,,0,,3,0,,,0,00,14,14,15,1
+Public Method,"org.apache.tools.ant.taskdefs.GUnzip.setDest",GUnzip.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.GUnzip.setSrc",GUnzip.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.GZip",GZip.java,2,2,2,1,10,0,9,0,1,2,2,0,,0,0,,,,5,2,5,20,0,2,0,3,,68,8,,,,52,15,29,,,8,,,,,,,,,,20,31,13,,,18,,,,,,,,5,5,5,1,,2,2,,60,60,0,15,10,10,10,5
+Public Method,"org.apache.tools.ant.taskdefs.GZip.execute",GZip.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,25,2,,,,22,3,16,,,1,,,,,,,8,9,1,8,13,3,,,10,,,5,5,5,1,3,,,,,0,,2,0,,,0,05,5,5,5,1
+Public Method,"org.apache.tools.ant.taskdefs.GZip.setSrc",GZip.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.GZip.setZipfile",GZip.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Private Method,"org.apache.tools.ant.taskdefs.GZip.zipFile",GZip.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,10,0,,,,10,4,6,,,0,,,,,,,2,1,0,5,6,3,,,3,,,2,2,2,1,0,,,,,0,,1,0,,,0,00,2,2,2,1
+Private Method,"org.apache.tools.ant.taskdefs.GZip.zipFile",GZip.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,10,0,,,,10,3,5,,,0,,,,,,,2,1,0,3,5,2,,,3,,,1,1,1,1,0,,,,,0,,1,0,,,0,00,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.Get",Get.java,3,3,3,2,16,1,10,5,1,1,1,0,,0,0,,,,5,4,5,20,0,0,0,5,,98,10,,,,58,16,37,,,32,,,,,,,,,,33,49,17,,,32,,,,,,,,11,11,11,7,,2,3,,60,60,0,55,15,15,15,11
+Public Method,"org.apache.tools.ant.taskdefs.Get.execute",Get.java,,,,,,,,,,,,,,,,,,,,,,,,,,,7,50,5,,,,40,7,31,,,5,,,,,,,10,80,2,25,36,8,,,28,,,11,11,11,7,9,,,,,9,,3,8,,,0,12,11,11,11,7
+Public Method,"org.apache.tools.ant.taskdefs.Get.setDest",Get.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Get.setIgnoreErrors",Get.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Get.setSrc",Get.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Get.setVerbose",Get.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.Jar",Jar.java,1,1,1,1,9,0,7,2,1,1,1,0,,0,0,,,,5,1,5,42,0,0,3,2,,61,6,,,,38,12,16,,,17,,,,,,,,,,12,22,9,,,13,,,,,,,,3,3,3,1,,4,2,,60,60,0,45,9,9,9,5
+Protected Method,"org.apache.tools.ant.taskdefs.Jar.initZipOutputStream",Jar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,23,0,,,,14,4,9,,,9,,,,,,,8,3,0,6,9,3,,,6,,,3,3,3,1,1,,,,,0,,2,0,,,0,64,3,3,3,1
+Public Method,"org.apache.tools.ant.taskdefs.Jar.setJarfile",Jar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,4,0,,,,4,1,2,,,0,,,,,,,1,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Jar.setManifest",Jar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Protected Method,"org.apache.tools.ant.taskdefs.Jar.zipDir",Jar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,9,0,,,,7,2,2,,,2,,,,,,,2,2,0,1,3,1,,,2,,,2,2,2,1,0,,,,,0,,1,0,,,0,29,2,2,2,1
+Protected Method,"org.apache.tools.ant.taskdefs.Jar.zipFile",Jar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,8,0,,,,7,2,2,,,1,,,,,,,2,2,0,1,3,1,,,2,,,2,2,2,1,0,,,,,0,,1,0,,,0,14,2,2,2,1
+Public Class,"org.apache.tools.ant.taskdefs.Java",Java.java,2,2,2,1,12,0,8,3,1,3,3,0,,0,0,,,,12,5,12,36,0,0,3,9,,181,22,,,,111,29,73,,,48,,,,,,,,,,55,81,30,,,51,,,,,,,,7,7,7,1,,3,2,,80,71,0,43,28,28,28,12
+Protected Method,"org.apache.tools.ant.taskdefs.Java.array",Java.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,13,2,,,,8,3,5,,,3,,,,,,,5,2,0,6,8,4,,,4,,,2,2,2,1,0,,,,,0,,1,0,,,0,38,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.Java.createClasspath",Java.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,9,0,,,,6,1,3,,,3,,,,,,,3,2,0,2,4,1,,,3,,,2,2,2,1,0,,,,,0,,1,0,,,0,50,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.Java.execute",Java.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Java.executeJava",Java.java,,,,,,,,,,,,,,,,,,,,,,,,,,,10,43,4,,,,33,3,25,,,6,,,,,,,9,20,1,18,25,3,,,22,,,7,7,7,1,1,,,,,0,,2,0,,,0,18,7,7,7,1
+Protected Method,"org.apache.tools.ant.taskdefs.Java.run",Java.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,26,0,,,,20,6,16,,,6,,,,,,,7,6,1,10,13,6,,,7,,,6,6,6,1,10,,,,,0,,2,0,,,0,30,6,6,6,1
+Public Method,"org.apache.tools.ant.taskdefs.Java.setArgs",Java.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Java.setClass",Java.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,9,0,,,,6,1,4,,,3,,,,,,,2,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,0,50,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Java.setClassname",Java.java,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Java.setClasspath",Java.java,,,,,,,,,,,,,,,,,,,,,,,,,,,6,10,0,,,,7,1,4,,,3,,,,,,,2,2,0,2,4,1,,,3,,,2,2,2,1,1,,,,,0,,1,0,,,0,43,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.Java.setFork",Java.java,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Java.setJvmargs",Java.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Protected Method,"org.apache.tools.ant.taskdefs.Java.tokenize",Java.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,15,3,,,,9,3,6,,,3,,,,,,,4,3,0,5,8,3,,,5,,,3,3,3,1,1,,,,,0,,1,0,,,0,33,3,3,3,1
+Public Class,"org.apache.tools.ant.taskdefs.Javac",Javac.java,2,2,2,1,13,0,8,3,1,4,4,1,,0,1,,,,15,12,15,44,0,0,0,15,,265,32,,,,148,39,90,,,85,,,,,,,,,,64,99,38,,,61,,,,,,,,14,14,14,1,,3,2,,89,89,0,57,36,36,36,15
+Public Method,"org.apache.tools.ant.taskdefs.Javac.createBootclasspath",Javac.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,9,0,,,,6,1,3,,,3,,,,,,,3,2,0,2,4,1,,,3,,,2,2,2,1,0,,,,,0,,1,0,,,0,50,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.Javac.createClasspath",Javac.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,9,0,,,,6,1,3,,,3,,,,,,,3,2,0,2,4,1,,,3,,,2,2,2,1,0,,,,,0,,1,0,,,0,50,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.Javac.createExtdirs",Javac.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,9,0,,,,6,1,3,,,3,,,,,,,3,2,0,2,4,1,,,3,,,2,2,2,1,0,,,,,0,,1,0,,,0,50,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.Javac.createSrc",Javac.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,12,0,,,,6,1,3,,,6,,,,,,,3,2,0,2,4,1,,,3,,,2,2,2,1,0,,,,,0,,1,0,,,1,00,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.Javac.execute",Javac.java,,,,,,,,,,,,,,,,,,,,,,,,,,,12,84,14,,,,62,10,49,,,8,,,,,,,23,1080,3,29,41,10,,,31,,,14,14,14,1,5,,,,,0,,2,0,,,0,13,14,14,14,1
+Public Method,"org.apache.tools.ant.taskdefs.Javac.setBootclasspath",Javac.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,11,0,,,,7,1,4,,,4,,,,,,,2,2,0,2,4,1,,,3,,,2,2,2,1,1,,,,,0,,1,0,,,0,57,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.Javac.setClasspath",Javac.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,10,0,,,,7,1,4,,,3,,,,,,,2,2,0,2,4,1,,,3,,,2,2,2,1,1,,,,,0,,1,0,,,0,43,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.Javac.setDebug",Javac.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javac.setDeprecation",Javac.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javac.setDestdir",Javac.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,7,0,,,,3,1,1,,,4,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,33,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javac.setExtdirs",Javac.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,11,0,,,,7,1,4,,,4,,,,,,,2,2,0,2,4,1,,,3,,,2,2,2,1,1,,,,,0,,1,0,,,0,57,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.Javac.setFiltering",Javac.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javac.setOptimize",Javac.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javac.setSrcdir",Javac.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,10,0,,,,7,1,4,,,3,,,,,,,2,2,0,2,4,1,,,3,,,2,2,2,1,1,,,,,0,,1,0,,,0,43,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.Javac.setTarget",Javac.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,7,0,,,,3,1,1,,,4,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,33,1,1,1,1
+Class,"org.apache.tools.ant.taskdefs.JavacOutputStream",JavacOutputStream.java,1,1,2,1,10,0,6,4,1,1,1,0,,0,0,,,,4,3,4,4,2,1,0,1,,63,9,,,,30,10,15,,,24,,,,,,,,,,13,21,10,,,11,,,,,,,,3,3,4,1,,2,2,,41,25,0,80,7,7,8,4
+Constructor,"org.apache.tools.ant.taskdefs.JavacOutputStream.JavacOutputStream",JavacOutputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,4,1,2,,,4,,,,,,,3,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Method,"org.apache.tools.ant.taskdefs.JavacOutputStream.getErrorFlag",JavacOutputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,7,0,,,,3,1,1,,,4,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,33,1,1,1,1
+Private Method,"org.apache.tools.ant.taskdefs.JavacOutputStream.processLine",JavacOutputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,11,0,,,,8,2,5,,,3,,,,,,,5,2,0,4,6,2,,,4,,,2,2,2,1,0,,,,,0,,1,0,,,0,38,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.JavacOutputStream.write",JavacOutputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,16,0,,,,10,2,6,,,6,,,,,,,3,3,0,3,6,2,,,4,,,3,3,4,1,1,,,,,0,,2,0,,,0,60,3,3,4,1
+Public Class,"org.apache.tools.ant.taskdefs.Javadoc",Javadoc.java,2,2,2,1,10,0,9,0,1,8,8,0,,0,0,,,,57,47,57,81,0,5,2,50,,927,93,,,,755,191,469,,,79,,,,,,,,,,360,568,199,,,369,,,,,,,,71,71,78,5,,3,5,,96,96,0,10,157,157,166,65
+Public Class,"org.apache.tools.ant.taskdefs.Javadoc.DocletInfo",Javadoc.java,1,1,1,1,4,0,4,0,1,2,2,0,,0,0,,,,7,3,7,7,0,0,0,7,,44,9,,,,35,12,15,,,0,,,,,,,,,,14,24,12,,,12,,,,,,,,2,2,2,1,,1,1,,66,66,0,00,9,9,9,7
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.DocletInfo.createParam",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,1,,,,5,2,3,,,0,,,,,,,2,1,0,3,4,2,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.DocletInfo.createPath",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,6,1,3,,,0,,,,,,,3,2,0,2,4,1,,,3,,,2,2,2,1,0,,,,,0,,1,0,,,0,00,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.DocletInfo.getName",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.DocletInfo.getParams",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.DocletInfo.getPath",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.DocletInfo.setName",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.DocletInfo.setPath",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,7,0,,,,7,1,4,,,0,,,,,,,2,2,0,2,4,1,,,3,,,2,2,2,1,1,,,,,0,,1,0,,,0,00,2,2,2,1
+Public Class,"org.apache.tools.ant.taskdefs.Javadoc.DocletParam",Javadoc.java,1,1,1,1,3,0,3,0,1,0,0,0,,0,0,,,,4,2,4,4,0,0,0,4,,20,4,,,,16,7,4,,,0,,,,,,,,,,6,11,7,,,4,,,,,,,,1,1,1,1,,1,0,,50,50,0,00,4,4,4,4
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.DocletParam.getName",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.DocletParam.getValue",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.DocletParam.setName",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.DocletParam.setValue",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.Javadoc.GroupArgument",Javadoc.java,1,1,1,1,2,0,2,0,1,0,0,0,,0,0,,,,5,2,5,5,0,0,0,5,,23,5,,,,18,8,4,,,0,,,,,,,,,,6,12,8,,,4,,,,,,,,1,1,1,1,,1,0,,60,60,0,00,5,5,5,5
+Public Constructor,"org.apache.tools.ant.taskdefs.Javadoc.GroupArgument.GroupArgument",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,0,,,,2,1,0,,,0,,,,,,,1,1,0,0,1,1,,,0,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.GroupArgument.getPackages",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.GroupArgument.getTitle",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.GroupArgument.setPackages",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.GroupArgument.setTitle",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Class,"org.apache.tools.ant.taskdefs.Javadoc.JavaReader",Javadoc.java,5,5,6,4,16,0,16,0,1,0,0,0,,0,0,,,,4,0,4,4,0,0,0,4,,78,5,,,,66,7,42,,,7,,,,,,,,,,29,53,9,,,44,,,,,,,,15,15,17,11,,2,5,,0,0,0,11,23,23,25,19
+Public Constructor,"org.apache.tools.ant.taskdefs.Javadoc.JavaReader.JavaReader",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.JavaReader.read",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,42,1,,,,41,2,29,,,0,,,,,,,2,150,2,17,32,2,,,30,,,15,15,17,11,8,,,,,8,,5,8,,,0,00,15,15,17,11
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.JavaReader.read",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,14,0,,,,14,2,9,,,0,,,,,,,3,4,1,7,11,3,,,8,,,4,4,4,4,7,,,,,7,,3,7,,,0,00,4,4,4,4
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.JavaReader.skip",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,6,1,3,,,0,,,,,,,2,3,0,4,7,2,,,5,,,3,3,3,3,3,,,,,3,,2,3,,,0,00,3,3,3,3
+Public Class,"org.apache.tools.ant.taskdefs.Javadoc.LinkArgument",Javadoc.java,1,1,1,1,2,0,2,0,1,1,1,0,,0,0,,,,7,3,7,7,0,0,0,7,,32,7,,,,25,11,7,,,0,,,,,,,,,,9,17,11,,,6,,,,,,,,1,1,1,1,,1,0,,71,71,0,00,7,7,7,7
+Public Constructor,"org.apache.tools.ant.taskdefs.Javadoc.LinkArgument.LinkArgument",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,0,,,,2,1,0,,,0,,,,,,,1,1,0,0,1,1,,,0,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.LinkArgument.getHref",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.LinkArgument.getPackagelistLoc",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.LinkArgument.isLinkOffline",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.LinkArgument.setHref",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.LinkArgument.setOffline",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.LinkArgument.setPackagelistLoc",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.createBootclasspath",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,6,1,3,,,0,,,,,,,3,2,0,2,4,1,,,3,,,2,2,2,1,0,,,,,0,,1,0,,,0,00,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.createClasspath",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,6,1,3,,,0,,,,,,,3,2,0,2,4,1,,,3,,,2,2,2,1,0,,,,,0,,1,0,,,0,00,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.createDoclet",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,4,0,,,,4,1,2,,,0,,,,,,,2,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.createGroup",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,5,0,,,,5,2,3,,,0,,,,,,,3,1,0,3,4,2,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.createLink",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,5,0,,,,5,2,3,,,0,,,,,,,3,1,0,3,4,2,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.createSourcepath",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,6,1,3,,,0,,,,,,,3,2,0,2,4,1,,,3,,,2,2,2,1,0,,,,,0,,1,0,,,0,00,2,2,2,1
+Private Method,"org.apache.tools.ant.taskdefs.Javadoc.evaluatePackages",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,8,32,3,,,,24,7,17,,,5,,,,,,,13,6,1,16,22,9,,,13,,,6,6,6,5,2,,,,,2,,5,2,,,0,21,6,6,6,5
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.execute",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,49,300,28,,,,255,22,199,,,17,,,,,,,34,999999999,18,128,196,25,,,171,,,71,71,78,1,6,,,,,0,,5,0,,,0,07,71,71,78,1
+Private Method,"org.apache.tools.ant.taskdefs.Javadoc.getFiles",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,30,2,,,,24,5,17,,,4,,,,,,,9,18,1,12,19,6,,,13,,,7,7,7,1,2,,,,,0,,3,0,,,0,17,7,7,7,1
+Private Method,"org.apache.tools.ant.taskdefs.Javadoc.getPackageName",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,33,3,,,,25,4,18,,,5,,,,,,,9,5,1,13,18,4,,,14,,,5,5,6,5,8,,,,,8,,3,7,,,0,20,5,5,6,5
+Protected Method,"org.apache.tools.ant.taskdefs.Javadoc.logFlush",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,7,0,,,,7,1,4,,,0,,,,,,,3,2,0,3,5,1,,,4,,,2,2,2,1,0,,,,,0,,1,0,,,0,00,2,2,2,1
+Private Method,"org.apache.tools.ant.taskdefs.Javadoc.mapClasses",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,20,3,,,,12,6,9,,,5,,,,,,,7,3,0,8,11,6,,,5,,,3,3,3,1,0,,,,,0,,2,0,,,0,42,3,3,3,1
+Private Method,"org.apache.tools.ant.taskdefs.Javadoc.matches",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,8,0,,,,3,1,1,,,5,,,,,,,4,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Protected Method,"org.apache.tools.ant.taskdefs.Javadoc.outputLog",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,6,17,0,,,,17,1,12,,,0,,,,,,,3,5,1,6,11,1,,,10,,,5,5,6,1,2,,,,,0,,3,0,,,0,00,5,5,6,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setAuthor",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setBootclasspath",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,7,0,,,,7,1,4,,,0,,,,,,,2,2,0,2,4,1,,,3,,,2,2,2,1,1,,,,,0,,1,0,,,0,00,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setBottom",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setCharset",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setClasspath",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,7,0,,,,7,1,4,,,0,,,,,,,2,2,0,2,4,1,,,3,,,2,2,2,1,1,,,,,0,,1,0,,,0,00,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setDestdir",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setDocencoding",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setDoclet",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,0,,,,6,1,3,,,0,,,,,,,2,2,0,2,4,1,,,3,,,2,2,2,1,0,,,,,0,,1,0,,,0,00,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setDocletPath",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,0,,,,6,1,3,,,0,,,,,,,2,2,0,2,4,1,,,3,,,2,2,2,1,0,,,,,0,,1,0,,,0,00,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setDoctitle",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setEncoding",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setExtdirs",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setFooter",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setGroup",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setHeader",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setLink",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setLinkoffline",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setLocale",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setMaxmemory",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setNodeprecated",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setNodeprecatedlist",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setNohelp",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setNoindex",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setNonavbar",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setNotree",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setOld",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setOverview",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setPackage",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setPackageList",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setPackagenames",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setPrivate",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setProtected",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setPublic",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setSerialwarn",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setSourcefiles",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setSourcepath",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,7,0,,,,7,1,4,,,0,,,,,,,2,2,0,2,4,1,,,3,,,2,2,2,1,1,,,,,0,,1,0,,,0,00,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setSplitindex",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setStylesheetfile",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setUse",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setVerbose",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setVersion",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setWindowtitle",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Javadoc.setadditionalParam",Javadoc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.Jikes",Jikes.java,1,1,1,1,15,0,8,6,1,2,2,0,,0,0,,,,2,2,2,2,0,0,2,0,,42,3,,,,21,8,12,,,18,,,,,,,,,,12,16,8,,,8,,,,,,,,2,2,2,1,,1,1,,0,0,0,86,3,3,3,2
+Protected Constructor,"org.apache.tools.ant.taskdefs.Jikes.Jikes",Jikes.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,10,0,,,,5,1,3,,,5,,,,,,,3,1,0,3,4,1,,,3,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Protected Method,"org.apache.tools.ant.taskdefs.Jikes.compile",Jikes.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,21,1,,,,12,4,9,,,8,,,,,,,5,2,0,7,9,4,,,5,,,2,2,2,1,1,,,,,0,,1,0,,,0,67,2,2,2,1
+Public Class,"org.apache.tools.ant.taskdefs.JikesOutputParser",JikesOutputParser.java,2,2,2,1,10,0,6,3,1,2,2,0,,0,0,,,,7,6,7,7,0,4,3,0,,97,9,,,,53,15,29,,,36,,,,,,,,,,24,40,15,,,25,,,,,,,,6,6,6,3,,1,3,,76,52,0,68,17,17,17,9
+Protected Constructor,"org.apache.tools.ant.taskdefs.JikesOutputParser.JikesOutputParser",JikesOutputParser.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,9,0,,,,5,1,3,,,4,,,,,,,3,1,0,3,4,1,,,3,,,1,1,1,1,0,,,,,0,,0,0,,,0,80,1,1,1,1
+Protected Method,"org.apache.tools.ant.taskdefs.JikesOutputParser.getErrorFlag",JikesOutputParser.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,7,0,,,,3,1,1,,,4,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,33,1,1,1,1
+Private Method,"org.apache.tools.ant.taskdefs.JikesOutputParser.log",JikesOutputParser.java,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,0,,,,6,1,3,,,0,,,,,,,1,2,0,2,4,1,,,3,,,4,4,4,1,0,,,,,0,,1,0,,,0,00,4,4,4,1
+Private Method,"org.apache.tools.ant.taskdefs.JikesOutputParser.parseEmacsOutput",JikesOutputParser.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,0,,,,3,1,1,,,1,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,33,1,1,1,1
+Protected Method,"org.apache.tools.ant.taskdefs.JikesOutputParser.parseOutput",JikesOutputParser.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,10,0,,,,6,1,4,,,4,,,,,,,2,2,0,2,4,1,,,3,,,2,2,2,1,1,,,,,0,,1,0,,,0,67,2,2,2,1
+Private Method,"org.apache.tools.ant.taskdefs.JikesOutputParser.parseStandardOutput",JikesOutputParser.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,33,2,,,,18,3,12,,,13,,,,,,,7,9,1,8,14,3,,,11,,,6,6,6,3,3,,,,,3,,3,1,,,0,72,6,6,6,3
+Private Method,"org.apache.tools.ant.taskdefs.JikesOutputParser.setError",JikesOutputParser.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,5,0,,,,5,1,3,,,0,,,,,,,2,2,0,2,4,1,,,3,,,2,2,2,1,0,,,,,0,,1,0,,,0,00,2,2,2,1
+Public Class,"org.apache.tools.ant.taskdefs.KeySubst",KeySubst.java,2,2,2,1,17,0,13,4,1,1,1,0,,2,0,,,,5,4,7,22,0,0,0,7,,142,9,,,,96,30,65,,,37,,,,,,,,,,53,70,27,,,43,,,,,,,,5,5,6,1,,2,3,,71,71,0,39,16,16,18,7
+Public Method,"org.apache.tools.ant.taskdefs.KeySubst.execute",KeySubst.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,38,1,,,,34,6,27,,,3,,,,,,,10,5,1,22,27,6,,,21,,,5,5,6,1,3,,,,,0,,3,0,,,0,09,5,5,6,1
+Public Static Method,"org.apache.tools.ant.taskdefs.KeySubst.main",KeySubst.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,12,0,,,,12,2,7,,,0,,,,,,,4,2,0,5,7,2,,,5,,,2,2,2,1,1,,,,,0,,1,0,,,0,00,2,2,2,1
+Public Static Method,"org.apache.tools.ant.taskdefs.KeySubst.replace",KeySubst.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,27,1,,,,22,6,16,,,4,,,,,,,8,3,0,13,16,5,,,11,,,3,3,3,1,1,,,,,0,,2,0,,,0,18,3,3,3,1
+Public Method,"org.apache.tools.ant.taskdefs.KeySubst.setDest",KeySubst.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.KeySubst.setKeys",KeySubst.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,27,1,,,,14,8,8,,,12,,,,,,,5,3,0,6,9,6,,,3,,,3,3,4,1,0,,,,,0,,2,0,,,0,86,3,3,4,1
+Public Method,"org.apache.tools.ant.taskdefs.KeySubst.setSep",KeySubst.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,7,0,,,,3,1,1,,,4,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,33,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.KeySubst.setSrc",KeySubst.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Abstract Class,"org.apache.tools.ant.taskdefs.MatchingTask",MatchingTask.java,2,2,3,1,14,0,8,5,1,3,3,15,,0,0,,,,14,3,14,29,0,3,2,9,,248,25,,,,140,41,84,,,85,,,,,,,,,,59,101,42,,,59,,,,,,,,7,7,7,4,,2,3,,80,71,0,61,35,35,42,17
+Public Class,"org.apache.tools.ant.taskdefs.MatchingTask.NameEntry",MatchingTask.java,1,1,1,1,2,0,2,0,1,1,1,0,,0,0,,,,4,2,4,4,0,0,0,4,,20,3,,,,12,7,5,,,5,,,,,,,,,,6,13,7,,,6,,,,,,,,2,2,2,1,,1,1,,37,37,0,42,7,7,7,4
+Public Method,"org.apache.tools.ant.taskdefs.MatchingTask.NameEntry.getName",MatchingTask.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,1,0,,,,1,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,2,2,2,1,0,,,,,0,,0,0,,,0,00,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.MatchingTask.NameEntry.setIf",MatchingTask.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,2,2,0,1,3,1,,,2,,,2,2,2,1,0,,,,,0,,1,0,,,0,00,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.MatchingTask.NameEntry.setName",MatchingTask.java,,,,,,,,,,,,,,,,,,,,,,,,,,,7,1,0,,,,1,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.MatchingTask.NameEntry.setUnless",MatchingTask.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,2,2,0,1,3,1,,,2,,,2,2,2,1,0,,,,,0,,1,0,,,0,00,2,2,2,1
+Private Method,"org.apache.tools.ant.taskdefs.MatchingTask.addPatternToList",MatchingTask.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,8,0,,,,5,2,3,,,3,,,,,,,2,1,0,3,4,2,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,0,60,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.MatchingTask.createExclude",MatchingTask.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.MatchingTask.createInclude",MatchingTask.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Protected Method,"org.apache.tools.ant.taskdefs.MatchingTask.getDirectoryScanner",MatchingTask.java,,,,,,,,,,,,,,,,,,,,,,,,,,,19,12,0,,,,9,2,7,,,3,,,,,,,8,2,0,7,9,2,,,7,,,2,2,2,1,0,,,,,0,,1,0,,,0,33,2,2,2,1
+Protected Method,"org.apache.tools.ant.taskdefs.MatchingTask.getProperty",MatchingTask.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Private Method,"org.apache.tools.ant.taskdefs.MatchingTask.makeArray",MatchingTask.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,26,3,,,,20,6,14,,,3,,,,,,,12,15,1,14,20,8,,,12,,,7,7,7,4,2,,,,,2,,3,2,,,0,15,7,7,7,4
+Private Method,"org.apache.tools.ant.taskdefs.MatchingTask.readPatterns",MatchingTask.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,25,2,,,,16,4,10,,,7,,,,,,,5,4,1,5,9,3,,,6,,,4,4,4,1,1,,,,,0,,3,0,,,0,44,4,4,4,1
+Public Method,"org.apache.tools.ant.taskdefs.MatchingTask.setDefaultexcludes",MatchingTask.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,10,0,,,,3,1,1,,,7,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,33,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.MatchingTask.setExcludes",MatchingTask.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,11,0,,,,5,1,2,,,6,,,,,,,3,2,0,1,3,1,,,2,,,2,2,3,1,0,,,,,0,,1,0,,,1,20,2,2,3,1
+Public Method,"org.apache.tools.ant.taskdefs.MatchingTask.setExcludesfile",MatchingTask.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,17,0,,,,11,2,7,,,6,,,,,,,5,3,0,3,6,2,,,4,,,3,3,4,1,1,,,,,0,,2,0,,,0,55,3,3,4,1
+Public Method,"org.apache.tools.ant.taskdefs.MatchingTask.setIgnore",MatchingTask.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,18,0,,,,12,3,8,,,7,,,,,,,7,3,0,4,7,3,,,4,,,3,3,4,1,0,,,,,0,,2,0,,,0,58,3,3,4,1
+Public Method,"org.apache.tools.ant.taskdefs.MatchingTask.setIncludes",MatchingTask.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,11,0,,,,5,1,2,,,6,,,,,,,3,2,0,1,3,1,,,2,,,2,2,3,1,0,,,,,0,,1,0,,,1,20,2,2,3,1
+Public Method,"org.apache.tools.ant.taskdefs.MatchingTask.setIncludesfile",MatchingTask.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,17,0,,,,11,2,7,,,6,,,,,,,5,3,0,3,6,2,,,4,,,3,3,4,1,1,,,,,0,,2,0,,,0,55,3,3,4,1
+Public Method,"org.apache.tools.ant.taskdefs.MatchingTask.setItems",MatchingTask.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,24,0,,,,17,3,12,,,8,,,,,,,8,4,1,5,9,3,,,6,,,4,4,6,1,1,,,,,0,,3,0,,,0,47,4,4,6,1
+Public Class,"org.apache.tools.ant.taskdefs.Mkdir",Mkdir.java,2,2,2,1,7,0,7,0,1,1,1,0,,0,0,,,,2,1,2,17,0,0,0,2,,26,3,,,,18,8,9,,,5,,,,,,,,,,7,12,7,,,5,,,,,,,,3,3,3,1,,2,2,,0,0,0,28,4,4,4,2
+Public Method,"org.apache.tools.ant.taskdefs.Mkdir.execute",Mkdir.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,12,0,,,,12,5,8,,,0,,,,,,,6,3,0,5,8,4,,,4,,,3,3,3,1,0,,,,,0,,2,0,,,0,00,3,3,3,1
+Public Method,"org.apache.tools.ant.taskdefs.Mkdir.setDir",Mkdir.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.Patch",Patch.java,2,2,2,1,10,0,6,2,1,1,1,0,,0,0,,,,9,7,9,33,0,0,0,9,,115,19,,,,67,18,36,,,30,,,,,,,,,,26,45,18,,,27,,,,,,,,9,9,9,1,,3,1,,77,77,0,45,18,18,18,9
+Public Method,"org.apache.tools.ant.taskdefs.Patch.execute",Patch.java,,,,,,,,,,,,,,,,,,,,,,,,,,,8,38,8,,,,30,2,20,,,0,,,,,,,5,256,2,10,19,2,,,17,,,9,9,9,1,0,,,,,0,,1,0,,,0,00,9,9,9,1
+Public Method,"org.apache.tools.ant.taskdefs.Patch.setBackups",Patch.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Patch.setCommand",Patch.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,4,0,,,,4,1,2,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Patch.setIgnorewhitespace",Patch.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Patch.setOriginalfile",Patch.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Patch.setPatchfile",Patch.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Patch.setQuiet",Patch.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Patch.setReverse",Patch.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Patch.setStrip",Patch.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,12,0,,,,6,1,3,,,6,,,,,,,2,2,0,2,4,1,,,3,,,2,2,2,1,0,,,,,0,,1,0,,,1,00,2,2,2,1
+Public Class,"org.apache.tools.ant.taskdefs.Property",Property.java,2,2,2,1,10,0,9,0,1,3,3,0,,0,0,,,,14,5,14,29,0,6,0,8,,182,26,,,,146,44,92,,,11,,,,,,,,,,68,105,44,,,61,,,,,,,,8,8,9,6,,2,5,,81,71,0,08,36,36,38,19
+Private Method,"org.apache.tools.ant.taskdefs.Property.addProperties",Property.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,10,0,,,,10,5,7,,,0,,,,,,,8,2,0,6,8,5,,,3,,,2,2,2,1,0,,,,,0,,1,0,,,0,00,2,2,2,1
+Private Method,"org.apache.tools.ant.taskdefs.Property.addProperty",Property.java,,,,,,,,,,,,,,,,,,,,,,,,,,,8,15,0,,,,15,1,10,,,0,,,,,,,5,4,1,4,8,1,,,7,,,4,4,4,1,3,,,,,0,,2,0,,,0,00,4,4,4,1
+Private Method,"org.apache.tools.ant.taskdefs.Property.extractProperties",Property.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,22,2,,,,18,6,13,,,2,,,,,,,7,4,1,10,14,6,,,8,,,4,4,4,1,2,,,,,0,,2,0,,,0,11,4,4,4,1
+Public Method,"org.apache.tools.ant.taskdefs.Property.getName",Property.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Property.getValue",Property.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Property.init",Property.java,,,,,,,,,,,,,,,,,,,,,,,,,,,6,14,3,,,,11,1,7,,,0,,,,,,,3,9,1,4,9,1,,,8,,,5,5,6,1,1,,,,,0,,2,0,,,0,00,5,5,6,1
+Private Method,"org.apache.tools.ant.taskdefs.Property.loadFile",Property.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,14,0,,,,14,2,10,,,0,,,,,,,6,3,0,6,9,2,,,7,,,3,3,3,1,2,,,,,0,,2,0,,,0,00,3,3,3,1
+Private Method,"org.apache.tools.ant.taskdefs.Property.loadResource",Property.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,13,0,,,,13,3,9,,,0,,,,,,,6,3,0,6,9,3,,,6,,,3,3,3,1,1,,,,,0,,2,0,,,0,00,3,3,3,1
+Private Method,"org.apache.tools.ant.taskdefs.Property.resolveAllProperties",Property.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,41,4,,,,37,13,28,,,0,,,,,,,12,14,1,20,28,13,,,15,,,8,8,9,6,3,,,,,3,,5,2,,,0,00,8,8,9,6
+Public Method,"org.apache.tools.ant.taskdefs.Property.setFile",Property.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Property.setName",Property.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Property.setResource",Property.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Property.setUserProperty",Property.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Property.setValue",Property.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.Rename",Rename.java,1,1,2,1,9,0,5,4,1,1,1,0,,0,0,,,,4,3,4,19,0,0,0,4,,55,7,,,,26,8,11,,,22,,,,,,,,,,8,16,8,,,8,,,,,,,,4,4,5,1,,2,2,,50,50,0,85,7,7,8,4
+Public Method,"org.apache.tools.ant.taskdefs.Rename.execute",Rename.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,17,0,,,,12,1,7,,,5,,,,,,,4,6,1,2,6,1,,,5,,,4,4,5,1,0,,,,,0,,2,0,,,0,42,4,4,5,1
+Public Method,"org.apache.tools.ant.taskdefs.Rename.setDest",Rename.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,7,0,,,,3,1,1,,,4,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,33,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Rename.setReplace",Rename.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,7,0,,,,3,1,1,,,4,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,33,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Rename.setSrc",Rename.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,7,0,,,,3,1,1,,,4,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,33,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.Replace",Replace.java,2,2,2,1,15,2,9,3,1,2,2,0,,0,0,,,,7,4,7,36,0,2,0,5,,129,25,,,,73,21,48,,,31,,,,,,,,,,41,60,22,,,38,,,,,,,,6,6,7,4,,3,3,,64,57,0,42,18,18,19,10
+Public Method,"org.apache.tools.ant.taskdefs.Replace.execute",Replace.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,29,6,,,,20,4,13,,,3,,,,,,,5,24,1,10,16,5,,,11,,,6,6,7,1,0,,,,,0,,2,0,,,0,15,6,6,7,1
+Private Method,"org.apache.tools.ant.taskdefs.Replace.processFile",Replace.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,38,6,,,,25,5,19,,,7,,,,,,,13,12,1,16,22,5,,,17,,,6,6,6,4,3,,,,,3,,3,3,,,0,28,6,6,6,4
+Private Method,"org.apache.tools.ant.taskdefs.Replace.replace",Replace.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,17,3,,,,11,3,8,,,3,,,,,,,6,2,0,7,9,3,,,6,,,2,2,2,1,0,,,,,0,,1,0,,,0,27,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.Replace.setDir",Replace.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Replace.setFile",Replace.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Replace.setToken",Replace.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Replace.setValue",Replace.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.Rmic",Rmic.java,3,3,4,1,18,0,14,3,1,4,4,0,,0,0,,,,16,8,16,45,0,5,1,10,,353,37,,,,239,60,161,,,77,,,,,,,,,,111,173,60,,,113,,,,,,,,20,20,20,6,,3,6,,85,83,0,32,62,62,65,24
+Private Method,"org.apache.tools.ant.taskdefs.Rmic.addExistingToClasspath",Rmic.java,,,,,,,,,,,,,,,,,,,,,,,,,,,6,24,1,,,,12,3,8,,,11,,,,,,,6,3,0,6,9,4,,,5,,,3,3,3,1,1,,,,,0,,2,0,,,0,92,3,3,3,1
+Public Method,"org.apache.tools.ant.taskdefs.Rmic.createClasspath",Rmic.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,9,0,,,,6,1,3,,,3,,,,,,,3,2,0,2,4,1,,,3,,,2,2,2,1,0,,,,,0,,1,0,,,0,50,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.Rmic.execute",Rmic.java,,,,,,,,,,,,,,,,,,,,,,,,,,,10,78,7,,,,66,10,51,,,5,,,,,,,16,40960,5,36,56,12,,,44,,,20,20,20,1,4,,,,,0,,3,0,,,0,08,20,20,20,1
+Private Method,"org.apache.tools.ant.taskdefs.Rmic.getCompileClasspath",Rmic.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,26,4,,,,14,3,9,,,8,,,,,,,8,6,1,6,10,3,,,7,,,4,4,4,1,0,,,,,0,,2,0,,,0,57,4,4,4,1
+Private Method,"org.apache.tools.ant.taskdefs.Rmic.isValidRmiRemote",Rmic.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,26,2,,,,18,3,11,,,6,,,,,,,3,6,1,8,14,4,,,10,,,6,6,6,6,9,,,,,9,,3,9,,,0,33,6,6,6,6
+Private Method,"org.apache.tools.ant.taskdefs.Rmic.moveGeneratedFile",Rmic.java,,,,,,,,,,,,,,,,,,,,,,,,,,,11,32,0,,,,27,12,21,,,5,,,,,,,6,6,1,14,18,9,,,9,,,4,4,4,1,2,,,,,0,,2,0,,,0,19,4,4,4,1
+Protected Method,"org.apache.tools.ant.taskdefs.Rmic.scanDir",Rmic.java,,,,,,,,,,,,,,,,,,,,,,,,,,,9,39,0,,,,34,5,25,,,5,,,,,,,11,13,1,13,21,6,,,15,,,9,9,12,1,3,,,,,0,,6,0,,,0,15,9,9,12,1
+Public Method,"org.apache.tools.ant.taskdefs.Rmic.setBase",Rmic.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Rmic.setClass",Rmic.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,0,,,,6,1,4,,,0,,,,,,,2,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Rmic.setClassname",Rmic.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Rmic.setClasspath",Rmic.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,10,0,,,,7,1,4,,,3,,,,,,,2,2,0,2,4,1,,,3,,,2,2,2,1,1,,,,,0,,1,0,,,0,43,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.Rmic.setFiltering",Rmic.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Rmic.setSourceBase",Rmic.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Rmic.setStubVersion",Rmic.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Rmic.setVerify",Rmic.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Private Method,"org.apache.tools.ant.taskdefs.Rmic.shouldCompile",Rmic.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,26,1,,,,21,6,16,,,4,,,,,,,8,7,1,8,13,4,,,9,,,5,5,5,4,5,,,,,5,,2,5,,,0,19,5,5,5,4
+Public Class,"org.apache.tools.ant.taskdefs.SignJar",SignJar.java,2,2,2,1,9,1,8,0,1,3,3,0,,0,0,,,,12,11,12,27,0,0,0,12,,159,32,,,,113,26,63,,,14,,,,,,,,,,61,87,26,,,61,,,,,,,,14,14,14,1,,2,1,,83,83,0,12,25,25,25,12
+Public Method,"org.apache.tools.ant.taskdefs.SignJar.execute",SignJar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,13,84,17,,,,67,3,52,,,0,,,,,,,13,8192,4,39,53,3,,,50,,,14,14,14,1,0,,,,,0,,1,0,,,0,00,14,14,14,1
+Public Method,"org.apache.tools.ant.taskdefs.SignJar.setAlias",SignJar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.SignJar.setInternalsf",SignJar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.SignJar.setJar",SignJar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.SignJar.setKeypass",SignJar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.SignJar.setKeystore",SignJar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.SignJar.setSectionsonly",SignJar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.SignJar.setSigfile",SignJar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.SignJar.setSignedjar",SignJar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.SignJar.setStorepass",SignJar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.SignJar.setStoretype",SignJar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.SignJar.setVerbose",SignJar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.Tar",Tar.java,2,2,2,1,18,2,14,1,1,4,4,0,,0,0,,,,4,2,4,33,0,0,1,3,,87,13,,,,62,18,41,,,12,,,,,,,,,,32,44,18,,,26,,,,,,,,7,7,7,1,,3,2,,50,50,0,19,11,11,11,4
+Public Method,"org.apache.tools.ant.taskdefs.Tar.execute",Tar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,6,38,5,,,,32,7,24,,,1,,,,,,,13,36,2,16,23,8,,,15,,,7,7,7,1,2,,,,,0,,2,0,,,0,03,7,7,7,1
+Public Method,"org.apache.tools.ant.taskdefs.Tar.setBasedir",Tar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Tar.setTarfile",Tar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Protected Method,"org.apache.tools.ant.taskdefs.Tar.tarFile",Tar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,23,3,,,,20,6,15,,,0,,,,,,,10,1,0,12,14,5,,,9,,,2,2,2,1,0,,,,,0,,2,0,,,0,00,2,2,2,1
+Public Class,"org.apache.tools.ant.taskdefs.TaskOutputStream",TaskOutputStream.java,1,1,2,1,11,0,6,4,1,1,1,0,,0,0,,,,3,3,3,3,1,1,0,1,,56,8,,,,25,9,12,,,23,,,,,,,,,,12,18,9,,,9,,,,,,,,3,3,4,1,,2,2,,22,0,0,92,5,5,6,3
+Constructor,"org.apache.tools.ant.taskdefs.TaskOutputStream.TaskOutputStream",TaskOutputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,10,1,,,,5,1,3,,,4,,,,,,,4,1,0,3,4,1,,,3,,,1,1,1,1,0,,,,,0,,0,0,,,0,80,1,1,1,1
+Private Method,"org.apache.tools.ant.taskdefs.TaskOutputStream.processLine",TaskOutputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,8,0,,,,5,2,3,,,3,,,,,,,3,1,0,3,4,2,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,0,60,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.TaskOutputStream.write",TaskOutputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,16,0,,,,10,2,6,,,6,,,,,,,3,3,0,3,6,2,,,4,,,3,3,4,1,1,,,,,0,,2,0,,,0,60,3,3,4,1
+Public Class,"org.apache.tools.ant.taskdefs.Taskdef",Taskdef.java,1,1,1,1,6,0,6,0,1,2,2,0,,0,0,,,,5,2,5,20,0,0,0,5,,53,5,,,,38,13,21,,,10,,,,,,,,,,14,23,11,,,12,,,,,,,,4,4,5,1,,2,2,,40,40,0,26,8,8,9,5
+Public Method,"org.apache.tools.ant.taskdefs.Taskdef.getClassname",Taskdef.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Taskdef.init",Taskdef.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,19,0,,,,19,6,14,,,0,,,,,,,4,5,1,7,11,4,,,7,,,4,4,5,1,2,,,,,0,,2,0,,,0,00,4,4,5,1
+Public Method,"org.apache.tools.ant.taskdefs.Taskdef.setClass",Taskdef.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,0,,,,6,1,4,,,0,,,,,,,2,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Taskdef.setClassname",Taskdef.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Taskdef.setName",Taskdef.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.Touch",Touch.java,3,3,4,1,21,1,16,3,1,2,2,0,,0,2,,,,5,3,5,20,1,0,0,4,,129,16,,,,87,16,60,,,27,,,,,,,,,,31,50,15,,,35,,,,,,,,10,10,10,1,,2,3,,60,52,0,31,18,18,20,5
+Public Method,"org.apache.tools.ant.taskdefs.Touch.execute",Touch.java,,,,,,,,,,,,,,,,,,,,,,,,,,,10,31,3,,,,23,3,17,,,5,,,,,,,10,7,1,7,12,2,,,10,,,5,5,7,1,2,,,,,0,,2,0,,,0,22,5,5,7,1
+Public Method,"org.apache.tools.ant.taskdefs.Touch.setDatetime",Touch.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Touch.setFile",Touch.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Touch.setMillis",Touch.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Method,"org.apache.tools.ant.taskdefs.Touch.touch",Touch.java,,,,,,,,,,,,,,,,,,,,,,,,,,,17,56,5,,,,48,4,37,,,3,,,,,,,11,75,2,16,26,4,,,22,,,10,10,10,1,7,,,,,0,,3,0,,,0,06,10,10,10,1
+Public Class,"org.apache.tools.ant.taskdefs.Tstamp",Tstamp.java,2,2,2,1,16,3,13,0,1,1,1,0,,0,0,,,,1,0,1,16,0,0,0,1,,25,4,,,,15,6,10,,,6,,,,,,,,,,8,11,6,,,5,,,,,,,,2,2,2,1,,2,1,,0,0,0,40,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.Tstamp.init",Tstamp.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,16,3,,,,13,5,10,,,0,,,,,,,2,2,0,8,10,5,,,5,,,2,2,2,1,1,,,,,0,,1,0,,,0,00,2,2,2,1
+Public Class,"org.apache.tools.ant.taskdefs.Untar",Untar.java,4,4,4,1,31,3,21,5,1,5,5,0,,0,0,,,,3,2,3,18,0,0,0,3,,107,14,,,,69,16,48,,,26,,,,,,,,,,31,46,16,,,30,,,,,,,,12,12,12,1,,2,5,,33,33,0,38,14,14,14,3
+Public Method,"org.apache.tools.ant.taskdefs.Untar.execute",Untar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,10,76,11,,,,59,11,46,,,6,,,,,,,26,195,2,27,39,11,,,28,,,12,12,12,1,4,,,,,0,,5,0,,,0,10,12,12,12,1
+Public Method,"org.apache.tools.ant.taskdefs.Untar.setDest",Untar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,9,0,,,,3,1,1,,,6,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Untar.setSrc",Untar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Interface,"org.apache.tools.ant.taskdefs.XSLTLiaison",XSLTLiaison.java,0,0,0,0,0,0,0,0,0,0,0,2,,0,0,,,,2,0,2,2,0,0,0,2,,7,3,,,,4,3,0,,,1,,,,,,,,,,2,3,3,,,0,,,,,,,,0,0,0,0,,0,0,,0,0,0,25,0,0,0,0
+Public Abstract Method,"org.apache.tools.ant.taskdefs.XSLTLiaison.setStylesheet",XSLTLiaison.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,0,,,,1,1,0,,,0,,,,,,,0,0,0,1,1,1,,,0,,,0,0,0,0,0,,,,,0,,0,0,,,0,00,0,0,0,0
+Public Abstract Method,"org.apache.tools.ant.taskdefs.XSLTLiaison.transform",XSLTLiaison.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,0,,,,1,1,0,,,0,,,,,,,0,0,0,1,1,1,,,0,,,0,0,0,0,0,,,,,0,,0,0,,,0,00,0,0,0,0
+Public Class,"org.apache.tools.ant.taskdefs.XSLTProcess",XSLTProcess.java,2,2,2,1,17,1,11,5,1,4,4,0,,0,0,,,,8,5,8,37,0,1,0,7,,249,38,,,,95,23,59,,,123,,,,,,,,,,50,73,25,,,48,,,,,,,,11,11,11,1,,3,3,,72,70,1,29,22,22,22,8
+Public Constructor,"org.apache.tools.ant.taskdefs.XSLTProcess.XSLTProcess",XSLTProcess.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,5,0,,,,2,1,0,,,4,,,,,,,1,1,0,0,1,1,,,0,,,1,1,1,1,0,,,,,0,,0,0,,,2,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.XSLTProcess.execute",XSLTProcess.java,,,,,,,,,,,,,,,,,,,,,,,,,,,10,60,6,,,,45,6,32,,,10,,,,,,,14,288,2,28,39,9,,,30,,,11,11,11,1,3,,,,,0,,3,0,,,0,22,11,11,11,1
+Private Method,"org.apache.tools.ant.taskdefs.XSLTProcess.process",XSLTProcess.java,,,,,,,,,,,,,,,,,,,,,,,,,,,9,30,3,,,,20,5,13,,,8,,,,,,,7,3,0,10,13,4,,,9,,,3,3,3,1,1,,,,,0,,2,0,,,0,40,3,3,3,1
+Public Method,"org.apache.tools.ant.taskdefs.XSLTProcess.setBasedir",XSLTProcess.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,0,,,,3,1,1,,,4,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,33,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.XSLTProcess.setDestdir",XSLTProcess.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,8,0,,,,3,1,1,,,6,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.XSLTProcess.setExtension",XSLTProcess.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,7,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.XSLTProcess.setProcessor",XSLTProcess.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,14,2,,,,9,1,6,,,3,,,,,,,4,3,0,3,6,1,,,5,,,3,3,3,1,2,,,,,0,,1,0,,,0,33,3,3,3,1
+Public Method,"org.apache.tools.ant.taskdefs.XSLTProcess.setStyle",XSLTProcess.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.Zip",Zip.java,3,3,3,1,19,1,14,3,1,3,3,1,,0,0,,,,8,4,8,37,0,0,4,4,,174,21,,,,123,39,83,,,30,,,,,,,,,,68,91,37,,,54,,,,,,,,12,12,13,1,,3,3,,75,71,0,24,24,24,25,8
+Public Method,"org.apache.tools.ant.taskdefs.Zip.execute",Zip.java,,,,,,,,,,,,,,,,,,,,,,,,,,,10,57,7,,,,48,11,38,,,2,,,,,,,16,336,3,29,41,14,,,27,,,12,12,13,1,4,,,,,0,,2,0,,,0,04,12,12,13,1
+Protected Method,"org.apache.tools.ant.taskdefs.Zip.initZipOutputStream",Zip.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,4,0,,,,4,2,0,,,0,,,,,,,0,1,0,0,1,1,,,0,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Zip.setBasedir",Zip.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,7,0,,,,3,1,1,,,4,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,33,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Zip.setCompress",Zip.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.Zip.setZipfile",Zip.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,7,0,,,,3,1,1,,,4,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,33,1,1,1,1
+Protected Method,"org.apache.tools.ant.taskdefs.Zip.zipDir",Zip.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,0,,,,4,2,0,,,0,,,,,,,0,1,0,0,1,1,,,0,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Protected Method,"org.apache.tools.ant.taskdefs.Zip.zipFile",Zip.java,,,,,,,,,,,,,,,,,,,,,,,,,,,8,58,5,,,,42,13,35,,,11,,,,,,,12,3,0,29,32,11,,,21,,,6,6,6,1,1,,,,,0,,3,0,,,0,26,6,6,6,1
+Protected Method,"org.apache.tools.ant.taskdefs.Zip.zipFile",Zip.java,,,,,,,,,,,,,,,,,,,,,,,,,,,6,10,0,,,,10,3,5,,,0,,,,,,,3,1,0,3,5,2,,,3,,,1,1,1,1,0,,,,,0,,1,0,,,0,00,1,1,1,1
+Package,"org.apache.tools.ant.taskdefs.optional",NetRexxC.java,1,1,1,1,9,0,5,3,,,,,5,0,0,,5,,51,44,51,,0,4,0,47,,999,105,,,,350,164,160,,,547,,,,,,,,,,197,272,164,,,108,,,,,,,,5,5,8,1,,,3,,,,1,56,76,76,89,51
+Public Class,"org.apache.tools.ant.taskdefs.optional.NetRexxC",NetRexxC.java,1,1,1,1,9,0,4,4,1,3,3,0,,0,0,,,,33,33,33,62,0,2,0,31,,430,44,,,,180,76,79,,,207,,,,,,,,,,88,130,76,,,54,,,,,,,,5,5,6,1,,3,3,,96,96,1,15,43,43,49,33
+Private Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.copyFilesToDestination",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,7,19,0,,,,16,4,12,,,3,,,,,,,6,3,0,7,8,3,,,5,,,3,3,3,1,1,,,,,0,,2,0,,,0,19,3,3,3,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.execute",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,28,6,,,,13,3,9,,,9,,,,,,,8,4,1,7,10,3,,,7,,,3,3,4,1,0,,,,,0,,1,0,,,0,69,3,3,4,1
+Private Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.scanDir",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,8,26,0,,,,18,5,12,,,8,,,,,,,8,5,1,9,14,6,,,8,,,5,5,6,1,1,,,,,0,,3,0,,,0,44,5,5,6,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setBinary",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setClasspath",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setComments",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setCompact",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setCompile",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,10,0,,,,4,1,2,,,6,,,,,,,3,2,0,2,4,1,,,3,,,2,2,3,1,0,,,,,0,,1,0,,,1,50,2,2,3,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setConsole",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setCrossref",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setDecimal",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,9,0,,,,3,1,1,,,6,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setDestDir",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,7,0,,,,3,1,1,,,4,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,33,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setDiag",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setExplicit",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setFormat",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,7,0,,,,3,1,1,,,4,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,33,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setJava",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setKeep",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,9,0,,,,3,1,1,,,6,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setLogo",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setReplace",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setSavelog",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,9,0,,,,3,1,1,,,6,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setSourcedir",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,9,0,,,,3,1,1,,,6,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setSrcDir",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setStrictargs",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,10,0,,,,3,1,1,,,7,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,33,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setStrictassign",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setStrictcase",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setStrictimport",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,10,0,,,,3,1,1,,,7,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,33,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setStrictprops",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setStrictsignal",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setSymbols",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setTime",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setTrace",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,15,0,,,,10,1,7,,,5,,,,,,,3,2,0,2,4,1,,,3,,,2,2,5,1,1,,,,,0,,1,0,,,0,50,2,2,5,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setUtf8",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.NetRexxC.setVerbose",NetRexxC.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.optional.RenameExtensions",RenameExtensions.java,2,2,2,1,10,0,7,2,1,3,3,0,,0,0,,,,7,4,7,36,0,1,0,6,,91,15,,,,56,22,34,,,20,,,,,,,,,,30,45,23,,,22,,,,,,,,5,5,8,1,,3,3,,60,60,0,36,14,14,18,7
+Public Constructor,"org.apache.tools.ant.taskdefs.optional.RenameExtensions.RenameExtensions",RenameExtensions.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,4,0,,,,3,1,1,,,1,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,33,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.RenameExtensions.execute",RenameExtensions.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,28,6,,,,17,7,13,,,5,,,,,,,11,10,1,11,16,7,,,9,,,5,5,8,1,0,,,,,0,,2,0,,,0,29,5,5,8,1
+Private Method,"org.apache.tools.ant.taskdefs.optional.RenameExtensions.scanDir",RenameExtensions.java,,,,,,,,,,,,,,,,,,,,,,,,,,,8,19,0,,,,18,5,13,,,1,,,,,,,8,4,1,10,14,6,,,8,,,4,4,5,1,2,,,,,0,,3,0,,,0,06,4,4,5,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.RenameExtensions.setFromExtension",RenameExtensions.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,4,0,,,,3,1,1,,,1,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,33,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.RenameExtensions.setReplace",RenameExtensions.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,7,0,,,,3,1,1,,,4,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,33,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.RenameExtensions.setSrcDir",RenameExtensions.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.RenameExtensions.setToExtension",RenameExtensions.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,4,0,,,,3,1,1,,,1,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,33,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.optional.Script",Script.java,2,2,3,1,16,1,10,4,1,1,1,0,,0,0,,,,5,3,5,20,0,1,0,4,,99,14,,,,56,21,39,,,29,,,,,,,,,,37,49,23,,,26,,,,,,,,4,4,6,1,,2,2,,53,53,0,52,13,13,16,5
+Private Method,"org.apache.tools.ant.taskdefs.optional.Script.addBeans",Script.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,16,3,,,,10,4,7,,,3,,,,,,,9,5,1,8,11,5,,,6,,,4,4,6,1,0,,,,,0,,2,0,,,0,30,4,4,6,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.Script.addText",Script.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.Script.execute",Script.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,29,3,,,,20,6,16,,,6,,,,,,,13,4,1,15,18,7,,,11,,,4,4,5,1,1,,,,,0,,2,0,,,0,30,4,4,5,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.Script.setLanguage",Script.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.Script.setSrc",Script.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,23,3,,,,15,5,12,,,5,,,,,,,6,4,1,9,12,5,,,7,,,3,3,3,1,1,,,,,0,,1,0,,,0,33,3,3,3,1
+Public Class,"org.apache.tools.ant.taskdefs.optional.XalanLiaison",XalanLiaison.java,1,1,1,1,3,0,3,0,2,0,0,0,,0,0,,,,3,2,3,3,0,0,0,3,,24,5,,,,14,7,4,,,6,,,,,,,,,,6,9,6,,,3,,,,,,,,1,1,1,1,,1,0,,33,33,0,43,3,3,3,3
+Public Constructor,"org.apache.tools.ant.taskdefs.optional.XalanLiaison.XalanLiaison",XalanLiaison.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,3,0,,,,3,1,1,,,0,,,,,,,3,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.XalanLiaison.setStylesheet",XalanLiaison.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,0,,,,2,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.XalanLiaison.transform",XalanLiaison.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,0,,,,4,1,2,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.optional.XslpLiaison",XslpLiaison.java,1,1,1,1,3,0,3,0,2,0,0,0,,0,0,,,,3,2,3,3,0,0,0,3,,24,5,,,,14,8,4,,,6,,,,,,,,,,7,10,7,,,3,,,,,,,,1,1,1,1,,1,0,,33,33,0,43,3,3,3,3
+Public Constructor,"org.apache.tools.ant.taskdefs.optional.XslpLiaison.XslpLiaison",XslpLiaison.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.XslpLiaison.setStylesheet",XslpLiaison.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,,,,3,2,2,,,0,,,,,,,2,1,0,2,3,2,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.XslpLiaison.transform",XslpLiaison.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,0,,,,3,1,1,,,0,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Package,"org.apache.tools.ant.taskdefs.optional.ejb",DDCreator.java,2,2,2,1,21,1,12,7,,,,,8,2,9,,7,,45,37,47,,0,6,1,40,,1826,203,,,,685,269,422,,,941,,,,,,,,,,383,493,250,,,243,,,,,,,,16,16,17,5,,,4,,,,1,37,108,108,119,51
+Public Class,"org.apache.tools.ant.taskdefs.optional.ejb.DDCreator",DDCreator.java,2,2,2,1,17,1,8,7,1,4,4,0,,0,0,,,,4,3,4,33,0,0,0,4,,102,11,,,,40,14,23,,,51,,,,,,,,,,22,31,15,,,16,,,,,,,,5,5,5,1,,3,1,,50,50,1,27,8,8,8,4
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.DDCreator.execute",DDCreator.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,43,5,,,,26,7,20,,,12,,,,,,,14,16,1,16,21,8,,,13,,,5,5,5,1,0,,,,,0,,1,0,,,0,46,5,5,5,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.DDCreator.setClasspath",DDCreator.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,8,0,,,,3,1,1,,,5,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.DDCreator.setDescriptors",DDCreator.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,9,0,,,,3,1,1,,,6,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.DDCreator.setDest",DDCreator.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,10,0,,,,3,1,1,,,7,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,33,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.optional.ejb.DDCreatorHelper",DDCreatorHelper.java,2,2,3,1,21,1,14,6,1,0,0,0,,1,0,,,,2,3,3,3,0,2,0,1,,92,8,,,,48,21,30,,,36,,,,,,,,,,25,34,18,,,16,,,,,,,,5,5,6,1,,1,3,,33,0,0,75,8,8,9,3
+Private Constructor,"org.apache.tools.ant.taskdefs.optional.ejb.DDCreatorHelper.DDCreatorHelper",DDCreatorHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,14,1,,,,9,2,6,,,4,,,,,,,4,2,0,7,9,3,,,6,,,2,2,2,1,0,,,,,0,,1,0,,,0,44,2,2,2,1
+Public Static Method,"org.apache.tools.ant.taskdefs.optional.ejb.DDCreatorHelper.main",DDCreatorHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,10,0,,,,4,2,2,,,6,,,,,,,2,1,0,2,3,2,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,50,1,1,1,1
+Private Method,"org.apache.tools.ant.taskdefs.optional.ejb.DDCreatorHelper.process",DDCreatorHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,41,2,,,,30,13,22,,,9,,,,,,,7,7,1,13,18,9,,,9,,,5,5,6,1,2,,,,,0,,3,0,,,0,30,5,5,6,1
+Public Class,"org.apache.tools.ant.taskdefs.optional.ejb.EjbJar",EjbJar.java,3,3,3,1,32,3,19,10,1,5,5,0,,0,4,,,,11,7,11,40,0,0,1,10,,549,72,,,,262,82,198,,,218,,,,,,,,,,133,171,71,,,100,,,,,,,,16,16,17,1,,3,4,,81,81,0,83,33,33,34,11
+Protected Class,"org.apache.tools.ant.taskdefs.optional.ejb.EjbJar.DescriptorHandler",EjbJar.java,1,1,2,1,15,0,6,8,1,1,1,0,,0,4,,,,5,2,5,5,0,0,0,5,,118,14,,,,38,16,22,,,67,,,,,,,,,,17,25,14,,,11,,,,,,,,3,3,6,1,,2,2,,30,30,1,76,8,8,11,5
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.EjbJar.DescriptorHandler.characters",EjbJar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,11,38,2,,,,16,4,11,,,20,,,,,,,4,3,0,6,9,3,,,6,,,3,3,6,1,0,,,,,0,,2,0,,,1,25,3,3,6,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.EjbJar.DescriptorHandler.endElement",EjbJar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,12,0,,,,3,1,1,,,9,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,3,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.EjbJar.DescriptorHandler.getFiles",EjbJar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,7,0,,,,3,1,1,,,4,,,,,,,1,1,0,1,2,1,,,1,,,2,2,2,1,0,,,,,0,,0,0,,,1,33,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.EjbJar.DescriptorHandler.startDocument",EjbJar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,8,0,,,,4,1,2,,,4,,,,,,,2,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.EjbJar.DescriptorHandler.startElement",EjbJar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,11,0,,,,4,2,1,,,7,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,75,1,1,1,1
+Protected Method,"org.apache.tools.ant.taskdefs.optional.ejb.EjbJar.addFileToJar",EjbJar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,6,40,2,,,,22,9,15,,,16,,,,,,,5,2,0,10,12,5,,,7,,,3,3,3,1,1,,,,,0,,2,0,,,0,73,3,3,3,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.EjbJar.buildWeblogicJar",EjbJar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,6,28,4,,,,17,4,13,,,7,,,,,,,7,2,0,10,12,4,,,8,,,2,2,2,1,1,,,,,0,,1,0,,,0,41,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.EjbJar.execute",EjbJar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,18,191,25,,,,120,27,104,,,47,,,,,,,28,512,3,61,74,23,,,51,,,16,16,17,1,7,,,,,0,,4,0,,,0,39,16,16,17,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.EjbJar.setBasenameterminator",EjbJar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,7,0,,,,3,1,1,,,4,,,,,,,1,2,0,1,3,1,,,2,,,2,2,2,1,0,,,,,0,,1,0,,,1,33,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.EjbJar.setDestdir",EjbJar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,8,0,,,,3,1,1,,,5,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.EjbJar.setGenerateweblogic",EjbJar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,7,0,,,,3,1,1,,,4,,,,,,,3,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,33,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.EjbJar.setGenericjarsuffix",EjbJar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,7,0,,,,3,1,1,,,4,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,33,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.EjbJar.setKeepgeneric",EjbJar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,7,0,,,,3,1,1,,,4,,,,,,,3,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,33,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.EjbJar.setSrcdir",EjbJar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,7,0,,,,3,1,1,,,4,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,33,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.EjbJar.setWeblogicjarsuffix",EjbJar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,7,0,,,,3,1,1,,,4,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,33,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.EjbJar.writeJar",EjbJar.java,,,,,,,,,,,,,,,,,,,,,,,,,,,6,49,5,,,,31,7,26,,,14,,,,,,,16,5,1,17,21,6,,,15,,,4,4,4,1,1,,,,,0,,2,0,,,0,45,4,4,4,1
+Public Class,"org.apache.tools.ant.taskdefs.optional.ejb.Ejbc",Ejbc.java,1,1,1,1,15,0,8,6,1,4,4,0,,0,0,,,,6,5,6,35,0,0,0,6,,139,17,,,,57,19,33,,,65,,,,,,,,,,31,43,19,,,24,,,,,,,,6,6,6,1,,3,1,,66,66,1,14,11,11,11,6
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.Ejbc.execute",Ejbc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,7,52,5,,,,35,8,28,,,12,,,,,,,14,32,2,21,27,8,,,19,,,6,6,6,1,0,,,,,0,,1,0,,,0,34,6,6,6,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.Ejbc.setClasspath",Ejbc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.Ejbc.setDescriptors",Ejbc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,9,0,,,,3,1,1,,,6,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.Ejbc.setDest",Ejbc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.Ejbc.setManifest",Ejbc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,11,0,,,,3,1,1,,,8,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.Ejbc.setSrc",Ejbc.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,9,0,,,,3,1,1,,,6,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,00,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.optional.ejb.EjbcHelper",EjbcHelper.java,3,3,4,1,33,2,21,9,1,0,0,0,,1,0,,,,4,6,5,5,0,4,0,1,,212,23,,,,116,43,78,,,73,,,,,,,,,,63,81,37,,,44,,,,,,,,10,10,15,5,,1,2,,63,40,0,63,18,18,23,9
+Private Constructor,"org.apache.tools.ant.taskdefs.optional.ejb.EjbcHelper.EjbcHelper",EjbcHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,15,1,,,,11,2,8,,,3,,,,,,,6,2,0,9,11,3,,,8,,,2,2,2,1,0,,,,,0,,1,0,,,0,27,2,2,2,1
+Private Method,"org.apache.tools.ant.taskdefs.optional.ejb.EjbcHelper.isRegenRequired",EjbcHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,93,8,,,,58,18,42,,,27,,,,,,,12,69,2,28,37,15,,,22,,,10,10,15,5,28,,,,,7,,2,7,,,0,47,10,10,15,5
+Public Static Method,"org.apache.tools.ant.taskdefs.optional.ejb.EjbcHelper.main",EjbcHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,7,0,,,,4,2,2,,,3,,,,,,,2,1,0,2,3,2,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,75,1,1,1,1
+Private Method,"org.apache.tools.ant.taskdefs.optional.ejb.EjbcHelper.process",EjbcHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,26,2,,,,20,6,15,,,4,,,,,,,7,3,0,14,17,7,,,10,,,3,3,3,1,1,,,,,0,,2,0,,,0,20,3,3,3,1
+Private Method,"org.apache.tools.ant.taskdefs.optional.ejb.EjbcHelper.regenerateSupportClasses",EjbcHelper.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,25,2,,,,15,8,11,,,8,,,,,,,2,2,0,4,6,3,,,3,,,2,2,2,1,1,,,,,0,,1,0,,,0,53,2,2,2,1
+Public Class,"org.apache.tools.ant.taskdefs.optional.ejb.WLRun",WLRun.java,2,2,2,1,16,1,8,6,1,3,3,0,,0,1,,,,7,6,7,22,0,0,0,7,,163,23,,,,69,20,42,,,71,,,,,,,,,,34,49,20,,,29,,,,,,,,8,8,8,1,,2,1,,71,71,1,03,14,14,14,7
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.WLRun.execute",WLRun.java,,,,,,,,,,,,,,,,,,,,,,,,,,,8,61,8,,,,42,6,32,,,11,,,,,,,12,128,2,21,29,6,,,23,,,8,8,8,1,1,,,,,0,,1,0,,,0,26,8,8,8,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.WLRun.setClasspath",WLRun.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,8,0,,,,3,1,1,,,5,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.WLRun.setHome",WLRun.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,9,0,,,,3,1,1,,,6,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.WLRun.setName",WLRun.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.WLRun.setPolicy",WLRun.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.WLRun.setProperties",WLRun.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,10,0,,,,3,1,1,,,7,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,33,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.WLRun.setWlclasspath",WLRun.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,10,0,,,,3,1,1,,,7,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,33,1,1,1,1
+Public Class,"org.apache.tools.ant.taskdefs.optional.ejb.WLStop",WLStop.java,1,1,1,1,11,0,5,5,1,3,3,0,,0,0,,,,6,5,6,21,0,0,0,6,,107,16,,,,38,15,18,,,53,,,,,,,,,,20,29,15,,,14,,,,,,,,3,3,4,1,,2,1,,66,66,1,39,8,8,9,6
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.WLStop.execute",WLStop.java,,,,,,,,,,,,,,,,,,,,,,,,,,,6,28,4,,,,16,4,12,,,8,,,,,,,9,4,1,10,13,4,,,9,,,3,3,4,1,0,,,,,0,,1,0,,,0,50,3,3,4,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.WLStop.setClasspath",WLStop.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,8,0,,,,3,1,1,,,5,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.WLStop.setDelay",WLStop.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.WLStop.setPassword",WLStop.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.WLStop.setUrl",WLStop.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.ejb.WLStop.setUser",WLStop.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Package,"org.apache.tools.ant.taskdefs.optional.vss",MSVSS.java,1,1,2,1,13,0,7,5,,,,,2,0,16,,2,,17,9,17,,0,0,0,17,,505,45,,,,161,60,100,,,301,,,,,,,,,,82,117,59,,,58,,,,,,,,4,4,4,4,,,3,,,,1,87,33,33,37,20
+Public Abstract Class,"org.apache.tools.ant.taskdefs.optional.vss.MSVSS",MSVSS.java,1,1,1,1,10,0,5,5,1,0,0,1,,0,16,,,,6,3,6,30,0,0,0,6,,134,12,,,,52,27,35,,,71,,,,,,,,,,30,40,27,,,13,,,,,,,,2,2,3,1,,3,1,,66,66,1,37,9,9,10,6
+Public Method,"org.apache.tools.ant.taskdefs.optional.vss.MSVSS.getLoginCommand",MSVSS.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,10,0,,,,7,1,4,,,3,,,,,,,1,2,0,2,4,1,,,3,,,2,2,2,1,1,,,,,0,,1,0,,,0,43,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.vss.MSVSS.getSSCommand",MSVSS.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,12,1,,,,8,2,5,,,3,,,,,,,3,2,0,4,6,2,,,4,,,2,2,3,1,0,,,,,0,,1,0,,,0,38,2,2,3,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.vss.MSVSS.getVsspath",MSVSS.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.vss.MSVSS.setLogin",MSVSS.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,10,0,,,,3,1,1,,,7,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,33,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.vss.MSVSS.setSsdir",MSVSS.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,8,0,,,,3,1,1,,,5,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.vss.MSVSS.setVsspath",MSVSS.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,15,0,,,,7,1,4,,,9,,,,,,,3,2,0,2,4,1,,,3,,,2,2,2,1,1,,,,,0,,1,0,,,1,29,2,2,2,1
+Public Class,"org.apache.tools.ant.taskdefs.optional.vss.MSVSSGET",MSVSSGET.java,2,2,2,1,15,0,8,6,1,2,2,0,,0,0,,,,11,6,11,41,0,0,0,11,,248,23,,,,102,26,65,,,124,,,,,,,,,,45,70,25,,,45,,,,,,,,4,4,4,4,,4,3,,81,72,1,22,24,24,27,14
+Public Method,"org.apache.tools.ant.taskdefs.optional.vss.MSVSSGET.execute",MSVSSGET.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,44,5,,,,21,5,17,,,19,,,,,,,11,4,1,15,18,5,,,13,,,3,3,3,1,0,,,,,0,,1,0,,,0,90,3,3,3,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.vss.MSVSSGET.getLocalpathCommand",MSVSSGET.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,24,1,,,,17,5,12,,,6,,,,,,,7,4,1,7,11,4,,,7,,,4,4,4,1,1,,,,,0,,3,0,,,0,35,4,4,4,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.vss.MSVSSGET.getRecursiveCommand",MSVSSGET.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,10,0,,,,7,1,4,,,3,,,,,,,1,2,0,2,4,1,,,3,,,2,2,2,1,1,,,,,0,,1,0,,,0,43,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.vss.MSVSSGET.getVersionCommand",MSVSSGET.java,,,,,,,,,,,,,,,,,,,,,,,,,,,7,20,4,,,,12,1,7,,,4,,,,,,,1,4,1,4,8,1,,,7,,,4,4,4,4,3,,,,,3,,1,3,,,0,33,4,4,4,4
+Public Method,"org.apache.tools.ant.taskdefs.optional.vss.MSVSSGET.getWritableCommand",MSVSSGET.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,10,0,,,,7,1,4,,,3,,,,,,,1,2,0,2,4,1,,,3,,,2,2,2,1,1,,,,,0,,1,0,,,0,43,2,2,2,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.vss.MSVSSGET.setDate",MSVSSGET.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,15,0,,,,7,1,4,,,8,,,,,,,2,2,0,2,4,1,,,3,,,2,2,3,1,1,,,,,0,,1,0,,,1,14,2,2,3,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.vss.MSVSSGET.setLabel",MSVSSGET.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,15,0,,,,7,1,4,,,8,,,,,,,2,2,0,2,4,1,,,3,,,2,2,3,1,1,,,,,0,,1,0,,,1,14,2,2,3,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.vss.MSVSSGET.setLocalpath",MSVSSGET.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.vss.MSVSSGET.setRecursive",MSVSSGET.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.vss.MSVSSGET.setVersion",MSVSSGET.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,15,0,,,,7,1,4,,,8,,,,,,,2,2,0,2,4,1,,,3,,,2,2,3,1,1,,,,,0,,1,0,,,1,14,2,2,3,1
+Public Method,"org.apache.tools.ant.taskdefs.optional.vss.MSVSSGET.setWritable",MSVSSGET.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Package,"org.apache.tools.tar",TarBuffer.java,2,2,2,1,16,1,9,5,,,,,6,7,24,,6,,79,40,86,,0,6,0,80,,2161,294,,,,895,214,566,,,988,,,,,,,,,,473,659,221,,,438,,,,,,,,12,12,16,6,,,4,,,,1,10,187,187,200,110
+Public Class,"org.apache.tools.tar.TarBuffer",TarBuffer.java,2,2,2,1,15,1,9,3,1,0,0,0,,0,2,,,,21,9,21,21,0,4,0,17,,376,64,,,,221,38,134,,,92,,,,,,,,,,89,146,38,,,108,,,,,,,,7,7,7,3,,1,3,,67,34,0,42,56,56,57,29
+Public Constructor,"org.apache.tools.tar.TarBuffer.TarBuffer",TarBuffer.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Constructor,"org.apache.tools.tar.TarBuffer.TarBuffer",TarBuffer.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Constructor,"org.apache.tools.tar.TarBuffer.TarBuffer",TarBuffer.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,1,,,,5,1,3,,,0,,,,,,,4,1,0,3,4,1,,,3,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Constructor,"org.apache.tools.tar.TarBuffer.TarBuffer",TarBuffer.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Constructor,"org.apache.tools.tar.TarBuffer.TarBuffer",TarBuffer.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Constructor,"org.apache.tools.tar.TarBuffer.TarBuffer",TarBuffer.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,1,,,,5,1,3,,,0,,,,,,,4,1,0,3,4,1,,,3,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.tar.TarBuffer.close",TarBuffer.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,26,4,,,,18,1,12,,,4,,,,,,,5,10,1,6,12,1,,,11,,,6,6,7,1,1,,,,,0,,2,0,,,0,22,6,6,7,1
+Private Method,"org.apache.tools.tar.TarBuffer.flushBlock",TarBuffer.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,16,2,,,,11,1,6,,,3,,,,,,,2,8,1,3,7,1,,,6,,,4,4,4,1,0,,,,,0,,1,0,,,0,27,4,4,4,1
+Public Method,"org.apache.tools.tar.TarBuffer.getBlockSize",TarBuffer.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.tar.TarBuffer.getCurrentBlockNum",TarBuffer.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.tar.TarBuffer.getCurrentRecordNum",TarBuffer.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,9,0,,,,3,1,1,,,6,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,00,1,1,1,1
+Public Method,"org.apache.tools.tar.TarBuffer.getRecordSize",TarBuffer.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Private Method,"org.apache.tools.tar.TarBuffer.initialize",TarBuffer.java,,,,,,,,,,,,,,,,,,,,,,,,,,,8,18,1,,,,14,1,11,,,3,,,,,,,7,2,0,9,11,1,,,10,,,2,2,2,1,1,,,,,0,,1,0,,,0,21,2,2,2,1
+Public Method,"org.apache.tools.tar.TarBuffer.isEOFRecord",TarBuffer.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,15,1,,,,8,1,4,,,6,,,,,,,2,3,0,4,7,2,,,5,,,3,3,3,3,3,,,,,3,,2,3,,,0,75,3,3,3,3
+Private Method,"org.apache.tools.tar.TarBuffer.readBlock",TarBuffer.java,,,,,,,,,,,,,,,,,,,,,,,,,,,7,54,9,,,,29,5,21,,,16,,,,,,,5,28,1,12,19,4,,,15,,,7,7,7,3,2,,,,,2,,3,2,,,0,55,7,7,7,3
+Public Method,"org.apache.tools.tar.TarBuffer.readRecord",TarBuffer.java,,,,,,,,,,,,,,,,,,,,,,,,,,,9,31,6,,,,20,2,14,,,5,,,,,,,5,12,1,7,12,2,,,10,,,5,5,5,3,2,,,,,2,,2,2,,,0,25,5,5,5,3
+Public Method,"org.apache.tools.tar.TarBuffer.setDebug",TarBuffer.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.tar.TarBuffer.skipRecord",TarBuffer.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,21,3,,,,15,1,9,,,4,,,,,,,3,12,1,4,9,1,,,8,,,5,5,5,3,2,,,,,2,,2,2,,,0,27,5,5,5,3
+Private Method,"org.apache.tools.tar.TarBuffer.writeBlock",TarBuffer.java,,,,,,,,,,,,,,,,,,,,,,,,,,,8,18,3,,,,12,1,8,,,3,,,,,,,5,4,1,6,9,1,,,8,,,3,3,3,1,0,,,,,0,,1,0,,,0,25,3,3,3,1
+Public Method,"org.apache.tools.tar.TarBuffer.writeRecord",TarBuffer.java,,,,,,,,,,,,,,,,,,,,,,,,,,,13,32,5,,,,22,1,16,,,5,,,,,,,4,16,1,6,11,1,,,10,,,5,5,5,1,0,,,,,0,,1,0,,,0,23,5,5,5,1
+Public Method,"org.apache.tools.tar.TarBuffer.writeRecord",TarBuffer.java,,,,,,,,,,,,,,,,,,,,,,,,,,,11,35,5,,,,22,1,16,,,8,,,,,,,4,16,1,6,11,1,,,10,,,5,5,5,1,0,,,,,0,,1,0,,,0,36,5,5,5,1
+Public Interface,"org.apache.tools.tar.TarConstants",TarConstants.java,0,0,0,0,0,0,0,0,0,0,0,1,,0,22,,,,0,0,0,0,0,0,0,0,,120,23,,,,24,23,22,,,73,,,,,,,,,,22,23,23,,,0,,,,,,,,0,0,0,0,,0,0,,0,0,3,04,0,0,0,0
+Public Class,"org.apache.tools.tar.TarEntry",TarEntry.java,1,1,1,1,14,1,8,5,2,1,1,0,,0,0,,,,28,15,28,28,0,1,0,27,,507,62,,,,241,58,152,,,219,,,,,,,,,,150,195,60,,,135,,,,,,,,9,9,13,4,,1,4,,81,71,0,91,46,46,51,31
+Private Constructor,"org.apache.tools.tar.TarEntry.TarEntry",TarEntry.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,21,3,,,,14,2,11,,,4,,,,,,,12,2,0,10,12,2,,,10,,,2,2,2,1,0,,,,,0,,1,0,,,0,29,2,2,2,1
+Public Constructor,"org.apache.tools.tar.TarEntry.TarEntry",TarEntry.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,26,2,,,,20,2,18,,,4,,,,,,,17,1,0,18,19,2,,,17,,,3,3,3,1,0,,,,,0,,0,0,,,0,20,3,3,3,1
+Public Constructor,"org.apache.tools.tar.TarEntry.TarEntry",TarEntry.java,,,,,,,,,,,,,,,,,,,,,,,,,,,7,73,14,,,,47,7,37,,,12,,,,,,,23,60,2,24,33,7,,,26,,,9,9,13,1,1,,,,,0,,4,0,,,0,26,9,9,13,1
+Public Constructor,"org.apache.tools.tar.TarEntry.TarEntry",TarEntry.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,10,0,,,,4,1,2,,,6,,,,,,,3,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,1,50,1,1,1,1
+Public Method,"org.apache.tools.tar.TarEntry.equals",TarEntry.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,10,0,,,,3,1,1,,,7,,,,,,,3,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,33,1,1,1,1
+Public Method,"org.apache.tools.tar.TarEntry.getDirectoryEntries",TarEntry.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,20,3,,,,11,3,7,,,6,,,,,,,4,3,0,7,10,4,,,6,,,3,3,4,1,1,,,,,0,,1,0,,,0,55,3,3,4,1
+Public Method,"org.apache.tools.tar.TarEntry.getFile",TarEntry.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.tar.TarEntry.getGroupId",TarEntry.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.tar.TarEntry.getGroupName",TarEntry.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.tar.TarEntry.getModTime",TarEntry.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.tar.TarEntry.getName",TarEntry.java,,,,,,,,,,,,,,,,,,,,,,,,,,,6,8,0,,,,3,1,1,,,5,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.tar.TarEntry.getSize",TarEntry.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.tar.TarEntry.getUserId",TarEntry.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.tar.TarEntry.getUserName",TarEntry.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.tar.TarEntry.isDescendent",TarEntry.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,11,0,,,,3,1,1,,,8,,,,,,,3,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,67,1,1,1,1
+Public Method,"org.apache.tools.tar.TarEntry.isDirectory",TarEntry.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,20,3,,,,12,1,7,,,5,,,,,,,4,4,1,4,8,1,,,7,,,4,4,4,4,3,,,,,3,,1,3,,,0,42,4,4,4,4
+Public Method,"org.apache.tools.tar.TarEntry.parseTarHeader",TarEntry.java,,,,,,,,,,,,,,,,,,,,,,,,,,,13,35,1,,,,29,2,27,,,5,,,,,,,16,1,0,27,28,2,,,26,,,1,1,1,1,0,,,,,0,,0,0,,,0,17,1,1,1,1
+Public Method,"org.apache.tools.tar.TarEntry.setGroupId",TarEntry.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.tar.TarEntry.setGroupName",TarEntry.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.tar.TarEntry.setIds",TarEntry.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,10,0,,,,4,1,2,,,6,,,,,,,2,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,1,50,1,1,1,1
+Public Method,"org.apache.tools.tar.TarEntry.setModTime",TarEntry.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,9,0,,,,3,1,1,,,6,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,00,1,1,1,1
+Public Method,"org.apache.tools.tar.TarEntry.setModTime",TarEntry.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.tar.TarEntry.setName",TarEntry.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.tar.TarEntry.setNames",TarEntry.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,10,0,,,,4,1,2,,,6,,,,,,,2,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,1,50,1,1,1,1
+Public Method,"org.apache.tools.tar.TarEntry.setSize",TarEntry.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.tar.TarEntry.setUserId",TarEntry.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.tar.TarEntry.setUserName",TarEntry.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.tar.TarEntry.writeEntryHeader",TarEntry.java,,,,,,,,,,,,,,,,,,,,,,,,,,,27,37,7,,,,25,4,21,,,5,,,,,,,6,4,1,21,24,5,,,19,,,3,3,3,1,0,,,,,0,,1,0,,,0,20,3,3,3,1
+Public Class,"org.apache.tools.tar.TarInputStream",TarInputStream.java,2,2,2,1,20,2,11,5,1,2,2,0,,0,0,,,,16,8,16,16,0,0,0,16,,356,57,,,,195,41,133,,,104,,,,,,,,,,83,122,40,,,82,,,,,,,,12,12,16,3,,2,2,,82,61,0,53,41,41,45,20
+Public Constructor,"org.apache.tools.tar.TarInputStream.TarInputStream",TarInputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Constructor,"org.apache.tools.tar.TarInputStream.TarInputStream",TarInputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Constructor,"org.apache.tools.tar.TarInputStream.TarInputStream",TarInputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,9,1,,,,8,1,6,,,0,,,,,,,7,1,0,6,7,1,,,6,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.tar.TarInputStream.available",TarInputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,13,0,,,,3,1,1,,,10,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,3,33,1,1,1,1
+Public Method,"org.apache.tools.tar.TarInputStream.close",TarInputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,0,,,,3,1,1,,,3,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,00,1,1,1,1
+Public Method,"org.apache.tools.tar.TarInputStream.copyEntryContents",TarInputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,19,3,,,,10,3,6,,,6,,,,,,,2,3,0,4,7,3,,,4,,,3,3,3,3,2,,,,,2,,2,2,,,0,60,3,3,3,3
+Public Method,"org.apache.tools.tar.TarInputStream.getNextEntry",TarInputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,7,99,13,,,,73,3,61,,,13,,,,,,,15,126,2,20,32,3,,,29,,,12,12,16,1,3,,,,,0,,2,0,,,0,18,12,12,16,1
+Public Method,"org.apache.tools.tar.TarInputStream.getRecordSize",TarInputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.tar.TarInputStream.mark",TarInputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,6,0,,,,1,1,0,,,5,,,,,,,0,1,0,0,1,1,,,0,,,1,1,1,1,0,,,,,0,,0,0,,,5,00,1,1,1,1
+Public Method,"org.apache.tools.tar.TarInputStream.markSupported",TarInputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.tar.TarInputStream.read",TarInputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,16,1,,,,8,2,5,,,7,,,,,,,2,2,0,3,5,2,,,3,,,2,2,2,1,1,,,,,0,,1,0,,,0,88,2,2,2,1
+Public Method,"org.apache.tools.tar.TarInputStream.read",TarInputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,11,0,,,,3,1,1,,,8,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,67,1,1,1,1
+Public Method,"org.apache.tools.tar.TarInputStream.read",TarInputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,12,78,18,,,,47,9,38,,,13,,,,,,,5,31,1,27,35,8,,,27,,,9,9,9,1,3,,,,,0,,2,0,,,0,28,9,9,9,1
+Public Method,"org.apache.tools.tar.TarInputStream.reset",TarInputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,0,4,0,,,,1,1,0,,,3,,,,,,,0,1,0,0,1,1,,,0,,,1,1,1,1,0,,,,,0,,0,0,,,3,00,1,1,1,1
+Public Method,"org.apache.tools.tar.TarInputStream.setDebug",TarInputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,9,0,,,,4,1,2,,,5,,,,,,,2,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,1,25,1,1,1,1
+Public Method,"org.apache.tools.tar.TarInputStream.skip",TarInputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,28,4,,,,12,4,8,,,12,,,,,,,1,3,0,6,8,4,,,4,,,4,4,4,3,2,,,,,2,,2,2,,,1,00,4,4,4,3
+Public Class,"org.apache.tools.tar.TarOutputStream",TarOutputStream.java,1,1,1,1,15,1,7,6,1,2,2,0,,0,0,,,,14,8,14,14,0,1,0,13,,249,33,,,,119,25,71,,,97,,,,,,,,,,63,88,27,,,61,,,,,,,,6,6,6,3,,2,2,,75,50,0,82,24,24,24,16
+Public Constructor,"org.apache.tools.tar.TarOutputStream.TarOutputStream",TarOutputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Constructor,"org.apache.tools.tar.TarOutputStream.TarOutputStream",TarOutputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,0,,,,3,1,1,,,0,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Constructor,"org.apache.tools.tar.TarOutputStream.TarOutputStream",TarOutputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,10,1,,,,9,1,7,,,0,,,,,,,8,1,0,7,8,1,,,7,,,1,1,1,1,0,,,,,0,,0,0,,,0,00,1,1,1,1
+Public Method,"org.apache.tools.tar.TarOutputStream.close",TarOutputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,9,0,,,,4,1,2,,,5,,,,,,,2,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,1,25,1,1,1,1
+Public Method,"org.apache.tools.tar.TarOutputStream.closeEntry",TarOutputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,7,27,3,,,,15,1,10,,,9,,,,,,,4,6,1,7,11,2,,,9,,,4,4,4,1,0,,,,,0,,2,0,,,0,60,4,4,4,1
+Public Method,"org.apache.tools.tar.TarOutputStream.finish",TarOutputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,7,0,,,,3,1,1,,,4,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,33,1,1,1,1
+Public Method,"org.apache.tools.tar.TarOutputStream.getRecordSize",TarOutputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,1,8,0,,,,3,1,1,,,5,,,,,,,2,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.tar.TarOutputStream.putNextEntry",TarOutputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,23,2,,,,10,1,7,,,11,,,,,,,6,2,0,5,7,1,,,6,,,2,2,2,1,1,,,,,0,,1,0,,,1,10,2,2,2,1
+Public Method,"org.apache.tools.tar.TarOutputStream.setBufferDebug",TarOutputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.tar.TarOutputStream.setDebug",TarOutputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,8,0,,,,3,1,1,,,5,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,1,67,1,1,1,1
+Public Method,"org.apache.tools.tar.TarOutputStream.write",TarOutputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,13,78,11,,,,40,3,33,,,27,,,,,,,5,18,1,21,27,3,,,24,,,6,6,6,3,3,,,,,3,,2,2,,,0,68,6,6,6,3
+Public Method,"org.apache.tools.tar.TarOutputStream.write",TarOutputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,12,1,,,,4,1,2,,,7,,,,,,,2,1,0,2,3,1,,,2,,,1,1,1,1,0,,,,,0,,0,0,,,1,75,1,1,1,1
+Public Method,"org.apache.tools.tar.TarOutputStream.write",TarOutputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,2,11,0,,,,3,1,1,,,8,,,,,,,1,1,0,1,2,1,,,1,,,1,1,1,1,0,,,,,0,,0,0,,,2,67,1,1,1,1
+Private Method,"org.apache.tools.tar.TarOutputStream.writeEOFRecord",TarOutputStream.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,11,1,,,,6,1,3,,,4,,,,,,,2,2,0,4,6,2,,,4,,,2,2,2,1,0,,,,,0,,1,0,,,0,67,2,2,2,1
+Public Class,"org.apache.tools.tar.TarUtils",TarUtils.java,2,2,3,2,22,3,11,7,1,0,0,0,,7,0,,,,0,0,7,7,0,0,0,7,,173,28,,,,84,18,54,,,61,,,,,,,,,,55,74,22,,,52,,,,,,,,6,6,7,6,,1,3,,0,0,0,73,20,20,23,14
+Public Static Method,"org.apache.tools.tar.TarUtils.computeCheckSum",TarUtils.java,,,,,,,,,,,,,,,,,,,,,,,,,,,3,15,2,,,,7,2,4,,,6,,,,,,,1,2,0,5,7,3,,,4,,,2,2,2,1,0,,,,,0,,1,0,,,0,86,2,2,2,1
+Public Static Method,"org.apache.tools.tar.TarUtils.getCheckSumOctalBytes",TarUtils.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,16,2,,,,6,1,4,,,8,,,,,,,3,1,0,4,5,1,,,4,,,1,1,1,1,0,,,,,0,,0,0,,,1,33,1,1,1,1
+Public Static Method,"org.apache.tools.tar.TarUtils.getLongOctalBytes",TarUtils.java,,,,,,,,,,,,,,,,,,,,,,,,,,,5,16,2,,,,6,2,4,,,8,,,,,,,3,1,0,4,5,2,,,3,,,1,1,1,1,0,,,,,0,,0,0,,,1,33,1,1,1,1
+Public Static Method,"org.apache.tools.tar.TarUtils.getNameBytes",TarUtils.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,21,3,,,,10,2,5,,,8,,,,,,,4,4,1,8,10,2,,,8,,,3,3,4,1,0,,,,,0,,1,0,,,0,80,3,3,4,1
+Public Static Method,"org.apache.tools.tar.TarUtils.getOctalBytes",TarUtils.java,,,,,,,,,,,,,,,,,,,,,,,,,,,6,33,4,,,,21,3,16,,,8,,,,,,,2,6,1,16,19,4,,,15,,,4,4,5,1,1,,,,,0,,2,0,,,0,38,4,4,5,1
+Public Static Method,"org.apache.tools.tar.TarUtils.parseName",TarUtils.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,22,3,,,,11,3,7,,,8,,,,,,,2,3,0,7,10,4,,,6,,,3,3,3,3,2,,,,,2,,2,2,,,0,73,3,3,3,3
+Public Static Method,"org.apache.tools.tar.TarUtils.parseOctal",TarUtils.java,,,,,,,,,,,,,,,,,,,,,,,,,,,4,35,5,,,,21,4,14,,,9,,,,,,,1,11,1,11,17,5,,,12,,,6,6,7,6,8,,,,,8,,3,8,,,0,43,6,6,7,6

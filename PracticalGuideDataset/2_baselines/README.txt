@@ -1,0 +1,1 @@
+In this dataset, stratified k-fold has its k=5 since the amount of label-1 isn't enought to split it into 10 folds in train set.
